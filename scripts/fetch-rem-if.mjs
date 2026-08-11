@@ -6,6 +6,8 @@ const PUBLISHED_BASE =
 const HOST = "https://teedoc.github.io/re0-web-teedoc";
 const RAW_BASE =
   "https://raw.githubusercontent.com/teedoc/re0-web-teedoc/master/books/re0/ch/chapter099/if/06/";
+const EX_RAW_BASE =
+  "https://raw.githubusercontent.com/teedoc/re0-web-teedoc/master/books/re0/ch/";
 
 async function getText(url) {
   const res = await fetch(url, {
@@ -38,6 +40,45 @@ if (chapterLinks.length === 0) {
   process.exit(1);
 }
 
+const EXTRAS = [
+  {
+    number: "EX01",
+    title: "断章 『菜月・雷姆』",
+    file: "ex01.md",
+    source: "chapter030/87.md",
+  },
+  {
+    number: "EX02",
+    title: "『祝福日 Ex：雷姆的生日派对』",
+    file: "ex02.md",
+    source: "chapter099/special/02.md",
+  },
+  {
+    number: "EX03",
+    title: "『为交错的异世界献上联动生活 雷姆篇』",
+    file: "ex03.md",
+    source: "chapter099/special/04.md",
+  },
+  {
+    number: "EX04",
+    title: "『雷姆人生最美好的日子』",
+    file: "ex04.md",
+    source: "chapter099/special/22.md",
+  },
+  {
+    number: "EX05",
+    title: "『贝亚特丽斯和雷姆的侍奉很头疼』",
+    file: "ex05.md",
+    source: "chapter099/special/26.md",
+  },
+  {
+    number: "EX06",
+    title: "『雷姆极为平凡而幸福的一天』",
+    file: "ex06.md",
+    source: "chapter099/short05/03.md",
+  },
+];
+
 const dir = path.join(process.cwd(), "data", "resources", "rem-if");
 const chaptersDir = path.join(dir, "chapters");
 fs.mkdirSync(chaptersDir, { recursive: true });
@@ -48,6 +89,12 @@ for (const ch of chapterLinks) {
   console.log(`fetched ${ch.file} ${ch.title} (${md.length} chars)`);
 }
 
+for (const ex of EXTRAS) {
+  const md = rewriteImages(await getText(`${EX_RAW_BASE}${ex.source}`));
+  fs.writeFileSync(path.join(chaptersDir, ex.file), md, "utf8");
+  console.log(`fetched ${ex.file} ${ex.title} (${md.length} chars)`);
+}
+
 const meta = {
   id: "rem-if",
   number: "001",
@@ -56,11 +103,19 @@ const meta = {
   cover: "/resources/rem-if-cover.jpg",
   source: PUBLISHED_BASE,
   description:
-    "《Re:Zero》官方 IF 线之一「怠惰线」：如果菜月昴在第三章选择与蕾姆私奔逃往卡拉拉基，两个人从零开始经营小家的故事。",
-  chapters: chapterLinks.map((ch) => ({
-    file: ch.file,
-    title: ch.title,
-  })),
+    "《Re:Zero》官方 IF 线之一「怠惰线」：如果菜月昴在第三章选择与蕾姆私奔逃往卡拉拉基，两个人从零开始经营小家的故事。正篇 9 章，另附 6 篇蕾姆短篇特典（EX01-EX06）。",
+  chapters: [
+    ...chapterLinks.map((ch, i) => ({
+      number: String(i + 1).padStart(2, "0"),
+      file: ch.file,
+      title: ch.title,
+    })),
+    ...EXTRAS.map((ex) => ({
+      number: ex.number,
+      file: ex.file,
+      title: ex.title,
+    })),
+  ],
 };
 
 fs.writeFileSync(path.join(dir, "meta.json"), JSON.stringify(meta, null, 2), "utf8");

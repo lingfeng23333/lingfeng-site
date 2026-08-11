@@ -2,6 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 
 export interface ResourceChapter {
+  number: string;
   file: string;
   title: string;
 }

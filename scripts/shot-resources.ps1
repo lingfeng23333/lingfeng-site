@@ -17,7 +17,8 @@ try {
   $edge = "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
   $targets = @(
     @{ Path = "/resources"; Name = "resources"; Height = 1000 },
-    @{ Path = "/resources/rem-if/01"; Name = "resource-chapter"; Height = 2600 }
+    @{ Path = "/resources/rem-if"; Name = "resource-overview"; Height = 1700 },
+    @{ Path = "/resources/rem-if/ex01"; Name = "resource-chapter"; Height = 2600 }
   )
   foreach ($t in $targets) {
     $out = Join-Path $dir ($t.Name + ".png")

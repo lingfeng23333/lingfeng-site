@@ -54,7 +54,7 @@ export default async function ChapterPage({
         </div>
 
         <p className="mt-4 text-xs font-medium text-accent-600">
-          第 {String(index + 1).padStart(2, "0")} 章 /{" "}
+          {meta.chapters[index].number} /{" "}
           {String(meta.chapters.length).padStart(2, "0")}
         </p>
         <h1 className="mt-1 font-display text-2xl font-bold text-ink-900 sm:text-3xl">

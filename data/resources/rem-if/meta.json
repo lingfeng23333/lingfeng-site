@@ -5,43 +5,82 @@
   "subtitle": "怠惰 IF 线 · 长月达平",
   "cover": "/resources/rem-if-cover.jpg",
   "source": "https://teedoc.github.io/re0-web-teedoc/gitbook/book/markdown/ch/chapter099/if/06/",
-  "description": "《Re:Zero》官方 IF 线之一「怠惰线」：如果菜月昴在第三章选择与蕾姆私奔逃往卡拉拉基，两个人从零开始经营小家的故事。",
+  "description": "《Re:Zero》官方 IF 线之一「怠惰线」：如果菜月昴在第三章选择与蕾姆私奔逃往卡拉拉基，两个人从零开始经营小家的故事。正篇 9 章，另附 6 篇蕾姆短篇特典（EX01-EX06）。",
   "chapters": [
     {
+      "number": "01",
       "file": "00.md",
       "title": "序章　『启程』"
     },
     {
+      "number": "02",
       "file": "01.md",
       "title": "『两个月』"
     },
     {
+      "number": "03",
       "file": "02.md",
       "title": "『三个月』　上篇"
     },
     {
+      "number": "04",
       "file": "03.md",
       "title": "『三个月』　下篇"
     },
     {
+      "number": "05",
       "file": "04.md",
       "title": "『六个月』"
     },
     {
+      "number": "06",
       "file": "05.md",
       "title": "幕间　『忌日』"
     },
     {
+      "number": "07",
       "file": "06.md",
       "title": "『十个月』"
     },
     {
+      "number": "08",
       "file": "07.md",
       "title": "『产月』"
     },
     {
+      "number": "09",
       "file": "08.md",
       "title": "终章　『纪念日』"
+    },
+    {
+      "number": "EX01",
+      "file": "ex01.md",
+      "title": "断章 『菜月・雷姆』"
+    },
+    {
+      "number": "EX02",
+      "file": "ex02.md",
+      "title": "『祝福日 Ex：雷姆的生日派对』"
+    },
+    {
+      "number": "EX03",
+      "file": "ex03.md",
+      "title": "『为交错的异世界献上联动生活 雷姆篇』"
+    },
+    {
+      "number": "EX04",
+      "file": "ex04.md",
+      "title": "『雷姆人生最美好的日子』"
+    },
+    {
+      "number": "EX05",
+      "file": "ex05.md",
+      "title": "『贝亚特丽斯和雷姆的侍奉很头疼』"
+    },
+    {
+      "number": "EX06",
+      "file": "ex06.md",
+      "title": "『雷姆极为平凡而幸福的一天』"
     }
   ]
 }

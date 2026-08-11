@@ -68,14 +68,14 @@ export default async function ResourcePage({
           目录（{resource.chapters.length} 章）
         </h2>
         <ol className="mt-4 divide-y divide-paper-300">
-          {resource.chapters.map((chapter, i) => (
+          {resource.chapters.map((chapter) => (
             <li key={chapter.file}>
               <Link
                 href={`/resources/${resource.id}/${chapter.file.replace(/\.md$/, "")}`}
                 className="flex items-baseline gap-3 py-3 transition hover:text-accent-600"
               >
                 <span className="w-8 shrink-0 text-sm font-bold text-accent-500">
-                  {String(i + 1).padStart(2, "0")}
+                  {chapter.number}
                 </span>
                 <span className="text-sm text-ink-800">{chapter.title}</span>
               </Link>
