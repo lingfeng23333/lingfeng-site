@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer className="mt-12 border-t border-paper-300 py-8">
       <div className="mx-auto flex w-full max-w-5xl flex-col items-center gap-3 px-4 text-sm text-ink-400 sm:flex-row sm:justify-between sm:px-6">
-        <p>© {new Date().getFullYear()} 凌风 · 追番、随笔与碎碎念</p>
+        <p>© {new Date().getFullYear()} 凌风 · 风起之地</p>
         <div className="flex items-center gap-4">
           <a
             href="https://bgm.tv/user/966130"

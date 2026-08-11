@@ -25,7 +25,7 @@ export default function Header() {
           href="/"
           className="font-display text-lg font-bold tracking-wide text-ink-900"
         >
-          凌风<span className="text-gradient">的个人站</span>
+          风起<span className="text-gradient">之地</span>
         </Link>
         <nav className="flex items-center gap-0.5 sm:gap-1">
           {nav.map((item) => (

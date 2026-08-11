@@ -28,9 +28,9 @@ export async function GET() {
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>凌风的个人站</title>
+    <title>风起之地</title>
     <link>${siteUrl}</link>
-    <description>追番、分集感想与日常随笔。</description>
+    <description>风起之地——一切的起始点。凌风的个人站：追番、分集感想与日常随笔。</description>
 ${items}
   </channel>
 </rss>`;

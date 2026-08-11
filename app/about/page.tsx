@@ -5,7 +5,7 @@ import { formatDateTime } from "@/lib/format";
 
 export const metadata: Metadata = {
   title: "关于",
-  description: "关于凌风的个人站。",
+  description: "关于风起之地与凌风。",
 };
 
 export default function AboutPage() {

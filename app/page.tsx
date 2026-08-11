@@ -20,10 +20,13 @@ export default function Home() {
           Lingfeng&apos;s Site
         </p>
         <h1 className="mt-3 font-display text-3xl font-bold text-ink-900 sm:text-4xl">
-          凌风<span className="text-gradient">的个人站</span>
+          风起<span className="text-gradient">之地</span>
         </h1>
+        <p className="mt-2 font-display text-xl text-accent-600">
+          一切的起始点
+        </p>
         <p className="mt-3 max-w-xl leading-7 text-ink-700">
-          追番 · 分集感想 · 日常随笔。
+          凌风的个人站 · 追番、分集感想与日常随笔。
           <br />
           追番数据由 Bangumi 自动同步，最后同步于{" "}
           {formatDateTime(lastSyncAt)}。

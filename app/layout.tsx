@@ -6,13 +6,14 @@ import Wallpaper from "@/components/Wallpaper";
 
 export const metadata: Metadata = {
   title: {
-    default: "凌风的个人站",
-    template: "%s · 凌风的个人站",
+    default: "风起之地",
+    template: "%s · 风起之地",
   },
-  description: "凌风的个人站：追番、分集感想与日常随笔。",
+  description:
+    "风起之地——一切的起始点。凌风的个人站：追番、分集感想与日常随笔。",
   openGraph: {
-    title: "凌风的个人站",
-    description: "追番、分集感想与日常随笔。",
+    title: "风起之地",
+    description: "一切的起始点 · 凌风的个人站：追番、分集感想与日常随笔。",
     type: "website",
   },
 };
