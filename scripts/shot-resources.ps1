@@ -19,8 +19,8 @@ try {
     @{ Path = "/resources"; Name = "resources"; Height = 1000 },
     @{ Path = "/resources/rem-if"; Name = "resource-overview"; Height = 1700 },
     @{ Path = "/resources/rem-if/ex01"; Name = "resource-chapter"; Height = 2600 },
-    @{ Path = "/resources/hakomari"; Name = "hakomari-overview"; Height = 1400 },
-    @{ Path = "/resources/hakomari/01"; Name = "hakomari-chapter"; Height = 3600 }
+    @{ Path = "/resources/hakomari"; Name = "hakomari-overview"; Height = 5200 },
+    @{ Path = "/resources/hakomari/12"; Name = "hakomari-chapter"; Height = 2400 }
   )
   foreach ($t in $targets) {
     $out = Join-Path $dir ($t.Name + ".png")
