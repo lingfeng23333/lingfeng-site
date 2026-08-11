@@ -54,6 +54,14 @@ body {
   box-shadow: 0 10px 34px rgba(43, 42, 52, 0.06);
 }
 
+/* 阅读面板：接近纯白，保证文字在背景图上清晰 */
+.paper-panel {
+  background: rgba(255, 255, 255, 0.95);
+  border: 1px solid rgba(43, 42, 52, 0.08);
+  backdrop-filter: blur(20px);
+  box-shadow: 0 10px 34px rgba(43, 42, 52, 0.08);
+}
+
 /* 蕾姆蓝歌词 / 引用块 */
 .prose blockquote {
   border-left-color: #5aa7d6;

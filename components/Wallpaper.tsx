@@ -77,7 +77,7 @@ export default function Wallpaper() {
       ) : null}
       <div
         aria-hidden
-        className="fixed inset-0 -z-10 bg-gradient-to-b from-white/55 via-white/35 to-white/80"
+        className="fixed inset-0 -z-10 bg-gradient-to-b from-white/65 via-white/45 to-white/80 backdrop-blur-[2px]"
       />
       {bg?.url && bg.credit ? (
         <p className="fixed bottom-3 right-4 z-30 text-xs text-ink-500">

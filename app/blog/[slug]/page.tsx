@@ -48,7 +48,7 @@ export default async function PostPage({
   );
 
   return (
-    <article className="mx-auto max-w-3xl">
+    <article className="paper-panel mx-auto max-w-3xl rounded-3xl p-6 sm:p-10">
       <header>
         {subject ? (
           <Link
