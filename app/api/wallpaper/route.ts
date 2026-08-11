@@ -4,6 +4,13 @@ import path from "node:path";
 
 export const dynamic = "force-dynamic";
 
+const recentUrls: string[] = [];
+
+function remember(url: string) {
+  recentUrls.push(url);
+  if (recentUrls.length > 12) recentUrls.shift();
+}
+
 function pickLocalWallpaper(): string | null {
   const dir = path.join(process.cwd(), "public", "wallpapers");
   try {
@@ -71,7 +78,7 @@ const REMOTE_SOURCES: { build: () => string }[] = [
 async function fetchWallhaven(): Promise<WallpaperResult | null> {
   try {
     const res = await fetch(
-      "https://wallhaven.cc/api/v1/search?categories=010&purity=100&sorting=random&atleast=1920x1080&ratios=landscape",
+      `https://wallhaven.cc/api/v1/search?categories=010&purity=100&sorting=random&seed=${Math.floor(Math.random() * 1e6)}&atleast=1920x1080&ratios=landscape`,
       {
         headers: { Accept: "application/json" },
         signal: AbortSignal.timeout(6000),
@@ -102,7 +109,7 @@ interface PixivItem {
 async function fetchPixivLandscape(): Promise<WallpaperResult | null> {
   try {
     const url =
-      "https://api.lolicon.app/setu/v2?r18=0&num=10&size=regular&tag=" +
+      "https://api.lolicon.app/setu/v2?r18=0&num=20&size=regular&tag=" +
       encodeURIComponent("壁紙");
     const res = await fetch(url, {
       headers: { Accept: "application/json" },
@@ -138,7 +145,10 @@ export async function GET() {
   const envUrl = process.env.WALLPAPER_API;
   if (envUrl) {
     const hit = await fetchRemoteWallpaper(envUrl);
-    if (hit) return NextResponse.json(hit);
+    if (hit && !recentUrls.includes(hit.url)) {
+      remember(hit.url);
+      return NextResponse.json(hit);
+    }
   }
 
   const candidates: Promise<WallpaperResult>[] = [
@@ -155,8 +165,22 @@ export async function GET() {
     ),
   ];
 
+  for (let i = candidates.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [candidates[i], candidates[j]] = [candidates[j], candidates[i]];
+  }
+
+  const deduped = candidates.map((p) =>
+    p.then((r) =>
+      recentUrls.includes(r.url)
+        ? Promise.reject(new Error("recent"))
+        : r,
+    ),
+  );
+
   try {
-    const hit = await Promise.any(candidates);
+    const hit = await Promise.any(deduped);
+    remember(hit.url);
     return NextResponse.json(hit);
   } catch {
     // 所有远程源都失败时走本地兜底
