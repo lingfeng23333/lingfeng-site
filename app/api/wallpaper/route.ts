@@ -92,6 +92,48 @@ async function fetchWallhaven(): Promise<WallpaperResult | null> {
   }
 }
 
+interface PixivItem {
+  width?: number;
+  height?: number;
+  author?: string;
+  urls?: { regular?: string };
+}
+
+async function fetchPixivLandscape(): Promise<WallpaperResult | null> {
+  try {
+    const url =
+      "https://api.lolicon.app/setu/v2?r18=0&num=10&size=regular&tag=" +
+      encodeURIComponent("壁紙");
+    const res = await fetch(url, {
+      headers: { Accept: "application/json" },
+      signal: AbortSignal.timeout(6000),
+    });
+    if (!res.ok) return null;
+    const data = (await res.json().catch(() => null)) as {
+      data?: PixivItem[];
+    } | null;
+    const items = Array.isArray(data?.data) ? data.data : [];
+    const landscape = items.filter(
+      (d) =>
+        d?.width &&
+        d?.height &&
+        d.width > d.height &&
+        d.width / d.height >= 1.3,
+    );
+    const pick =
+      landscape.length > 0
+        ? landscape[Math.floor(Math.random() * landscape.length)]
+        : null;
+    if (!pick?.urls?.regular) return null;
+    return {
+      url: pick.urls.regular,
+      credit: pick.author ? `Pixiv · ${pick.author}` : "Pixiv",
+    };
+  } catch {
+    return null;
+  }
+}
+
 export async function GET() {
   const envUrl = process.env.WALLPAPER_API;
   if (envUrl) {
@@ -100,6 +142,9 @@ export async function GET() {
   }
 
   const candidates: Promise<WallpaperResult>[] = [
+    fetchPixivLandscape().then((r) =>
+      r ? r : Promise.reject(new Error("empty")),
+    ),
     fetchWallhaven().then((r) =>
       r ? r : Promise.reject(new Error("empty")),
     ),

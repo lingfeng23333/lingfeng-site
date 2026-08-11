@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import PostCard from "@/components/PostCard";
 import { getAllPosts } from "@/lib/posts";
 
@@ -12,7 +13,15 @@ export default function BlogPage() {
 
   return (
     <div>
-      <h1 className="font-display text-2xl font-bold text-ink-900">博客</h1>
+      <div className="flex flex-wrap items-center justify-between gap-3">
+        <h1 className="font-display text-2xl font-bold text-ink-900">博客</h1>
+        <Link
+          href="/write"
+          className="rounded-full border border-paper-300 px-4 py-1.5 text-sm text-ink-700 transition hover:border-accent-500/50 hover:text-accent-700"
+        >
+          写作台 →
+        </Link>
+      </div>
       <p className="mt-2 text-sm text-ink-500">
         分集感想与日常随笔，共 {posts.length} 篇。
       </p>
