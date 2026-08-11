@@ -20,7 +20,8 @@ try {
     @{ Path = "/"; Name = "home" },
     @{ Path = "/bangumi"; Name = "bangumi" },
     @{ Path = "/blog/bingguo-ep4"; Name = "post" },
-    @{ Path = "/bangumi/27364"; Name = "subject" }
+    @{ Path = "/bangumi/27364"; Name = "subject" },
+    @{ Path = "/stats"; Name = "stats" }
   )
 
   foreach ($t in $targets) {
@@ -50,7 +51,10 @@ try {
     @{ Path = "/bangumi/27364"; Text = "冰菓" },
     @{ Path = "/blog/bingguo-ep4"; Text = "辉煌光荣的古籍部之昔日" },
     @{ Path = "/blog/bingguo-ep4"; Text = "剧透" },
-    @{ Path = "/about"; Text = "本站是干嘛的" }
+    @{ Path = "/about"; Text = "本站是干嘛的" },
+    @{ Path = "/stats"; Text = "成就墙" },
+    @{ Path = "/stats"; Text = "最近 12 周" },
+    @{ Path = "/stats"; Text = "最神速的一集" }
   )
 
   foreach ($c in $checks) {

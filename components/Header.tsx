@@ -7,6 +7,7 @@ const nav = [
   { href: "/", label: "首页" },
   { href: "/blog", label: "博客" },
   { href: "/bangumi", label: "追番" },
+  { href: "/stats", label: "统计" },
   { href: "/tags", label: "标签" },
   { href: "/archives", label: "归档" },
   { href: "/about", label: "关于" },

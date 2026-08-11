@@ -44,7 +44,9 @@
       "name": "コレカラ/キヅイテ",
       "nameCn": "从此以后/快点发现",
       "airdate": "2015-04-10",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1470,
+      "watchedAt": 0
     },
     {
       "id": 512843,
@@ -54,7 +56,9 @@
       "name": "インネン/ショウブ",
       "nameCn": "命中注定/一决胜负",
       "airdate": "2015-04-17",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1452,
+      "watchedAt": 0
     },
     {
       "id": 512844,
@@ -64,7 +68,9 @@
       "name": "ヒツヨウ",
       "nameCn": "必要存在",
       "airdate": "2015-04-24",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1470,
+      "watchedAt": 0
     },
     {
       "id": 512845,
@@ -74,7 +80,9 @@
       "name": "ハハオヤ",
       "nameCn": "母亲",
       "airdate": "2015-05-01",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1470,
+      "watchedAt": 0
     },
     {
       "id": 512846,
@@ -84,7 +92,9 @@
       "name": "オシエテ/ラクサマ",
       "nameCn": "教教我吧/乐大人",
       "airdate": "2015-05-08",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1452,
+      "watchedAt": 0
     },
     {
       "id": 512847,
@@ -94,7 +104,9 @@
       "name": "オイシイ",
       "nameCn": "美味",
       "airdate": "2015-05-15",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1470,
+      "watchedAt": 0
     },
     {
       "id": 512848,
@@ -104,7 +116,9 @@
       "name": "イモウト",
       "nameCn": "妹妹",
       "airdate": "2015-05-22",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1451,
+      "watchedAt": 0
     },
     {
       "id": 512849,
@@ -114,7 +128,9 @@
       "name": "マジカルパティシエ小咲ちゃん!!/ハタラケ",
       "nameCn": "魔法糕点师小咲!!/工作",
       "airdate": "2015-05-29",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1469,
+      "watchedAt": 0
     },
     {
       "id": 512850,
@@ -124,7 +140,9 @@
       "name": "オソウジ／ オミマウ",
       "nameCn": "打扫／探病",
       "airdate": "2015-06-05",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 512851,
@@ -134,7 +152,9 @@
       "name": "オウエン",
       "nameCn": "支持",
       "airdate": "2015-06-12",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 512852,
@@ -144,7 +164,9 @@
       "name": "ヤセタイ／ オハヨウ",
       "nameCn": "想瘦身／ 早安",
       "airdate": "2015-06-19",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1452,
+      "watchedAt": 0
     },
     {
       "id": 512853,
@@ -154,7 +176,9 @@
       "name": "ソウサク／ オタメシ",
       "nameCn": "寻找／ 尝试",
       "airdate": "2015-06-26",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1452,
+      "watchedAt": 0
     }
   ]
 }

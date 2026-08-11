@@ -44,7 +44,9 @@
       "name": "超平和バスターズ",
       "nameCn": "超和平busters",
       "airdate": "2011-04-14",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1370,
+      "watchedAt": 0
     },
     {
       "id": 84693,
@@ -54,7 +56,9 @@
       "name": "ゆうしゃめんま",
       "nameCn": "勇者面码",
       "airdate": "2011-04-21",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1370,
+      "watchedAt": 0
     },
     {
       "id": 84694,
@@ -64,7 +68,9 @@
       "name": "めんまを探そうの会",
       "nameCn": "寻找面码委员会",
       "airdate": "2011-04-28",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1370,
+      "watchedAt": 0
     },
     {
       "id": 84695,
@@ -74,7 +80,9 @@
       "name": "白の、リボンのワンピース",
       "nameCn": "白色的，系丝带的连身裙",
       "airdate": "2011-05-05",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1370,
+      "watchedAt": 0
     },
     {
       "id": 84696,
@@ -84,7 +92,9 @@
       "name": "トンネル",
       "nameCn": "隧道",
       "airdate": "2011-05-12",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1370,
+      "watchedAt": 0
     },
     {
       "id": 84697,
@@ -94,7 +104,9 @@
       "name": "わすれてわすれないで",
       "nameCn": "忘记不忘记",
       "airdate": "2011-05-19",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1370,
+      "watchedAt": 0
     },
     {
       "id": 84698,
@@ -104,7 +116,9 @@
       "name": "ほんとのお願い",
       "nameCn": "真正的愿望",
       "airdate": "2011-05-26",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1370,
+      "watchedAt": 0
     },
     {
       "id": 84699,
@@ -114,7 +128,9 @@
       "name": "I wonder",
       "nameCn": "I wonder",
       "airdate": "2011-06-02",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1370,
+      "watchedAt": 0
     },
     {
       "id": 84700,
@@ -124,7 +140,9 @@
       "name": "みんなとめんま",
       "nameCn": "大家和面玛",
       "airdate": "2011-06-09",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1370,
+      "watchedAt": 0
     },
     {
       "id": 84701,
@@ -134,7 +152,9 @@
       "name": "花火",
       "nameCn": "烟花",
       "airdate": "2011-06-16",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1370,
+      "watchedAt": 0
     },
     {
       "id": 84702,
@@ -144,7 +164,9 @@
       "name": "あの夏に咲く花",
       "nameCn": "那个夏天绽放的花",
       "airdate": "2011-06-23",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1370,
+      "watchedAt": 0
     }
   ]
 }

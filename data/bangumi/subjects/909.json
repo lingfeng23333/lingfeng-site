@@ -44,7 +44,9 @@
       "name": "虎と竜",
       "nameCn": "龙与虎",
       "airdate": "2008-10-01",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1434,
+      "watchedAt": 0
     },
     {
       "id": 1709,
@@ -54,7 +56,9 @@
       "name": "竜児と大河",
       "nameCn": "龙儿与大河",
       "airdate": "2008-10-08",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1435,
+      "watchedAt": 0
     },
     {
       "id": 1710,
@@ -64,7 +68,9 @@
       "name": "君の歌",
       "nameCn": "你的歌",
       "airdate": "2008-10-15",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1434,
+      "watchedAt": 0
     },
     {
       "id": 1711,
@@ -74,7 +80,9 @@
       "name": "あのときの顔",
       "nameCn": "那时候的表情",
       "airdate": "2008-10-22",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1435,
+      "watchedAt": 0
     },
     {
       "id": 1712,
@@ -84,7 +92,9 @@
       "name": "かわしまあみ",
       "nameCn": "川嶋亚美",
       "airdate": "2008-10-29",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1434,
+      "watchedAt": 0
     },
     {
       "id": 1713,
@@ -94,7 +104,9 @@
       "name": "ほんとの自分",
       "nameCn": "真正的自己",
       "airdate": "2008-11-05",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1434,
+      "watchedAt": 0
     },
     {
       "id": 1714,
@@ -104,7 +116,9 @@
       "name": "プールびらき",
       "nameCn": "泳池开放",
       "airdate": "2008-11-12",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1435,
+      "watchedAt": 0
     },
     {
       "id": 1715,
@@ -114,7 +128,9 @@
       "name": "だれのため",
       "nameCn": "为谁而战",
       "airdate": "2008-11-19",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1435,
+      "watchedAt": 0
     },
     {
       "id": 1716,
@@ -124,7 +140,9 @@
       "name": "海にいこうと君は",
       "nameCn": "与你共赴海滩",
       "airdate": "2008-11-26",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1434,
+      "watchedAt": 0
     },
     {
       "id": 1717,
@@ -134,7 +152,9 @@
       "name": "花火",
       "nameCn": "烟花",
       "airdate": "2008-12-03",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1435,
+      "watchedAt": 0
     },
     {
       "id": 1718,
@@ -144,7 +164,9 @@
       "name": "大橋高校文化祭【前編】",
       "nameCn": "大桥高中文化祭【前编】",
       "airdate": "2008-12-10",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1434,
+      "watchedAt": 0
     },
     {
       "id": 1719,
@@ -154,7 +176,9 @@
       "name": "大橋高校文化祭【中編】",
       "nameCn": "大桥高中文化祭【中编】",
       "airdate": "2008-12-17",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1434,
+      "watchedAt": 0
     },
     {
       "id": 1720,
@@ -164,7 +188,9 @@
       "name": "大橋高校文化祭【後編】",
       "nameCn": "大桥高中文化祭【后编】",
       "airdate": "2008-12-24",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1434,
+      "watchedAt": 0
     },
     {
       "id": 1721,
@@ -174,7 +200,9 @@
       "name": "しあわせの手乗りタイガー",
       "nameCn": "幸福的掌中老虎",
       "airdate": "2009-01-07",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1505,
+      "watchedAt": 0
     },
     {
       "id": 1722,
@@ -184,7 +212,9 @@
       "name": "星は、遠く",
       "nameCn": "星星、好遥远",
       "airdate": "2009-01-14",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1505,
+      "watchedAt": 0
     },
     {
       "id": 1026,
@@ -194,7 +224,9 @@
       "name": "踏み出す一歩",
       "nameCn": "踏出的一步",
       "airdate": "2009-01-21",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1505,
+      "watchedAt": 0
     },
     {
       "id": 1723,
@@ -204,7 +236,9 @@
       "name": "クリスマスに水星は逆行する",
       "nameCn": "圣诞节水星将逆转",
       "airdate": "2009-01-28",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1505,
+      "watchedAt": 0
     },
     {
       "id": 1724,
@@ -214,7 +248,9 @@
       "name": "もみの木の下で",
       "nameCn": "在圣诞树之下",
       "airdate": "2009-02-04",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1505,
+      "watchedAt": 0
     },
     {
       "id": 1725,
@@ -224,7 +260,9 @@
       "name": "聖夜祭",
       "nameCn": "圣诞派对",
       "airdate": "2009-02-11",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1505,
+      "watchedAt": 0
     },
     {
       "id": 1726,
@@ -234,7 +272,9 @@
       "name": "ずっと、このまま",
       "nameCn": "一直，就这样",
       "airdate": "2009-02-18",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1505,
+      "watchedAt": 0
     },
     {
       "id": 1727,
@@ -244,7 +284,9 @@
       "name": "どうしたって",
       "nameCn": "无论怎么做",
       "airdate": "2009-02-25",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1505,
+      "watchedAt": 0
     },
     {
       "id": 1728,
@@ -254,7 +296,9 @@
       "name": "君のいる景色",
       "nameCn": "有你的景色",
       "airdate": "2009-03-04",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1505,
+      "watchedAt": 0
     },
     {
       "id": 1729,
@@ -264,7 +308,9 @@
       "name": "進むべき道",
       "nameCn": "应该前进的道路",
       "airdate": "2009-03-11",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1505,
+      "watchedAt": 0
     },
     {
       "id": 1730,
@@ -274,7 +320,9 @@
       "name": "告白",
       "nameCn": "告白",
       "airdate": "2009-03-18",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1505,
+      "watchedAt": 0
     },
     {
       "id": 2709,
@@ -284,7 +332,9 @@
       "name": "とらドラ！",
       "nameCn": "龙与虎！",
       "airdate": "2009-03-25",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1505,
+      "watchedAt": 0
     }
   ]
 }

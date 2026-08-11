@@ -44,7 +44,9 @@
       "name": "第1話",
       "nameCn": "",
       "airdate": "2026-04-10",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1425,
+      "watchedAt": 0
     },
     {
       "id": 1655877,
@@ -54,7 +56,9 @@
       "name": "第2話",
       "nameCn": "",
       "airdate": "2026-04-17",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1425,
+      "watchedAt": 0
     },
     {
       "id": 1655878,
@@ -64,7 +68,9 @@
       "name": "第3話",
       "nameCn": "",
       "airdate": "2026-04-24",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1425,
+      "watchedAt": 0
     },
     {
       "id": 1655879,
@@ -74,7 +80,9 @@
       "name": "第4話",
       "nameCn": "",
       "airdate": "2026-05-01",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1425,
+      "watchedAt": 0
     },
     {
       "id": 1655880,
@@ -84,7 +92,9 @@
       "name": "第5話",
       "nameCn": "",
       "airdate": "2026-05-08",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1425,
+      "watchedAt": 0
     },
     {
       "id": 1655881,
@@ -94,7 +104,9 @@
       "name": "第6話",
       "nameCn": "",
       "airdate": "2026-05-15",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1425,
+      "watchedAt": 0
     },
     {
       "id": 1655882,
@@ -104,7 +116,9 @@
       "name": "第7話",
       "nameCn": "",
       "airdate": "2026-05-22",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1425,
+      "watchedAt": 0
     },
     {
       "id": 1655883,
@@ -114,7 +128,9 @@
       "name": "第8話",
       "nameCn": "",
       "airdate": "2026-05-29",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1425,
+      "watchedAt": 0
     },
     {
       "id": 1655884,
@@ -124,7 +140,9 @@
       "name": "第9話",
       "nameCn": "",
       "airdate": "2026-06-05",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1425,
+      "watchedAt": 0
     },
     {
       "id": 1655885,
@@ -134,7 +152,9 @@
       "name": "第10話",
       "nameCn": "",
       "airdate": "2026-06-12",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1425,
+      "watchedAt": 0
     },
     {
       "id": 1655886,
@@ -144,7 +164,9 @@
       "name": "第11話",
       "nameCn": "",
       "airdate": "2026-06-19",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1425,
+      "watchedAt": 0
     },
     {
       "id": 1655887,
@@ -154,7 +176,9 @@
       "name": "第12話",
       "nameCn": "",
       "airdate": "2026-06-26",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1485,
+      "watchedAt": 0
     }
   ]
 }

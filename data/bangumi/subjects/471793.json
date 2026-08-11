@@ -44,7 +44,9 @@
       "name": "彼（カノ）の名は。",
       "nameCn": "她的名字。",
       "airdate": "2025-01-12",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1394441,
@@ -54,7 +56,9 @@
       "name": "開幕！ 激闘！ 決着！ フードファイトフェスティバル",
       "nameCn": "开幕！ 激斗！ 分出胜负！ 美食战斗嘉年华",
       "airdate": "2025-01-19",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1394442,
@@ -64,7 +68,9 @@
       "name": "メイドさんは見えてる？",
       "nameCn": "女仆看得见吗？",
       "airdate": "2025-01-26",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1394443,
@@ -74,7 +80,9 @@
       "name": "ぬれぬれメイドパーティー",
       "nameCn": "湿湿女仆派对",
       "airdate": "2025-02-02",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1394444,
@@ -84,7 +92,9 @@
       "name": "アスリートは基本ドM",
       "nameCn": "运动员通常是被虐狂",
       "airdate": "2025-02-09",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1394445,
@@ -94,7 +104,9 @@
       "name": "君のホームランに誓う",
       "nameCn": "向你的全垒打发誓",
       "airdate": "2025-02-16",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1394446,
@@ -104,7 +116,9 @@
       "name": "カラオケ・クライシス",
       "nameCn": "卡拉OK·危机",
       "airdate": "2025-02-23",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1394447,
@@ -114,7 +128,9 @@
       "name": "美しきものたち",
       "nameCn": "美丽的东西",
       "airdate": "2025-03-02",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1394448,
@@ -124,7 +140,9 @@
       "name": "髪のみぞ知る世界",
       "nameCn": "只有发知道的世界",
       "airdate": "2025-03-09",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1394449,
@@ -134,7 +152,9 @@
       "name": "かくれんボーイミーツガール",
       "nameCn": "当捉迷藏男孩遇见女孩",
       "airdate": "2025-03-16",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1394450,
@@ -144,7 +164,9 @@
       "name": "失われしツンデレ",
       "nameCn": "失落的傲娇",
       "airdate": "2025-03-23",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1394451,
@@ -154,7 +176,9 @@
       "name": "君のことが大大大大大しゅきな100人の彼女（あと89人）",
       "nameCn": "超超超超超喜欢你的 100个女朋友（还有89人）",
       "airdate": "2025-03-30",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     }
   ]
 }

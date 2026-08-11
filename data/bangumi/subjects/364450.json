@@ -44,7 +44,9 @@
       "name": "Easy does it",
       "nameCn": "慢慢来",
       "airdate": "2022-07-02",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 1111259,
@@ -54,7 +56,9 @@
       "name": "The more the merrier",
       "nameCn": "多多益善",
       "airdate": "2022-07-09",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 1111260,
@@ -64,7 +68,9 @@
       "name": "More haste, less speed",
       "nameCn": "欲速则不达",
       "airdate": "2022-07-16",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 1111261,
@@ -74,7 +80,9 @@
       "name": "Nothing seek, nothing find",
       "nameCn": "无所求则无所获",
       "airdate": "2022-07-23",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 1111262,
@@ -84,7 +92,9 @@
       "name": "So far, so good",
       "nameCn": "目前情况良好",
       "airdate": "2022-07-30",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 1111263,
@@ -94,7 +104,9 @@
       "name": "Opposites attract",
       "nameCn": "不是冤家不聚头",
       "airdate": "2022-08-06",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 1111264,
@@ -104,7 +116,9 @@
       "name": "Time will tell",
       "nameCn": "时间会证明一切",
       "airdate": "2022-08-13",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 1111265,
@@ -114,7 +128,9 @@
       "name": "Another day, another dollar",
       "nameCn": "得过且过",
       "airdate": "2022-08-20",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 1111266,
@@ -124,7 +140,9 @@
       "name": "What’s done is done",
       "nameCn": "无可挽回",
       "airdate": "2022-08-27",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 1111267,
@@ -134,7 +152,9 @@
       "name": "Repay evil with evil",
       "nameCn": "以恶报恶",
       "airdate": "2022-09-03",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 1111268,
@@ -144,7 +164,9 @@
       "name": "Diamond cut diamond",
       "nameCn": "棋逢对手",
       "airdate": "2022-09-10",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 1111269,
@@ -154,7 +176,9 @@
       "name": "Nature versus nurture",
       "nameCn": "先天之才与后天之能",
       "airdate": "2022-09-17",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 1115866,
@@ -164,7 +188,9 @@
       "name": "Recoil of Lycoris",
       "nameCn": "铳动彼岸花",
       "airdate": "2022-09-24",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     }
   ]
 }

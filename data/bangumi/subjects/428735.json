@@ -44,7 +44,9 @@
       "name": "羽丘の不思議ちゃん",
       "nameCn": "羽丘的怪女孩",
       "airdate": "2023-06-29",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1430,
+      "watchedAt": 0
     },
     {
       "id": 1223867,
@@ -54,7 +56,9 @@
       "name": "もう誘わない",
       "nameCn": "不会再邀请了",
       "airdate": "2023-06-29",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1223868,
@@ -64,7 +68,9 @@
       "name": "CRYCHIC",
       "nameCn": "CRYCHIC",
       "airdate": "2023-06-29",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1419,
+      "watchedAt": 0
     },
     {
       "id": 1225915,
@@ -74,7 +80,9 @@
       "name": "一生だよ！？",
       "nameCn": "一辈子哦！？",
       "airdate": "2023-07-06",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1225916,
@@ -84,7 +92,9 @@
       "name": "逃げてない！",
       "nameCn": "我没有逃避！",
       "airdate": "2023-07-13",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1225917,
@@ -94,7 +104,9 @@
       "name": "なんで今更",
       "nameCn": "怎么事到如今",
       "airdate": "2023-07-20",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1225918,
@@ -104,7 +116,9 @@
       "name": "今日のライブが終わっても",
       "nameCn": "就算今天的演唱会结束",
       "airdate": "2023-07-27",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1225919,
@@ -114,7 +128,9 @@
       "name": "どうして",
       "nameCn": "为什么",
       "airdate": "2023-08-03",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1419,
+      "watchedAt": 0
     },
     {
       "id": 1225920,
@@ -124,7 +140,9 @@
       "name": "解散",
       "nameCn": "解散",
       "airdate": "2023-08-10",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1225921,
@@ -134,7 +152,9 @@
       "name": "ずっと迷子",
       "nameCn": "一直迷失着",
       "airdate": "2023-08-17",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1225922,
@@ -144,7 +164,9 @@
       "name": "それでも",
       "nameCn": "即使如此",
       "airdate": "2023-08-24",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1225923,
@@ -154,7 +176,9 @@
       "name": "It’s my go!!!!!",
       "nameCn": "It’s my go!!!!!",
       "airdate": "2023-08-31",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1419,
+      "watchedAt": 0
     },
     {
       "id": 1240250,
@@ -164,7 +188,9 @@
       "name": "信じられるのは我が身ひとつ",
       "nameCn": "唯一能相信的只有自己",
       "airdate": "2023-09-14",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1421,
+      "watchedAt": 0
     }
   ]
 }

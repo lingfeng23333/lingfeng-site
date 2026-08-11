@@ -9,7 +9,7 @@
   "rating": {
     "score": 8,
     "rank": 221,
-    "total": 20066
+    "total": 20067
   },
   "summary": "“我对普通的人类没有兴趣。你们之中要是有外星人、未来人、异世界人或者超能力者的话，就尽管来找我吧！”这是围绕着被天上天下唯我独尊超积极任性女孩凉宫春日所指挥的阿虚和SOS团而展开的微妙的非日常校园故事。\r\n或者说本作是：某女高中生想要和外星人、未来人、超能力者一起玩，于是就和他们（外加附赠的一个普通人）一起玩了的故事。\r\n\r\n2009年4月至10月，动画再次播放，这次播放依故事发生时序，在14集旧作加上14集新作，共28集。",
   "tags": [
@@ -44,7 +44,9 @@
       "name": "涼宮ハルヒの憂鬱 I",
       "nameCn": "涼宮春日的憂鬱 I",
       "airdate": "2009-04-02",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1484,
+      "watchedAt": 1770797707
     },
     {
       "id": 6298,
@@ -54,7 +56,9 @@
       "name": "涼宮ハルヒの憂鬱 II",
       "nameCn": "涼宮春日的憂鬱 II",
       "airdate": "2009-04-09",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1407,
+      "watchedAt": 1770913020
     },
     {
       "id": 6299,
@@ -64,7 +68,9 @@
       "name": "涼宮ハルヒの憂鬱 III",
       "nameCn": "涼宮春日的憂鬱 III",
       "airdate": "2009-04-16",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1482,
+      "watchedAt": 1774193584
     },
     {
       "id": 6300,
@@ -74,7 +80,9 @@
       "name": "涼宮ハルヒの憂鬱 IV",
       "nameCn": "涼宮春日的憂鬱 IV",
       "airdate": "2009-04-23",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1436,
+      "watchedAt": 1774195450
     },
     {
       "id": 6301,
@@ -84,7 +92,9 @@
       "name": "涼宮ハルヒの憂鬱 V",
       "nameCn": "涼宮春日的憂鬱 V",
       "airdate": "2009-04-30",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1458,
+      "watchedAt": 1774368692
     },
     {
       "id": 6302,
@@ -94,7 +104,9 @@
       "name": "涼宮ハルヒの憂鬱 VI",
       "nameCn": "涼宮春日的憂鬱 VI",
       "airdate": "2009-05-07",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1422,
+      "watchedAt": 1774403015
     },
     {
       "id": 6303,
@@ -104,7 +116,9 @@
       "name": "涼宮ハルヒの退屈",
       "nameCn": "涼宮春日的煩悶",
       "airdate": "2009-05-14",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1407,
+      "watchedAt": 1774424735
     },
     {
       "id": 6304,
@@ -114,7 +128,9 @@
       "name": "笹の葉ラプソディ",
       "nameCn": "竹葉狂想曲(09年)",
       "airdate": "2009-05-21",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1482,
+      "watchedAt": 1774445194
     },
     {
       "id": 6305,
@@ -124,7 +140,9 @@
       "name": "ミステリックサイン",
       "nameCn": "神秘信號",
       "airdate": "2009-05-28",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1456,
+      "watchedAt": 1774451413
     },
     {
       "id": 6306,
@@ -134,7 +152,9 @@
       "name": "孤島症候群・前編",
       "nameCn": "孤島症候群（前篇）",
       "airdate": "2009-06-04",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1407,
+      "watchedAt": 1774626725
     },
     {
       "id": 6307,
@@ -144,7 +164,9 @@
       "name": "孤島症候群・後編",
       "nameCn": "孤島症候群（後篇）",
       "airdate": "2009-06-11",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1407,
+      "watchedAt": 1774628463
     },
     {
       "id": 6308,
@@ -154,7 +176,9 @@
       "name": "エンドレスエイト",
       "nameCn": "漫無止境的八月(09年)",
       "airdate": "2009-06-18",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1483,
+      "watchedAt": 1774709334
     },
     {
       "id": 6309,
@@ -164,7 +188,9 @@
       "name": "エンドレスエイト",
       "nameCn": "漫無止境的八月(09年)",
       "airdate": "2009-06-25",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1482,
+      "watchedAt": 1774715535
     },
     {
       "id": 6310,
@@ -174,7 +200,9 @@
       "name": "エンドレスエイト",
       "nameCn": "漫無止境的八月(09年)",
       "airdate": "2009-07-02",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1482,
+      "watchedAt": 1774784085
     },
     {
       "id": 9026,
@@ -184,7 +212,9 @@
       "name": "エンドレスエイト",
       "nameCn": "漫無止境的八月(09年)",
       "airdate": "2009-07-09",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1482,
+      "watchedAt": 1774795869
     },
     {
       "id": 9027,
@@ -194,7 +224,9 @@
       "name": "エンドレスエイト",
       "nameCn": "漫無止境的八月(09年)",
       "airdate": "2009-07-16",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1482,
+      "watchedAt": 1774796758
     },
     {
       "id": 9028,
@@ -204,7 +236,9 @@
       "name": "エンドレスエイト",
       "nameCn": "漫無止境的八月(09年)",
       "airdate": "2009-07-23",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1481,
+      "watchedAt": 1774798257
     },
     {
       "id": 9029,
@@ -214,7 +248,9 @@
       "name": "エンドレスエイト",
       "nameCn": "漫無止境的八月(09年)",
       "airdate": "2009-07-30",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1483,
+      "watchedAt": 1774799567
     },
     {
       "id": 12989,
@@ -224,7 +260,9 @@
       "name": "エンドレスエイト",
       "nameCn": "漫無止境的八月(09年)",
       "airdate": "2009-08-06",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1482,
+      "watchedAt": 1774886954
     },
     {
       "id": 12990,
@@ -234,7 +272,9 @@
       "name": "涼宮ハルヒの溜息 I",
       "nameCn": "涼宮春日的嘆息 I(09年)",
       "airdate": "2009-08-13",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1482,
+      "watchedAt": 1776606331
     },
     {
       "id": 12991,
@@ -244,7 +284,9 @@
       "name": "涼宮ハルヒの溜息 II",
       "nameCn": "涼宮春日的嘆息 II(09年)",
       "airdate": "2009-08-20",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1482,
+      "watchedAt": 1776690702
     },
     {
       "id": 14341,
@@ -254,7 +296,9 @@
       "name": "涼宮ハルヒの溜息 III",
       "nameCn": "涼宮春日的嘆息 III(09年)",
       "airdate": "2009-08-27",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1481,
+      "watchedAt": 1778070387
     },
     {
       "id": 14730,
@@ -264,7 +308,9 @@
       "name": "涼宮ハルヒの溜息 IV",
       "nameCn": "涼宮春日的嘆息 IV(09年)",
       "airdate": "2009-09-03",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1482,
+      "watchedAt": 1778076469
     },
     {
       "id": 14731,
@@ -274,7 +320,9 @@
       "name": "涼宮ハルヒの溜息 V",
       "nameCn": "涼宮春日的嘆息 V(09年)",
       "airdate": "2009-09-10",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1482,
+      "watchedAt": 1779207729
     },
     {
       "id": 14732,
@@ -284,7 +332,9 @@
       "name": "朝比奈ミクルの冒険 Episode00",
       "nameCn": "朝比奈實玖瑠的冒險 Episode00",
       "airdate": "2009-09-17",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1458,
+      "watchedAt": 1779379899
     },
     {
       "id": 14733,
@@ -294,7 +344,9 @@
       "name": "ライブアライブ",
       "nameCn": "Live Alive",
       "airdate": "2009-09-24",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1436,
+      "watchedAt": 1779531077
     },
     {
       "id": 14734,
@@ -304,7 +356,9 @@
       "name": "射手座の日",
       "nameCn": "射手座之日",
       "airdate": "2009-10-02",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1407,
+      "watchedAt": 1779601300
     },
     {
       "id": 14735,
@@ -314,7 +368,9 @@
       "name": "サムデイ イン ザ レイン",
       "nameCn": "Someday in the Rain",
       "airdate": "2009-10-09",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1407,
+      "watchedAt": 1779603457
     }
   ]
 }

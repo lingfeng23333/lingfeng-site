@@ -116,7 +116,7 @@ async function main() {
         getEpisodeProgress(c.subject_id, TOKEN!),
       ]);
 
-      const watchMap = new Map(progress.map((p) => [p.episode.id, p.type]));
+      const watchMeta = new Map(progress.map((p) => [p.episode.id, p]));
       const remoteCover =
         detail.images?.large ||
         detail.images?.common ||
@@ -159,7 +159,9 @@ async function main() {
           name: e.name,
           nameCn: e.name_cn,
           airdate: e.airdate,
-          watchStatus: watchMap.get(e.id) ?? 0,
+          watchStatus: watchMeta.get(e.id)?.type ?? 0,
+          durationSeconds: e.duration_seconds ?? 0,
+          watchedAt: watchMeta.get(e.id)?.updated_at ?? 0,
         })),
       };
 

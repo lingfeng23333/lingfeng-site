@@ -44,7 +44,9 @@
       "name": "恋人とか、ぜったいにムリ！",
       "nameCn": "恋人这种事，绝对不行！",
       "airdate": "2025-07-07",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1521511,
@@ -54,7 +56,9 @@
       "name": "初めてのキスなんて、ムリ!",
       "nameCn": "初吻这种事，绝对不行！",
       "airdate": "2025-07-14",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1521512,
@@ -64,7 +68,9 @@
       "name": "ムリヤリなんて、だめムリ!",
       "nameCn": "被强迫这种事，绝对不行！",
       "airdate": "2025-07-21",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1521513,
@@ -74,7 +80,9 @@
       "name": "真唯なんて、やっぱりムリムリ!（※ムリじゃなかった!?）",
       "nameCn": "真唯这种事，果然绝对不行！（※似乎可行？）",
       "airdate": "2025-07-28",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1521514,
@@ -84,7 +92,9 @@
       "name": "恋人とか、ぜったいにムリ!その２",
       "nameCn": "恋人这种事，绝对不行！其之二",
       "airdate": "2025-08-04",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1521515,
@@ -94,7 +104,9 @@
       "name": "ふたりだけのヒミツが多すぎて、もうムリ!",
       "nameCn": "两个人之间的秘密太多，已经不行了！",
       "airdate": "2025-08-11",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1521516,
@@ -104,7 +116,9 @@
       "name": "修羅場とか、どうあがいてもムリ!",
       "nameCn": "修罗场这种事，怎么挣扎都不行！",
       "airdate": "2025-08-18",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1521517,
@@ -114,7 +128,9 @@
       "name": "完全勝利するなんて、ムリムリ！",
       "nameCn": "完全胜利这种事，绝对不行！",
       "airdate": "2025-08-25",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1521518,
@@ -124,7 +140,9 @@
       "name": "紫陽花さんのお宅訪問とか、ムリ!",
       "nameCn": "去紫阳花家拜访这种事，不行！",
       "airdate": "2025-09-01",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1521519,
@@ -134,7 +152,9 @@
       "name": "ふたりっきりの旅行なんて、ムリ!?",
       "nameCn": "两个人单独旅行这种事，不行！？",
       "airdate": "2025-09-08",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1521520,
@@ -144,7 +164,9 @@
       "name": "いつまでもこのままでいるのは、ムリ?",
       "nameCn": "想要永远维持这样的关系，难道不行吗？",
       "airdate": "2025-09-15",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1521521,
@@ -154,7 +176,9 @@
       "name": "夏休みがもう終わる!　ムリ!",
       "nameCn": "暑假快要结束了！不行！",
       "airdate": "2025-09-22",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     }
   ]
 }

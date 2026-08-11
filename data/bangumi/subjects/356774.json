@@ -44,7 +44,9 @@
       "name": "ナイトフライト",
       "nameCn": "夜间飞行",
       "airdate": "2022-07-07",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1370,
+      "watchedAt": 0
     },
     {
       "id": 1110574,
@@ -54,7 +56,9 @@
       "name": "てかラインやってる?",
       "nameCn": "话说你有在玩 line 吗？",
       "airdate": "2022-07-14",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1370,
+      "watchedAt": 0
     },
     {
       "id": 1110575,
@@ -64,7 +68,9 @@
       "name": "いっぱい出たね",
       "nameCn": "流了好多血呢",
       "airdate": "2022-07-21",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1370,
+      "watchedAt": 0
     },
     {
       "id": 1110576,
@@ -74,7 +80,9 @@
       "name": "せまくない?",
       "nameCn": "太挤了吧？",
       "airdate": "2022-07-28",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1370,
+      "watchedAt": 0
     },
     {
       "id": 1110577,
@@ -84,7 +92,9 @@
       "name": "そりゃ困ったやつですね",
       "nameCn": "这可头疼了啊",
       "airdate": "2022-08-04",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1370,
+      "watchedAt": 0
     },
     {
       "id": 1110578,
@@ -94,7 +104,9 @@
       "name": "楽しい方がいいよ",
       "nameCn": "选开心的那一边吧",
       "airdate": "2022-08-11",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1370,
+      "watchedAt": 0
     },
     {
       "id": 1110579,
@@ -104,7 +116,9 @@
       "name": "眷属作り(こづくり)",
       "nameCn": "创造眷属",
       "airdate": "2022-08-18",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1370,
+      "watchedAt": 0
     },
     {
       "id": 1110580,
@@ -114,7 +128,9 @@
       "name": "どいつもこいつも",
       "nameCn": "一个个的",
       "airdate": "2022-08-25",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1370,
+      "watchedAt": 0
     },
     {
       "id": 1110581,
@@ -124,7 +140,9 @@
       "name": "ずるい",
       "nameCn": "不公平",
       "airdate": "2022-09-01",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1370,
+      "watchedAt": 0
     },
     {
       "id": 1110582,
@@ -134,7 +152,9 @@
       "name": "盗撮画像を拡大して見る",
       "nameCn": "把偷拍照放大看",
       "airdate": "2022-09-08",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1370,
+      "watchedAt": 0
     },
     {
       "id": 1110583,
@@ -144,7 +164,9 @@
       "name": "吸血鬼って知ってるかい？",
       "nameCn": "知道吸血鬼吗？",
       "airdate": "2022-09-15",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1370,
+      "watchedAt": 0
     },
     {
       "id": 1110584,
@@ -154,7 +176,9 @@
       "name": "今日ウチ親いないんだ",
       "nameCn": "今天我爸妈不在",
       "airdate": "2022-09-22",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1370,
+      "watchedAt": 0
     },
     {
       "id": 1116653,
@@ -164,7 +188,9 @@
       "name": "よふかしのうた",
       "nameCn": "彻夜之歌",
       "airdate": "2022-09-29",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1370,
+      "watchedAt": 0
     }
   ]
 }

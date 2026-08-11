@@ -44,7 +44,9 @@
       "name": "ヤクソク",
       "nameCn": "约定",
       "airdate": "2014-01-11",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1469,
+      "watchedAt": 1784776314
     },
     {
       "id": 350238,
@@ -54,7 +56,9 @@
       "name": "ソウグウ",
       "nameCn": "遭遇",
       "airdate": "2014-01-18",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1469,
+      "watchedAt": 1785114058
     },
     {
       "id": 350239,
@@ -64,7 +68,9 @@
       "name": "ニタモノ",
       "nameCn": "相似之物",
       "airdate": "2014-01-25",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1469,
+      "watchedAt": 1785117106
     },
     {
       "id": 350240,
@@ -74,7 +80,9 @@
       "name": "ホウモン",
       "nameCn": "访问",
       "airdate": "2014-02-01",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1469,
+      "watchedAt": 1785207857
     },
     {
       "id": 350241,
@@ -84,7 +92,9 @@
       "name": "スイエイ",
       "nameCn": "游泳",
       "airdate": "2014-02-08",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1469,
+      "watchedAt": 1785210619
     },
     {
       "id": 350242,
@@ -94,7 +104,9 @@
       "name": "カシカリ",
       "nameCn": "借与还",
       "airdate": "2014-02-15",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1469,
+      "watchedAt": 1785289092
     },
     {
       "id": 350243,
@@ -104,7 +116,9 @@
       "name": "ライバル",
       "nameCn": "对手",
       "airdate": "2014-02-22",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1469,
+      "watchedAt": 1785290753
     },
     {
       "id": 350244,
@@ -114,7 +128,9 @@
       "name": "シアワセ",
       "nameCn": "幸福",
       "airdate": "2014-03-01",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1469,
+      "watchedAt": 1785305836
     },
     {
       "id": 350245,
@@ -124,7 +140,9 @@
       "name": "オンセン",
       "nameCn": "温泉",
       "airdate": "2014-03-08",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1469,
+      "watchedAt": 1785375572
     },
     {
       "id": 350246,
@@ -134,7 +152,9 @@
       "name": "クジビキ",
       "nameCn": "抽签",
       "airdate": "2014-03-15",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1470,
+      "watchedAt": 1785379707
     },
     {
       "id": 350247,
@@ -144,7 +164,9 @@
       "name": "オイワイ",
       "nameCn": "庆祝",
       "airdate": "2014-03-22",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1443,
+      "watchedAt": 1785403662
     },
     {
       "id": 350248,
@@ -154,7 +176,9 @@
       "name": "カクニン",
       "nameCn": "确认",
       "airdate": "2014-03-29",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1450,
+      "watchedAt": 1785415397
     },
     {
       "id": 350249,
@@ -164,7 +188,9 @@
       "name": "ホウカゴ",
       "nameCn": "放学后",
       "airdate": "2014-04-05",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1469,
+      "watchedAt": 1785470060
     },
     {
       "id": 350250,
@@ -174,7 +200,9 @@
       "name": "シュラバ",
       "nameCn": "修罗场",
       "airdate": "2014-04-12",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1450,
+      "watchedAt": 1785480056
     },
     {
       "id": 350251,
@@ -184,7 +212,9 @@
       "name": "サンボン",
       "nameCn": "三把钥匙",
       "airdate": "2014-04-19",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1469,
+      "watchedAt": 1785548398
     },
     {
       "id": 350252,
@@ -194,7 +224,9 @@
       "name": "タイフウ",
       "nameCn": "台风",
       "airdate": "2014-04-26",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1469,
+      "watchedAt": 1785638425
     },
     {
       "id": 350253,
@@ -204,7 +236,9 @@
       "name": "エンニチ",
       "nameCn": "庙会",
       "airdate": "2014-05-03",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1469,
+      "watchedAt": 1785812169
     },
     {
       "id": 350254,
@@ -214,7 +248,9 @@
       "name": "ウミベデ",
       "nameCn": "海边",
       "airdate": "2014-05-10",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1469,
+      "watchedAt": 1785814559
     },
     {
       "id": 350255,
@@ -224,7 +260,9 @@
       "name": "エンゲキ",
       "nameCn": "戏剧",
       "airdate": "2014-05-17",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1469,
+      "watchedAt": 1785822251
     },
     {
       "id": 350256,
@@ -234,7 +272,9 @@
       "name": "ホソバン",
       "nameCn": "实演",
       "airdate": "2014-05-24",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1470,
+      "watchedAt": 1785827834
     }
   ]
 }

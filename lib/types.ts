@@ -40,6 +40,8 @@ export interface Episode {
   nameCn: string;
   airdate: string;
   watchStatus: WatchStatus;
+  durationSeconds?: number;
+  watchedAt?: number;
 }
 
 export interface Subject extends SubjectSummary {

@@ -44,7 +44,9 @@
       "name": "四月一〇日",
       "nameCn": "四月十日",
       "airdate": "2013-04-05",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 0,
+      "watchedAt": 0
     },
     {
       "id": 247844,
@@ -54,7 +56,9 @@
       "name": "再接近遭遇",
       "nameCn": "再次近距离接触",
       "airdate": "2013-04-12",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 0,
+      "watchedAt": 0
     },
     {
       "id": 247845,
@@ -64,7 +68,9 @@
       "name": "空分かつ剣（つるぎ）",
       "nameCn": "切割天空之剑",
       "airdate": "2013-04-19",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 0,
+      "watchedAt": 0
     },
     {
       "id": 247846,
@@ -74,7 +80,9 @@
       "name": "不機嫌な雨",
       "nameCn": "讨厌的雨",
       "airdate": "2013-04-26",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1380,
+      "watchedAt": 0
     },
     {
       "id": 247847,
@@ -84,7 +92,9 @@
       "name": "凍て付く大地",
       "nameCn": "冰冻的大地",
       "airdate": "2013-05-03",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 247848,
@@ -94,7 +104,9 @@
       "name": "恋する温泉",
       "nameCn": "恋爱的温泉",
       "airdate": "2013-05-10",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 247849,
@@ -104,7 +116,9 @@
       "name": "来訪者達",
       "nameCn": "来访者们",
       "airdate": "2013-05-17",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 247850,
@@ -114,7 +128,9 @@
       "name": "三重狂騒曲",
       "nameCn": "三重狂想曲",
       "airdate": "2013-05-24",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 247851,
@@ -124,7 +140,9 @@
       "name": "狂乱の悪夢",
       "nameCn": "狂乱的恶梦",
       "airdate": "2013-05-31",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 247852,
@@ -134,7 +152,9 @@
       "name": "炎の精霊（イフリート）",
       "nameCn": "炎之精灵（Efreet）",
       "airdate": "2013-06-07",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 247853,
@@ -144,7 +164,9 @@
       "name": "カウントダウン",
       "nameCn": "倒数计时",
       "airdate": "2013-06-14",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 247854,
@@ -154,7 +176,9 @@
       "name": "譲れないもの",
       "nameCn": "无法割舍的东西",
       "airdate": "2013-06-21",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1405,
+      "watchedAt": 0
     }
   ]
 }

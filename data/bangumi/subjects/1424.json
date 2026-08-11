@@ -44,7 +44,9 @@
       "name": "廃部！",
       "nameCn": "废部！",
       "airdate": "2009-04-03",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 4836,
@@ -54,7 +56,9 @@
       "name": "楽器！",
       "nameCn": "乐器！",
       "airdate": "2009-04-10",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 4837,
@@ -64,7 +68,9 @@
       "name": "特訓！",
       "nameCn": "特训！",
       "airdate": "2009-04-17",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 4838,
@@ -74,7 +80,9 @@
       "name": "合宿！",
       "nameCn": "合宿！",
       "airdate": "2009-04-23",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 4839,
@@ -84,7 +92,9 @@
       "name": "顧問！",
       "nameCn": "顾问！",
       "airdate": "2009-05-01",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 4840,
@@ -94,7 +104,9 @@
       "name": "学園祭！",
       "nameCn": "学园祭！",
       "airdate": "2009-05-07",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 4841,
@@ -104,7 +116,9 @@
       "name": "クリスマス！",
       "nameCn": "圣诞节！",
       "airdate": "2009-05-14",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 4842,
@@ -114,7 +128,9 @@
       "name": "新歡！",
       "nameCn": "新生欢迎会！",
       "airdate": "2009-05-21",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 4843,
@@ -124,7 +140,9 @@
       "name": "新入部員！",
       "nameCn": "新入部员！",
       "airdate": "2009-05-28",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 4844,
@@ -134,7 +152,9 @@
       "name": "また合宿！",
       "nameCn": "又是合宿！",
       "airdate": "2009-06-04",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 4845,
@@ -144,7 +164,9 @@
       "name": "ピンチ！",
       "nameCn": "危机！",
       "airdate": "2009-06-11",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 4846,
@@ -154,7 +176,9 @@
       "name": "軽音！",
       "nameCn": "轻音！",
       "airdate": "2009-06-18",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 7535,
@@ -164,7 +188,9 @@
       "name": "番外編 冬の日！",
       "nameCn": "番外篇 冬之日！",
       "airdate": "2009-06-25",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     }
   ]
 }

@@ -44,7 +44,9 @@
       "name": "ニャーがヤニねこにゃ",
       "nameCn": "本喵就是尼古喵喵",
       "airdate": "2026-07-02",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 1783226357
     },
     {
       "id": 1701422,
@@ -54,7 +56,9 @@
       "name": "ニャーの後輩たちにゃ",
       "nameCn": "本喵的学妹们喵",
       "airdate": "2026-07-09",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 1783746197
     },
     {
       "id": 1701423,
@@ -64,7 +68,9 @@
       "name": "ニャーはボケよりツッコミ寄りにゃ",
       "nameCn": "本喵比起装傻更适合吐槽喵",
       "airdate": "2026-07-16",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 1784347934
     },
     {
       "id": 1701424,
@@ -74,7 +80,9 @@
       "name": "ニャーのまわりは変人ばかりにゃ",
       "nameCn": "本喵的身边全是怪人喵",
       "airdate": "2026-07-23",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 1785310060
     },
     {
       "id": 1701425,
@@ -84,7 +92,9 @@
       "name": "ニャーたち秘境に行くにゃ",
       "nameCn": "本喵一行人要去祕境喵",
       "airdate": "2026-07-30",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 1785554402
     },
     {
       "id": 1701426,
@@ -94,7 +104,9 @@
       "name": "ニャーの夏が始まって終わるにゃ",
       "nameCn": "本喵的夏天刚开始就结束了喵",
       "airdate": "2026-08-06",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 1786164339
     },
     {
       "id": 1701427,
@@ -104,7 +116,9 @@
       "name": "",
       "nameCn": "",
       "airdate": "2026-08-13",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1701428,
@@ -114,7 +128,9 @@
       "name": "",
       "nameCn": "",
       "airdate": "2026-08-20",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1701429,
@@ -124,7 +140,9 @@
       "name": "",
       "nameCn": "",
       "airdate": "2026-08-27",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1701430,
@@ -134,7 +152,9 @@
       "name": "",
       "nameCn": "",
       "airdate": "2026-09-03",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1701431,
@@ -144,7 +164,9 @@
       "name": "",
       "nameCn": "",
       "airdate": "2026-09-10",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1701432,
@@ -154,7 +176,9 @@
       "name": "",
       "nameCn": "",
       "airdate": "2026-09-17",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     }
   ]
 }

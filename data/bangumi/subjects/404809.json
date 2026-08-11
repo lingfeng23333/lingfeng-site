@@ -44,7 +44,9 @@
       "name": "ちょっと行ってくる",
       "nameCn": "我去去就回",
       "airdate": "2024-04-01",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 1759502454
     },
     {
       "id": 1309658,
@@ -54,7 +56,9 @@
       "name": "推測、だろう、思われる",
       "nameCn": "推测，可能，猜想",
       "airdate": "2024-04-08",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 1759503718
     },
     {
       "id": 1309659,
@@ -64,7 +68,9 @@
       "name": "ショートでハッピーイージーに",
       "nameCn": "短暂而轻松快乐",
       "airdate": "2024-04-15",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1420,
+      "watchedAt": 1759577708
     },
     {
       "id": 1309660,
@@ -74,7 +80,9 @@
       "name": "なんでおしり隠すの？",
       "nameCn": "为什么要把屁股藏起来？",
       "airdate": "2024-04-22",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1309661,
@@ -84,7 +92,9 @@
       "name": "骨にされてしまいます",
       "nameCn": "会被做成骨架的",
       "airdate": "2024-04-29",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1309662,
@@ -94,7 +104,9 @@
       "name": "そんなにひどいこと言ったかな",
       "nameCn": "我说的话有那么过分吗",
       "airdate": "2024-05-06",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1309663,
@@ -104,7 +116,9 @@
       "name": "笑うゾンビはゾンビじゃない",
       "nameCn": "会笑的僵尸不是僵尸",
       "airdate": "2024-05-13",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1309664,
@@ -114,7 +128,9 @@
       "name": "バチ当たらない？",
       "nameCn": "不会遭报应吧？",
       "airdate": "2024-05-20",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1309665,
@@ -124,7 +140,9 @@
       "name": "思ってたよりつまんないみたいな",
       "nameCn": "好像比想象中的还要无聊",
       "airdate": "2024-05-27",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1309666,
@@ -134,7 +152,9 @@
       "name": "これこそ反抗と退廃の証",
       "nameCn": "这就是反抗和颓废之证",
       "airdate": "2024-06-03",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1309667,
@@ -144,7 +164,9 @@
       "name": "もう無理かな……",
       "nameCn": "已经不行了吧……",
       "airdate": "2024-06-10",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 1309668,
@@ -154,7 +176,9 @@
       "name": "いつもって何だっけ",
       "nameCn": "平时是什么样的来着",
       "airdate": "2024-06-24",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     }
   ]
 }

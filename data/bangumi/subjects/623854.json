@@ -44,7 +44,9 @@
       "name": "勇者の肋⾻",
       "nameCn": "勇者的肋骨",
       "airdate": "2026-04-07",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1778602191
     },
     {
       "id": 1670641,
@@ -54,7 +56,9 @@
       "name": "ヤドカリ / 魔王城の扉(右)",
       "nameCn": "寄居蟹 / 魔王城的右门",
       "airdate": "2026-04-14",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1778861550
     },
     {
       "id": 1670642,
@@ -64,7 +68,9 @@
       "name": "時計台の秒針 / 勇者のレベルアップ通知をする頭の中の声の人",
       "nameCn": "钟楼的秒针 / 负责通知勇者升等的脑中的人",
       "airdate": "2026-04-21",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1778929816
     },
     {
       "id": 1670643,
@@ -74,7 +80,9 @@
       "name": "野菜 / 宝箱に付いてる錠前",
       "nameCn": "蔬菜 / 装在宝箱上的锁",
       "airdate": "2026-04-28",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1778995019
     },
     {
       "id": 1670644,
@@ -84,7 +92,9 @@
       "name": "秘伝の巻物のヒモ / カップルがキスしている後ろで一人寂しく座っている独身男性が感じる気まずい雰囲気",
       "nameCn": "秘传卷轴上的绳子 / 情侣接吻时在他们后面一个人寂寞地坐着的单身男性所感受到的尴尬气氛",
       "airdate": "2026-05-05",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1779033208
     },
     {
       "id": 1670645,
@@ -94,7 +104,9 @@
       "name": "リア充を爆発させる時に使う爆発物 / ビーバーと熾烈な生存競争を続ける世界の末裔",
       "nameCn": "让现充爆炸时用的爆裂物 / 持续与河狸进行炽烈生存竞争的世界树后代",
       "airdate": "2026-05-12",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1783264837
     },
     {
       "id": 1670646,
@@ -104,7 +116,9 @@
       "name": "ダンジョンの壁に設置されている松明 / ダンジョン物の異世界の主人公の泊まる宿の枕カバー",
       "nameCn": "设置在迷宫墙上的火把 / 迷宫主题异世界的主角投宿的旅馆的枕头套",
       "airdate": "2026-05-19",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 0,
+      "watchedAt": 0
     },
     {
       "id": 1670647,
@@ -114,7 +128,9 @@
       "name": "勇者のカレー皿",
       "nameCn": "勇者的咖喱盘",
       "airdate": "2026-05-26",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 0,
+      "watchedAt": 0
     },
     {
       "id": 1670648,
@@ -124,7 +140,9 @@
       "name": "ホラーゲームなどにおいて主人公が隠れるときに使用するロッカー / トラックの運転手",
       "nameCn": "在恐怖游戏之类的场合主角躲藏时使用的置物柜 / 卡车司机",
       "airdate": "2026-06-02",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 0,
+      "watchedAt": 0
     },
     {
       "id": 1670649,
@@ -134,7 +152,9 @@
       "name": "戻ってこなかったブーメラン / 決めポーズで発生する爆発と煙",
       "nameCn": "不会回来的回力镖 / 由招牌动作产生的爆炸跟烟",
       "airdate": "2026-06-09",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 0,
+      "watchedAt": 0
     },
     {
       "id": 1670650,
@@ -144,7 +164,9 @@
       "name": "百合ハーレム勇者が3番目におとした、王道属性はメインとサブの二人に取られ、インパクトは後発優勢で、中盤辺りでは名前ぐらいしか描写されず、終盤では名前すら出てこな",
       "nameCn": "百合后宫勇者第三个攻略的王道属性被前两个人用掉越后面登场的人越有爆点到剧情中段除了名字都没什么描写靠近结尾时甚至连名字都没出现的美少女角色",
       "airdate": "2026-06-16",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 0,
+      "watchedAt": 0
     },
     {
       "id": 1670651,
@@ -154,7 +176,9 @@
       "name": "世界を救う勇者",
       "nameCn": "拯救世界的勇者",
       "airdate": "2026-06-23",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 0,
+      "watchedAt": 0
     }
   ]
 }

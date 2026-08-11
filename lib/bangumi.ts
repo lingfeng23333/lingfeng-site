@@ -48,6 +48,7 @@ export interface ApiEpisode {
   ep: number | null;
   airdate: string;
   duration?: string;
+  duration_seconds?: number;
 }
 
 export interface ApiUserEpisode {

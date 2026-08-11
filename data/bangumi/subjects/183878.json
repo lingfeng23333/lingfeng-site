@@ -44,7 +44,9 @@
       "name": "「愛してる」と自動手記人形",
       "nameCn": "“爱”与自动手记人偶",
       "airdate": "2018-01-10",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 730524,
@@ -54,7 +56,9 @@
       "name": "「戻ってこない」",
       "nameCn": "“回不来了”",
       "airdate": "2018-01-17",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 730525,
@@ -64,7 +68,9 @@
       "name": "「あなたが、良き自動手記人形になりますように」",
       "nameCn": "“希望你成为出色的自动手记人偶”",
       "airdate": "2018-01-24",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 730526,
@@ -74,7 +80,9 @@
       "name": "「君は道具ではなく、その名が似合う人になるんだ」",
       "nameCn": "“你将不再是道具，而是成为人如其名的人”",
       "airdate": "2018-01-31",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 730527,
@@ -84,7 +92,9 @@
       "name": "「人を結ぶ手紙を書くのか？」",
       "nameCn": "“写替人结缘的书信吗？”",
       "airdate": "2018-02-07",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 730528,
@@ -94,7 +104,9 @@
       "name": "「どこかの星空の下で」",
       "nameCn": "“在某处的星空下”",
       "airdate": "2018-02-14",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 730529,
@@ -104,7 +116,9 @@
       "name": "「　　　　」",
       "nameCn": "“　　　　”",
       "airdate": "2018-02-21",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 730530,
@@ -114,7 +128,9 @@
       "name": "「ヴァイオレット・エヴァーガーデン」前編",
       "nameCn": "“薇尔莉特・伊芙加登” 前篇",
       "airdate": "2018-02-28",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 730531,
@@ -124,7 +140,9 @@
       "name": "「ヴァイオレット・エヴァーガーデン」後編",
       "nameCn": "“薇尔莉特・伊芙加登” 后篇",
       "airdate": "2018-03-07",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 730532,
@@ -134,7 +152,9 @@
       "name": "「愛する人は　ずっと見守っている」",
       "nameCn": "“心爱的人 永远守护着你”",
       "airdate": "2018-03-14",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 730533,
@@ -144,7 +164,9 @@
       "name": "「もう、誰も死なせたくない」",
       "nameCn": "“再也不想让任何人死去”",
       "airdate": "2018-03-21",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 730534,
@@ -154,7 +176,9 @@
       "name": "自動手記人形と「愛してる」前編",
       "nameCn": "自动手记人偶与“爱” 前篇",
       "airdate": "2018-03-28",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 782583,
@@ -164,7 +188,9 @@
       "name": "自動手記人形と「愛してる」後編",
       "nameCn": "自动手记人偶与“爱” 后篇",
       "airdate": "2018-04-04",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     }
   ]
 }

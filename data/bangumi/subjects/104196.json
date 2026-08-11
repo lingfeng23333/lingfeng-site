@@ -44,7 +44,9 @@
       "name": "フンシツ/ミコサン",
       "nameCn": "丢失/巫女",
       "airdate": "2014-10-03",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1639,
+      "watchedAt": 1785894260
     },
     {
       "id": 431570,
@@ -54,7 +56,9 @@
       "name": "オシゴト/ヘンボウ",
       "nameCn": "工作/变貌",
       "airdate": "2015-02-04",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1672,
+      "watchedAt": 1785919867
     },
     {
       "id": 454558,
@@ -64,7 +68,9 @@
       "name": "セントウ/サービス",
       "nameCn": "澡堂/福利",
       "airdate": "2015-04-03",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1376,
+      "watchedAt": 0
     },
     {
       "id": 544355,
@@ -74,7 +80,9 @@
       "name": "シンコン/マジカルパティシエ小咲ちゃん!!",
       "nameCn": "新婚/魔法糕点师小咲!!",
       "airdate": "2016-01-04",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1599,
+      "watchedAt": 0
     }
   ]
 }

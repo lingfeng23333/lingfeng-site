@@ -44,7 +44,9 @@
       "name": "はじめてのパートナー",
       "nameCn": "初次的搭档",
       "airdate": "2015-04-04",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1530,
+      "watchedAt": 0
     },
     {
       "id": 512761,
@@ -54,7 +56,9 @@
       "name": "足を引っ張りたくないので",
       "nameCn": "因为不想拖人后腿",
       "airdate": "2015-04-11",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 512762,
@@ -64,7 +68,9 @@
       "name": "同棲はじめました",
       "nameCn": "开始同居了",
       "airdate": "2015-04-18",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 512763,
@@ -74,7 +80,9 @@
       "name": "うまく笑えなくて",
       "nameCn": "无法露出笑容来",
       "airdate": "2015-04-25",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 512764,
@@ -84,7 +92,9 @@
       "name": "守りたかった約束",
       "nameCn": "想要守护的约定",
       "airdate": "2015-05-02",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 512765,
@@ -94,7 +104,9 @@
       "name": "2人で、おかえり",
       "nameCn": "两人一起 欢迎回來",
       "airdate": "2015-05-09",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 512766,
@@ -104,7 +116,9 @@
       "name": "上手なデートの誘い方",
       "nameCn": "邀请约会的好方法",
       "airdate": "2015-05-16",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 512767,
@@ -114,7 +128,9 @@
       "name": "知らない花火",
       "nameCn": "未曾见过的焰火",
       "airdate": "2015-05-23",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 512768,
@@ -124,7 +140,9 @@
       "name": "祭りの後",
       "nameCn": "祭典之后",
       "airdate": "2015-05-30",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 512769,
@@ -134,7 +152,9 @@
       "name": "もう、パートナーじゃない",
       "nameCn": "已经，不是搭档了",
       "airdate": "2015-06-06",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 512770,
@@ -144,7 +164,9 @@
       "name": "オムライスの日",
       "nameCn": "蛋包饭之日",
       "airdate": "2015-06-13",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 512771,
@@ -154,7 +176,9 @@
       "name": "想い出が埋まってく",
       "nameCn": "回忆正在渐渐编织",
       "airdate": "2015-06-20",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 515775,
@@ -164,7 +188,9 @@
       "name": "いつかまた巡り会えますように",
       "nameCn": "祝愿有一天能再次相遇",
       "airdate": "2015-06-27",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     }
   ]
 }

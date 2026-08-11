@@ -9,7 +9,7 @@
   "rating": {
     "score": 8,
     "rank": 260,
-    "total": 28014
+    "total": 27979
   },
   "summary": "没能赢得心上人恋情的女孩——“败犬女主”。\r\n爱吃的青梅竹马系女主·八奈见杏菜。\r\n活力充沛的运动系女主·烧盐柠檬。\r\n怕生的小动物系女主·小鞠知花。\r\n被有点缺憾的败犬女主——败女们环绕，新感觉、乱糟糟的败走系青春故事就此揭幕。\r\n因失败而更加闪耀吧，败女们！",
   "tags": [
@@ -44,7 +44,9 @@
       "name": "プロ幼馴染み八奈見杏菜の負けっぷり",
       "nameCn": "专业青梅竹马八奈见杏菜的败相",
       "airdate": "2024-07-13",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 1354647,
@@ -54,7 +56,9 @@
       "name": "約束された敗北を君に",
       "nameCn": "为你献上命中注定的败北",
       "airdate": "2024-07-20",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 1354648,
@@ -64,7 +68,9 @@
       "name": "戦う前から負けている",
       "nameCn": "还没上场就输了",
       "airdate": "2024-07-27",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 1354649,
@@ -74,7 +80,9 @@
       "name": "負けヒロインを覗く時、負けヒロインもまたあなたを覗いているのだ",
       "nameCn": "当你凝视败北女角，败北女角也凝视着你",
       "airdate": "2024-08-03",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1500,
+      "watchedAt": 0
     },
     {
       "id": 1354650,
@@ -84,7 +92,9 @@
       "name": "朝雲千早は惑わせる",
       "nameCn": "朝云千早使人迷惑",
       "airdate": "2024-08-10",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1440,
+      "watchedAt": 1772899330
     },
     {
       "id": 1354651,
@@ -94,7 +104,9 @@
       "name": "振られたことのない者だけが、負けヒロインに石を投げなさい",
       "nameCn": "你们谁是没被甩过的，谁就可以拿石头丢败北女角",
       "airdate": "2024-08-17",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1440,
+      "watchedAt": 1772974297
     },
     {
       "id": 1354652,
@@ -104,7 +116,9 @@
       "name": "ハッピーエンドの向こう側",
       "nameCn": "美好结局的另一边",
       "airdate": "2024-08-24",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 1354653,
@@ -114,7 +128,9 @@
       "name": "おこまりでしたらコンサルに",
       "nameCn": "若有烦恼请洽咨顾",
       "airdate": "2024-08-31",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 1354654,
@@ -124,7 +140,9 @@
       "name": "先生は天井の染みかなんかだと思って、続きをどうぞ",
       "nameCn": "把老师当作天花板污渍之类的东西就好，你们继续",
       "airdate": "2024-09-07",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 1354655,
@@ -134,7 +152,9 @@
       "name": "さようならには早すぎる",
       "nameCn": "要说再见还太早",
       "airdate": "2024-09-14",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 1354656,
@@ -144,7 +164,9 @@
       "name": "結果責任についての話をしようか",
       "nameCn": "来谈谈责任归属吧",
       "airdate": "2024-09-21",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     },
     {
       "id": 1354657,
@@ -154,7 +176,9 @@
       "name": "俺はひよっとして、最終話で負けヒロインの横にいるポッと出のモブキヤラなのだろうか",
       "nameCn": "我该不会是在最终话突然出现在败北女角旁边的路人角色吧",
       "airdate": "2024-09-28",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1440,
+      "watchedAt": 0
     }
   ]
 }

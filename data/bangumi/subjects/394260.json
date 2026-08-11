@@ -44,7 +44,9 @@
       "name": "僕は奪われた",
       "nameCn": "我被夺走了",
       "airdate": "2023-04-01",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1383,
+      "watchedAt": 1778407671
     },
     {
       "id": 1177092,
@@ -54,7 +56,9 @@
       "name": "僕は死んだ",
       "nameCn": "我死掉了",
       "airdate": "2023-04-08",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1383,
+      "watchedAt": 1778427119
     },
     {
       "id": 1177093,
@@ -64,7 +68,9 @@
       "name": "僕は抱きしめたい",
       "nameCn": "我想去拥抱",
       "airdate": "2023-04-15",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1383,
+      "watchedAt": 0
     },
     {
       "id": 1177094,
@@ -74,7 +80,9 @@
       "name": "僕は心の病",
       "nameCn": "我有心病",
       "airdate": "2023-04-22",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1383,
+      "watchedAt": 0
     },
     {
       "id": 1177095,
@@ -84,7 +92,9 @@
       "name": "僕らははぐれた",
       "nameCn": "我们错过了",
       "airdate": "2023-04-29",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1383,
+      "watchedAt": 0
     },
     {
       "id": 1177096,
@@ -94,7 +104,9 @@
       "name": "僕は溶かした",
       "nameCn": "我融化了",
       "airdate": "2023-05-06",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1383,
+      "watchedAt": 0
     },
     {
       "id": 1177097,
@@ -104,7 +116,9 @@
       "name": "僕らは入れ替わってる",
       "nameCn": "我们交换了",
       "airdate": "2023-05-13",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1383,
+      "watchedAt": 0
     },
     {
       "id": 1177098,
@@ -114,7 +128,9 @@
       "name": "僕は夢を見た",
       "nameCn": "我做梦了",
       "airdate": "2023-05-20",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1383,
+      "watchedAt": 0
     },
     {
       "id": 1177099,
@@ -124,7 +140,9 @@
       "name": "僕は山田が嫌い",
       "nameCn": "我讨厌山田",
       "airdate": "2023-05-27",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1383,
+      "watchedAt": 0
     },
     {
       "id": 1177100,
@@ -134,7 +152,9 @@
       "name": "僕らはゆっくり歩いた",
       "nameCn": "我们慢慢地走着",
       "airdate": "2023-06-03",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1368,
+      "watchedAt": 0
     },
     {
       "id": 1177101,
@@ -144,7 +164,9 @@
       "name": "僕らは少し似ている",
       "nameCn": "我们有一点像",
       "airdate": "2023-06-10",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1368,
+      "watchedAt": 0
     },
     {
       "id": 1177102,
@@ -154,7 +176,9 @@
       "name": "僕は僕を知ってほしい",
       "nameCn": "我想了解我自己",
       "airdate": "2023-06-17",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1368,
+      "watchedAt": 0
     }
   ]
 }

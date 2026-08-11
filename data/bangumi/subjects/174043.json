@@ -44,7 +44,9 @@
       "name": "この不当な裁判に救援を！",
       "nameCn": "为不正当的审判进行救援！",
       "airdate": "2017-01-11",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1510,
+      "watchedAt": 0
     },
     {
       "id": 685099,
@@ -54,7 +56,9 @@
       "name": "この紅魔の娘に友人を！",
       "nameCn": "为这个红魔小姐献上友人！",
       "airdate": "2017-01-18",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 685100,
@@ -64,7 +68,9 @@
       "name": "この迷宮の主に安らぎを！",
       "nameCn": "赐予迷宫主人以安息！",
       "airdate": "2017-01-25",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 685101,
@@ -74,7 +80,9 @@
       "name": "この貴族の令嬢に良縁を！",
       "nameCn": "为这位贵族小姐献上良缘！",
       "airdate": "2017-02-01",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 685102,
@@ -84,7 +92,9 @@
       "name": "この仮面の騎士に隷属を！",
       "nameCn": "为这位假面骑士带来部下！",
       "airdate": "2017-02-08",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 685103,
@@ -94,7 +104,9 @@
       "name": "この煩わしい外界にさよならを！",
       "nameCn": "对这个烦人的外界说再见吧！",
       "airdate": "2017-02-15",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 685104,
@@ -104,7 +116,9 @@
       "name": "このふてぶてしい鈍らに招待を！",
       "nameCn": "向妄自尊大的废柴发出邀请！",
       "airdate": "2017-02-22",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 685105,
@@ -114,7 +128,9 @@
       "name": "この痛々しい街で観光を！",
       "nameCn": "在令人心痛的城镇上观光!",
       "airdate": "2017-03-01",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 685106,
@@ -124,7 +140,9 @@
       "name": "この不浄な温泉街に女神を！",
       "nameCn": "为不净的温泉街献上女神！",
       "airdate": "2017-03-08",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1420,
+      "watchedAt": 0
     },
     {
       "id": 685107,
@@ -134,7 +152,9 @@
       "name": "この素晴らしい仲間たちに祝福を！",
       "nameCn": "为美好的伙伴献上祝福！",
       "airdate": "2017-03-15",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1500,
+      "watchedAt": 0
     }
   ]
 }

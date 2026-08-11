@@ -44,7 +44,9 @@
       "name": "高3！",
       "nameCn": "高三！",
       "airdate": "2010-04-06",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 28659,
@@ -54,7 +56,9 @@
       "name": "整頓！",
       "nameCn": "整頓！",
       "airdate": "2010-04-13",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 28660,
@@ -64,7 +68,9 @@
       "name": "ドラマー！",
       "nameCn": "鼓手！",
       "airdate": "2010-04-20",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 28661,
@@ -74,7 +80,9 @@
       "name": "修学旅行！",
       "nameCn": "修學旅行！",
       "airdate": "2010-04-27",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 28662,
@@ -84,7 +92,9 @@
       "name": "お留守番！",
       "nameCn": "看家！",
       "airdate": "2010-05-04",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 28663,
@@ -94,7 +104,9 @@
       "name": "梅雨！",
       "nameCn": "梅雨！",
       "airdate": "2010-05-11",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 28664,
@@ -104,7 +116,9 @@
       "name": "お茶会！",
       "nameCn": "茶會！",
       "airdate": "2010-05-18",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 28665,
@@ -114,7 +128,9 @@
       "name": "進路！",
       "nameCn": "志願！",
       "airdate": "2010-05-25",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 28666,
@@ -124,7 +140,9 @@
       "name": "期末試験！",
       "nameCn": "期末考試！",
       "airdate": "2010-06-01",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 28667,
@@ -134,7 +152,9 @@
       "name": "先生！",
       "nameCn": "老師！",
       "airdate": "2010-06-08",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 28668,
@@ -144,7 +164,9 @@
       "name": "暑い！",
       "nameCn": "好熱！",
       "airdate": "2010-06-15",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 31746,
@@ -154,7 +176,9 @@
       "name": "夏フェス！",
       "nameCn": "夏日祭！",
       "airdate": "2010-06-22",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 31747,
@@ -164,7 +188,9 @@
       "name": "残暑見舞い！",
       "nameCn": "殘暑問候！",
       "airdate": "2010-06-29",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 40971,
@@ -174,7 +200,9 @@
       "name": "夏期講習！",
       "nameCn": "夏季講座！",
       "airdate": "2010-07-06",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 40972,
@@ -184,7 +212,9 @@
       "name": "マラソン大会",
       "nameCn": "馬拉松大會！",
       "airdate": "2010-07-13",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 40973,
@@ -194,7 +224,9 @@
       "name": "先輩！",
       "nameCn": "前輩！",
       "airdate": "2010-07-20",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 40974,
@@ -204,7 +236,9 @@
       "name": "部室がない！",
       "nameCn": "沒有活動室！",
       "airdate": "2010-07-27",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 40975,
@@ -214,7 +248,9 @@
       "name": "主役！",
       "nameCn": "主角！",
       "airdate": "2010-08-03",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 40976,
@@ -224,7 +260,9 @@
       "name": "ロミジュリ！",
       "nameCn": "羅密茱麗！",
       "airdate": "2010-08-10",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 40977,
@@ -234,7 +272,9 @@
       "name": "またまた学園祭！",
       "nameCn": "还是学园祭！",
       "airdate": "2010-08-17",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 40978,
@@ -244,7 +284,9 @@
       "name": "卒業アルバム！",
       "nameCn": "毕业相册！",
       "airdate": "2010-08-24",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 40979,
@@ -254,7 +296,9 @@
       "name": "受験！",
       "nameCn": "高考！",
       "airdate": "2010-08-31",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 40980,
@@ -264,7 +308,9 @@
       "name": "放課後！",
       "nameCn": "放学后！",
       "airdate": "2010-09-07",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 40981,
@@ -274,7 +320,9 @@
       "name": "卒業式！",
       "nameCn": "毕业典礼！",
       "airdate": "2010-09-14",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 48476,
@@ -284,7 +332,9 @@
       "name": "番外編 企画会議！",
       "nameCn": "番外篇 企划会议！",
       "airdate": "2010-09-21",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     },
     {
       "id": 48477,
@@ -294,7 +344,9 @@
       "name": "番外編 訪問！",
       "nameCn": "番外篇 访问！",
       "airdate": "2010-09-28",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1450,
+      "watchedAt": 0
     }
   ]
 }

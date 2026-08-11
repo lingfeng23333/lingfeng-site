@@ -44,7 +44,9 @@
       "name": "ディープブルー",
       "nameCn": "深蓝",
       "airdate": "2018-07-13",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1457,
+      "watchedAt": 0
     },
     {
       "id": 801945,
@@ -54,7 +56,9 @@
       "name": "水の中で",
       "nameCn": "在水中",
       "airdate": "2018-07-20",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1457,
+      "watchedAt": 0
     },
     {
       "id": 801946,
@@ -64,7 +68,9 @@
       "name": "新世界",
       "nameCn": "新世界",
       "airdate": "2018-07-27",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1457,
+      "watchedAt": 0
     },
     {
       "id": 801947,
@@ -74,7 +80,9 @@
       "name": "男コン",
       "nameCn": "男竞",
       "airdate": "2018-08-03",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1457,
+      "watchedAt": 0
     },
     {
       "id": 801948,
@@ -84,7 +92,9 @@
       "name": "後の祭り",
       "nameCn": "马后炮",
       "airdate": "2018-08-10",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1457,
+      "watchedAt": 0
     },
     {
       "id": 801949,
@@ -94,7 +104,9 @@
       "name": "初バディ",
       "nameCn": "第一位潜伴",
       "airdate": "2018-08-17",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1457,
+      "watchedAt": 0
     },
     {
       "id": 801950,
@@ -104,7 +116,9 @@
       "name": "ダブルス",
       "nameCn": "双打",
       "airdate": "2018-08-24",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1457,
+      "watchedAt": 0
     },
     {
       "id": 801951,
@@ -114,7 +128,9 @@
       "name": "男のカクテル",
       "nameCn": "男人的鸡尾酒",
       "airdate": "2018-08-31",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1457,
+      "watchedAt": 0
     },
     {
       "id": 801952,
@@ -124,7 +140,9 @@
       "name": "王様ゲーム",
       "nameCn": "国王游戏",
       "airdate": "2018-09-07",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1457,
+      "watchedAt": 0
     },
     {
       "id": 801953,
@@ -134,7 +152,9 @@
       "name": "沖縄上陸",
       "nameCn": "登陆冲绳",
       "airdate": "2018-09-14",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1457,
+      "watchedAt": 0
     },
     {
       "id": 801954,
@@ -144,7 +164,9 @@
       "name": "誤解なんだが",
       "nameCn": "你们误会了",
       "airdate": "2018-09-21",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1457,
+      "watchedAt": 0
     },
     {
       "id": 801955,
@@ -154,7 +176,9 @@
       "name": "オトーリ",
       "nameCn": "御通",
       "airdate": "2018-09-28",
-      "watchStatus": 0
+      "watchStatus": 0,
+      "durationSeconds": 1457,
+      "watchedAt": 0
     }
   ]
 }

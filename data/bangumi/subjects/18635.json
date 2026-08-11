@@ -44,7 +44,9 @@
       "name": "発生 genesis",
       "nameCn": "发生",
       "airdate": "2011-10-13",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1779725356
     },
     {
       "id": 122815,
@@ -54,7 +56,9 @@
       "name": "適者 survival of the fittest",
       "nameCn": "适者生存",
       "airdate": "2011-10-20",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1779899479
     },
     {
       "id": 122816,
@@ -64,7 +68,9 @@
       "name": "顕出 void-sampling",
       "nameCn": "虚空采样",
       "airdate": "2011-10-27",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1779947952
     },
     {
       "id": 122817,
@@ -74,7 +80,9 @@
       "name": "浮動 flux",
       "nameCn": "流动",
       "airdate": "2011-11-03",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1779955563
     },
     {
       "id": 122818,
@@ -84,7 +92,9 @@
       "name": "訓練 a preparation",
       "nameCn": "训练",
       "airdate": "2011-11-10",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1779958105
     },
     {
       "id": 122819,
@@ -94,7 +104,9 @@
       "name": "檻 leukocytes",
       "nameCn": "牢笼",
       "airdate": "2011-11-17",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1779974409
     },
     {
       "id": 122820,
@@ -104,7 +116,9 @@
       "name": "輪舞 temptation",
       "nameCn": "圆舞",
       "airdate": "2011-11-24",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1779982286
     },
     {
       "id": 122821,
@@ -114,7 +128,9 @@
       "name": "夏日 courtship behavior",
       "nameCn": "夏天",
       "airdate": "2011-12-01",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1780127371
     },
     {
       "id": 122822,
@@ -124,7 +140,9 @@
       "name": "捕食 prey",
       "nameCn": "捕食",
       "airdate": "2011-12-08",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1780129030
     },
     {
       "id": 122823,
@@ -134,7 +152,9 @@
       "name": "縮退 retraction",
       "nameCn": "退缩",
       "airdate": "2011-12-15",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1780144081
     },
     {
       "id": 122824,
@@ -144,7 +164,9 @@
       "name": "共鳴 resonance",
       "nameCn": "共鸣",
       "airdate": "2011-12-22",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1780158688
     },
     {
       "id": 122825,
@@ -154,7 +176,9 @@
       "name": "再誕 the lost christmas",
       "nameCn": "再诞",
       "airdate": "2012-01-12",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1780217435
     },
     {
       "id": 122826,
@@ -164,7 +188,9 @@
       "name": "学園 isolation",
       "nameCn": "学园",
       "airdate": "2012-01-19",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1780233835
     },
     {
       "id": 122827,
@@ -174,7 +200,9 @@
       "name": "攪乱 election",
       "nameCn": "扰乱",
       "airdate": "2012-01-26",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1780238962
     },
     {
       "id": 122828,
@@ -184,7 +212,9 @@
       "name": "告白 sacrifice",
       "nameCn": "告白",
       "airdate": "2012-02-02",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1780241711
     },
     {
       "id": 122829,
@@ -194,7 +224,9 @@
       "name": "王国 the tyrant",
       "nameCn": "王国",
       "airdate": "2012-02-09",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1780267357
     },
     {
       "id": 122830,
@@ -204,7 +236,9 @@
       "name": "革命 exodus",
       "nameCn": "革命",
       "airdate": "2012-02-16",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1780446739
     },
     {
       "id": 122831,
@@ -214,7 +248,9 @@
       "name": "流離 Dear ...",
       "nameCn": "流离",
       "airdate": "2012-02-23",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1780504497
     },
     {
       "id": 122832,
@@ -224,7 +260,9 @@
       "name": "贖罪 rebirth",
       "nameCn": "赎罪",
       "airdate": "2012-03-01",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1780730243
     },
     {
       "id": 122833,
@@ -234,7 +272,9 @@
       "name": "追想 a diary",
       "nameCn": "追想",
       "airdate": "2012-03-08",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1780733342
     },
     {
       "id": 137788,
@@ -244,7 +284,9 @@
       "name": "羽化 emergence",
       "nameCn": "羽化",
       "airdate": "2012-03-15",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1780761828
     },
     {
       "id": 137789,
@@ -254,7 +296,9 @@
       "name": "祈り convergence",
       "nameCn": "祈祷",
       "airdate": "2012-03-22",
-      "watchStatus": 2
+      "watchStatus": 2,
+      "durationSeconds": 0,
+      "watchedAt": 1780809436
     }
   ]
 }
