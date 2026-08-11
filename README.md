@@ -30,20 +30,19 @@ npm run dev       # 本地开发 http://localhost:3000
 
 ```md
 ---
-title: EP04 · 辉煌光荣的古籍部之昔日
-subject_id: 27364
-anime: 冰菓
-ep: 4
+title: EP18 · 从零开始
+subject_id: 140001
+anime: Re：从零开始的异世界生活
+ep: 18
 date: 2026-08-11
-tags: [感想, 冰菓]
-spoiler: true
-summary: 一句话短评。
+tags: [感想, ReZero]
+summary: 失去一切的少年和眼中只有少年的少女。
 ---
 
 正文……
 ```
 
-不带 `subject_id` 就是普通文章。`spoiler: true` 会默认折叠正文。
+不带 `subject_id` 就是普通文章。`spoiler: true` 可选，开启后正文默认折叠。
 
 ## 自动同步
 

@@ -19,7 +19,7 @@ try {
   $targets = @(
     @{ Path = "/"; Name = "home" },
     @{ Path = "/bangumi"; Name = "bangumi" },
-    @{ Path = "/blog/bingguo-ep4"; Name = "post" },
+    @{ Path = "/blog/rezero-ep11"; Name = "post" },
     @{ Path = "/bangumi/27364"; Name = "subject" },
     @{ Path = "/stats"; Name = "stats" }
   )
@@ -49,8 +49,8 @@ try {
     @{ Path = "/"; Text = "最近在看" },
     @{ Path = "/bangumi"; Text = "共 35 部" },
     @{ Path = "/bangumi/27364"; Text = "冰菓" },
-    @{ Path = "/blog/bingguo-ep4"; Text = "辉煌光荣的古籍部之昔日" },
-    @{ Path = "/blog/bingguo-ep4"; Text = "剧透" },
+    @{ Path = "/blog/rezero-ep11"; Text = "蕾姆" },
+    @{ Path = "/blog/rezero-ep11"; Text = "AI 答疑存档" },
     @{ Path = "/about"; Text = "本站是干嘛的" },
     @{ Path = "/stats"; Text = "成就墙" },
     @{ Path = "/stats"; Text = "最近 12 周" },

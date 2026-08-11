@@ -7,6 +7,17 @@ function postsDir() {
   return path.join(process.cwd(), "content", "posts");
 }
 
+const CJK_REGEX = /[\u3400-\u9fff\u3040-\u30ff\uac00-\ud7af]/g;
+
+function countWords(text: string): number {
+  const cjkCount = (text.match(CJK_REGEX) ?? []).length;
+  const latinCount = text
+    .replace(CJK_REGEX, " ")
+    .split(/\s+/)
+    .filter(Boolean).length;
+  return cjkCount + latinCount;
+}
+
 function readPost(file: string): Post | null {
   const full = path.join(postsDir(), file);
   if (!fs.existsSync(full)) return null;
@@ -16,7 +27,7 @@ function readPost(file: string): Post | null {
   const tags = Array.isArray(data.tags)
     ? data.tags.map((t) => String(t))
     : [];
-  const words = content.trim() ? content.trim().split(/\s+/).length : 0;
+  const words = countWords(content);
 
   return {
     slug,

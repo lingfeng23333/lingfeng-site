@@ -40,7 +40,7 @@ export default async function PostPage({
   const { prev, next } = getAdjacentPosts(slug);
 
   const markdown = (
-    <div className="prose max-w-none prose-headings:text-ink-900 prose-a:text-accent-600 prose-strong:text-ink-900 prose-blockquote:border-accent-500/30">
+    <div className="prose max-w-none prose-headings:text-ink-900 prose-a:text-accent-600 prose-strong:text-ink-900">
       <ReactMarkdown remarkPlugins={[remarkGfm]}>
         {post.content}
       </ReactMarkdown>

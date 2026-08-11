@@ -54,6 +54,18 @@ body {
   box-shadow: 0 10px 34px rgba(43, 42, 52, 0.06);
 }
 
+/* 蕾姆蓝歌词 / 引用块 */
+.prose blockquote {
+  border-left-color: #5aa7d6;
+  background: rgba(90, 167, 214, 0.08);
+  color: #2b5a80;
+  border-radius: 0 0.75rem 0.75rem 0;
+}
+
+.prose blockquote p {
+  color: #2b5a80;
+}
+
 .bg-fade {
   animation: bgfade 1.4s ease;
 }

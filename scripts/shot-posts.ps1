@@ -17,15 +17,16 @@ try {
   $edge = "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
   $targets = @(
     @{ Path = "/blog/rezero-ep11"; Name = "post-ep11" },
-    @{ Path = "/blog/rezero-ep18"; Name = "post-ep18" }
+    @{ Path = "/blog/rezero-ep18"; Name = "post-ep18"; Height = 4400 }
   )
   foreach ($t in $targets) {
     $out = Join-Path $dir ($t.Name + ".png")
     if (Test-Path -LiteralPath $out) { Remove-Item -LiteralPath $out -Force }
     $prof = Join-Path $env:TEMP ("edge-post-" + [guid]::NewGuid().ToString("N"))
+    $height = if ($t.Height) { $t.Height } else { 1000 }
     & $edge --headless=new --disable-gpu --hide-scrollbars --no-first-run `
       --disable-extensions --disable-sync `
-      "--user-data-dir=$prof" --window-size=1280,1000 --virtual-time-budget=9000 `
+      "--user-data-dir=$prof" --window-size=1280,$height --virtual-time-budget=9000 `
       "--screenshot=$out" ("http://localhost:3100" + $t.Path) 2>$null
     $waited = 0
     while (-not (Test-Path -LiteralPath $out) -and $waited -lt 30) {
