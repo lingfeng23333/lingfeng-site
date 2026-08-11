@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { useCallback, useEffect, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 
 interface WallpaperPayload {
   url: string | null;
@@ -10,6 +10,8 @@ interface WallpaperPayload {
 
 export default function Wallpaper() {
   const [bg, setBg] = useState<WallpaperPayload | null>(null);
+  const portraitRetry = useRef(false);
+  const errorRetry = useRef(false);
 
   const load = useCallback(async () => {
     try {
@@ -19,6 +21,30 @@ export default function Wallpaper() {
       // 保持当前背景即可
     }
   }, []);
+
+  const handleLoad = (e: React.SyntheticEvent<HTMLImageElement>) => {
+    const img = e.currentTarget;
+    if (img.naturalWidth <= 0) return;
+    if (img.naturalWidth < img.naturalHeight) {
+      // 竖图不适合铺满，换一张（每张最多重试一次，避免死循环）
+      if (!portraitRetry.current) {
+        portraitRetry.current = true;
+        load();
+      }
+    } else {
+      portraitRetry.current = false;
+      errorRetry.current = false;
+    }
+  };
+
+  const handleError = () => {
+    if (!errorRetry.current) {
+      errorRetry.current = true;
+      load();
+    } else {
+      setBg(null);
+    }
+  };
 
   useEffect(() => {
     const first = setTimeout(load, 0);
@@ -43,17 +69,9 @@ export default function Wallpaper() {
             fill
             sizes="100vw"
             unoptimized
-            onError={() => setBg({ url: null })}
-            className="scale-110 object-cover opacity-90 blur-3xl"
-          />
-          <Image
-            src={bg.url}
-            alt=""
-            fill
-            sizes="100vw"
-            unoptimized
-            onError={() => setBg({ url: null })}
-            className="object-contain"
+            onError={handleError}
+            onLoad={handleLoad}
+            className="object-cover"
           />
         </div>
       ) : null}

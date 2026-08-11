@@ -28,7 +28,7 @@ async function fetchRemoteWallpaper(
   try {
     const res = await fetch(remoteUrl, {
       headers: { Accept: "application/json,image/*" },
-      signal: AbortSignal.timeout(9000),
+      signal: AbortSignal.timeout(6000),
       redirect: "follow",
     });
     if (!res.ok) return null;
@@ -61,15 +61,36 @@ async function fetchRemoteWallpaper(
 
 const REMOTE_SOURCES: { build: () => string }[] = [
   {
-    build: () => "https://api.lolicon.app/setu/v2?r18=0&num=1&size=regular",
-  },
-  {
     build: () => "https://api.nyan.xyz/animeapi/v2/img?type=pc",
   },
   {
     build: () => "https://t.alcy.cc/moez",
   },
 ];
+
+async function fetchWallhaven(): Promise<WallpaperResult | null> {
+  try {
+    const res = await fetch(
+      "https://wallhaven.cc/api/v1/search?categories=010&purity=100&sorting=random&atleast=1920x1080&ratios=landscape",
+      {
+        headers: { Accept: "application/json" },
+        signal: AbortSignal.timeout(6000),
+      },
+    );
+    if (!res.ok) return null;
+    const data = await res.json().catch(() => null);
+    const item = Array.isArray(data?.data) ? data.data[0] : null;
+    if (!item?.path) return null;
+    return {
+      url: item.path,
+      credit: item.resolution
+        ? `wallhaven.cc · ${item.resolution}`
+        : "wallhaven.cc",
+    };
+  } catch {
+    return null;
+  }
+}
 
 export async function GET() {
   const envUrl = process.env.WALLPAPER_API;
@@ -78,9 +99,22 @@ export async function GET() {
     if (hit) return NextResponse.json(hit);
   }
 
-  for (const source of REMOTE_SOURCES) {
-    const hit = await fetchRemoteWallpaper(source.build());
-    if (hit) return NextResponse.json(hit);
+  const candidates: Promise<WallpaperResult>[] = [
+    fetchWallhaven().then((r) =>
+      r ? r : Promise.reject(new Error("empty")),
+    ),
+    ...REMOTE_SOURCES.map((source) =>
+      fetchRemoteWallpaper(source.build()).then((r) =>
+        r ? r : Promise.reject(new Error("empty")),
+      ),
+    ),
+  ];
+
+  try {
+    const hit = await Promise.any(candidates);
+    return NextResponse.json(hit);
+  } catch {
+    // 所有远程源都失败时走本地兜底
   }
 
   const local = pickLocalWallpaper();

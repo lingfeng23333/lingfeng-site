@@ -9,6 +9,9 @@ Set-Content -LiteralPath $log -Value "START" -Encoding UTF8
 $job = Start-Job -ScriptBlock {
   param($d)
   Set-Location $d
+  $env:HTTPS_PROXY = "http://127.0.0.1:7890"
+  $env:HTTP_PROXY = "http://127.0.0.1:7890"
+  $env:NODE_USE_ENV_PROXY = "1"
   npm.cmd run start -- -p 3100
 } -ArgumentList $wd
 
@@ -26,6 +29,12 @@ try {
   while (-not (Test-Path -LiteralPath $out) -and $waited -lt 30) {
     Start-Sleep -Milliseconds 500
     $waited++
+  }
+  try {
+    $wp = Invoke-RestMethod -Uri "http://localhost:3100/api/wallpaper" -TimeoutSec 15
+    Add-Content -LiteralPath $log -Value ("WALL " + ($wp | ConvertTo-Json -Compress)) -Encoding UTF8
+  } catch {
+    Add-Content -LiteralPath $log -Value ("WALL ERROR " + $_.Exception.Message) -Encoding UTF8
   }
   Add-Content -LiteralPath $log -Value ("home " + (Test-Path -LiteralPath $out)) -Encoding UTF8
 } finally {
