@@ -1,0 +1,290 @@
+{
+  "id": 909,
+  "name": "とらドラ！",
+  "nameCn": "龙与虎",
+  "cover": "/covers/909.jpg",
+  "coverRemote": "https://lain.bgm.tv/pic/cover/l/a4/30/909_e5zhk.jpg",
+  "airDate": "2008-10-01",
+  "totalEpisodes": 26,
+  "rating": {
+    "score": 8,
+    "rank": 246,
+    "total": 27746
+  },
+  "summary": "　　因眼神凶恶而被班里同学看作不良少年的高须龙儿，进入了高中二年级，并幸运地和暗恋的少女栉枝实乃梨同班，对崭新的校园生活满怀希望。\r\n　　开学典礼后龙儿与校内最恐怖的有“掌上老虎”之称的逢坂大河狭路相逢，周围人一同陷入了惊恐状态。然而他意外地发现，逢坂同时也是实乃梨的闺蜜。\r\n　　在二人相遇的当晚，龙儿知道了原来她暗恋的是自己的好友北村祐作，而自己暗恋实乃梨的事也被大河知道了！互相了解对方情况的两人结成了“恋爱同盟战线”，开始了半共同生活……",
+  "tags": [
+    "钉宫理惠",
+    "校园",
+    "龙与虎",
+    "恋爱",
+    "J.C.STAFF",
+    "青春",
+    "轻小说改",
+    "2008年10月",
+    "萌虎",
+    "TV",
+    "掌中老虎",
+    "2008"
+  ],
+  "platform": "TV",
+  "nsfw": false,
+  "collectionType": 1,
+  "epStatus": 0,
+  "volStatus": 0,
+  "rate": 0,
+  "comment": null,
+  "private": false,
+  "updatedAt": "2026-08-01T11:21:15+08:00",
+  "episodes": [
+    {
+      "id": 1708,
+      "ep": 1,
+      "sort": 1,
+      "type": 0,
+      "name": "虎と竜",
+      "nameCn": "龙与虎",
+      "airdate": "2008-10-01",
+      "watchStatus": 0
+    },
+    {
+      "id": 1709,
+      "ep": 2,
+      "sort": 2,
+      "type": 0,
+      "name": "竜児と大河",
+      "nameCn": "龙儿与大河",
+      "airdate": "2008-10-08",
+      "watchStatus": 0
+    },
+    {
+      "id": 1710,
+      "ep": 3,
+      "sort": 3,
+      "type": 0,
+      "name": "君の歌",
+      "nameCn": "你的歌",
+      "airdate": "2008-10-15",
+      "watchStatus": 0
+    },
+    {
+      "id": 1711,
+      "ep": 4,
+      "sort": 4,
+      "type": 0,
+      "name": "あのときの顔",
+      "nameCn": "那时候的表情",
+      "airdate": "2008-10-22",
+      "watchStatus": 0
+    },
+    {
+      "id": 1712,
+      "ep": 5,
+      "sort": 5,
+      "type": 0,
+      "name": "かわしまあみ",
+      "nameCn": "川嶋亚美",
+      "airdate": "2008-10-29",
+      "watchStatus": 0
+    },
+    {
+      "id": 1713,
+      "ep": 6,
+      "sort": 6,
+      "type": 0,
+      "name": "ほんとの自分",
+      "nameCn": "真正的自己",
+      "airdate": "2008-11-05",
+      "watchStatus": 0
+    },
+    {
+      "id": 1714,
+      "ep": 7,
+      "sort": 7,
+      "type": 0,
+      "name": "プールびらき",
+      "nameCn": "泳池开放",
+      "airdate": "2008-11-12",
+      "watchStatus": 0
+    },
+    {
+      "id": 1715,
+      "ep": 8,
+      "sort": 8,
+      "type": 0,
+      "name": "だれのため",
+      "nameCn": "为谁而战",
+      "airdate": "2008-11-19",
+      "watchStatus": 0
+    },
+    {
+      "id": 1716,
+      "ep": 9,
+      "sort": 9,
+      "type": 0,
+      "name": "海にいこうと君は",
+      "nameCn": "与你共赴海滩",
+      "airdate": "2008-11-26",
+      "watchStatus": 0
+    },
+    {
+      "id": 1717,
+      "ep": 10,
+      "sort": 10,
+      "type": 0,
+      "name": "花火",
+      "nameCn": "烟花",
+      "airdate": "2008-12-03",
+      "watchStatus": 0
+    },
+    {
+      "id": 1718,
+      "ep": 11,
+      "sort": 11,
+      "type": 0,
+      "name": "大橋高校文化祭【前編】",
+      "nameCn": "大桥高中文化祭【前编】",
+      "airdate": "2008-12-10",
+      "watchStatus": 0
+    },
+    {
+      "id": 1719,
+      "ep": 12,
+      "sort": 12,
+      "type": 0,
+      "name": "大橋高校文化祭【中編】",
+      "nameCn": "大桥高中文化祭【中编】",
+      "airdate": "2008-12-17",
+      "watchStatus": 0
+    },
+    {
+      "id": 1720,
+      "ep": 13,
+      "sort": 13,
+      "type": 0,
+      "name": "大橋高校文化祭【後編】",
+      "nameCn": "大桥高中文化祭【后编】",
+      "airdate": "2008-12-24",
+      "watchStatus": 0
+    },
+    {
+      "id": 1721,
+      "ep": 14,
+      "sort": 14,
+      "type": 0,
+      "name": "しあわせの手乗りタイガー",
+      "nameCn": "幸福的掌中老虎",
+      "airdate": "2009-01-07",
+      "watchStatus": 0
+    },
+    {
+      "id": 1722,
+      "ep": 15,
+      "sort": 15,
+      "type": 0,
+      "name": "星は、遠く",
+      "nameCn": "星星、好遥远",
+      "airdate": "2009-01-14",
+      "watchStatus": 0
+    },
+    {
+      "id": 1026,
+      "ep": 16,
+      "sort": 16,
+      "type": 0,
+      "name": "踏み出す一歩",
+      "nameCn": "踏出的一步",
+      "airdate": "2009-01-21",
+      "watchStatus": 0
+    },
+    {
+      "id": 1723,
+      "ep": 17,
+      "sort": 17,
+      "type": 0,
+      "name": "クリスマスに水星は逆行する",
+      "nameCn": "圣诞节水星将逆转",
+      "airdate": "2009-01-28",
+      "watchStatus": 0
+    },
+    {
+      "id": 1724,
+      "ep": 18,
+      "sort": 18,
+      "type": 0,
+      "name": "もみの木の下で",
+      "nameCn": "在圣诞树之下",
+      "airdate": "2009-02-04",
+      "watchStatus": 0
+    },
+    {
+      "id": 1725,
+      "ep": 19,
+      "sort": 19,
+      "type": 0,
+      "name": "聖夜祭",
+      "nameCn": "圣诞派对",
+      "airdate": "2009-02-11",
+      "watchStatus": 0
+    },
+    {
+      "id": 1726,
+      "ep": 20,
+      "sort": 20,
+      "type": 0,
+      "name": "ずっと、このまま",
+      "nameCn": "一直，就这样",
+      "airdate": "2009-02-18",
+      "watchStatus": 0
+    },
+    {
+      "id": 1727,
+      "ep": 21,
+      "sort": 21,
+      "type": 0,
+      "name": "どうしたって",
+      "nameCn": "无论怎么做",
+      "airdate": "2009-02-25",
+      "watchStatus": 0
+    },
+    {
+      "id": 1728,
+      "ep": 22,
+      "sort": 22,
+      "type": 0,
+      "name": "君のいる景色",
+      "nameCn": "有你的景色",
+      "airdate": "2009-03-04",
+      "watchStatus": 0
+    },
+    {
+      "id": 1729,
+      "ep": 23,
+      "sort": 23,
+      "type": 0,
+      "name": "進むべき道",
+      "nameCn": "应该前进的道路",
+      "airdate": "2009-03-11",
+      "watchStatus": 0
+    },
+    {
+      "id": 1730,
+      "ep": 24,
+      "sort": 24,
+      "type": 0,
+      "name": "告白",
+      "nameCn": "告白",
+      "airdate": "2009-03-18",
+      "watchStatus": 0
+    },
+    {
+      "id": 2709,
+      "ep": 25,
+      "sort": 25,
+      "type": 0,
+      "name": "とらドラ！",
+      "nameCn": "龙与虎！",
+      "airdate": "2009-03-25",
+      "watchStatus": 0
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "id": 74628,
+  "name": "ニセコイ",
+  "nameCn": "伪恋",
+  "cover": "/covers/74628.jpg",
+  "coverRemote": "https://lain.bgm.tv/pic/cover/l/98/71/74628_8HHlL.jpg",
+  "airDate": "2014-01-11",
+  "totalEpisodes": 20,
+  "rating": {
+    "score": 7.1,
+    "rank": 2309,
+    "total": 11463
+  },
+  "summary": "　　虽然看上去平凡无奇，但其实是流氓第二代的高中生·一条乐，遇上了转学到班上的美国黑帮大小姐·桐崎千棘。个性合不來的两人，总是天天吵架。但此时，双方的父亲，却要他们为了使双方家族能和平相处，假装成一对恋人？虽然乐其实喜欢同班同学·小野寺，但迫于现实无奈的两人，还是心不甘情不愿地开始了咬牙切齿、动手动脚的「甜蜜」生活…",
+  "tags": [
+    "新房昭之",
+    "恋爱",
+    "后宫",
+    "SHAFT",
+    "2014年1月",
+    "漫画改",
+    "伪恋",
+    "TV",
+    "花泽香菜",
+    "校园",
+    "东山奈央",
+    "2014"
+  ],
+  "platform": "TV",
+  "nsfw": false,
+  "collectionType": 2,
+  "epStatus": 20,
+  "volStatus": 0,
+  "rate": 8,
+  "comment": "用了大概两周的时间看完的吧。\r\n其实是一部很棒的恋爱喜剧，人设非常优秀，很讨喜。去伪存真，由伪入真便是真正的伪装之恋。包括SHAFT和新房的独特演出风格，很加分。\r\n但抛开优秀的人设来说，虽然本人是千棘党，但每次剧情杀都有点太突兀了。其实从一开始的剧情以及标题来看，千棘就是绝对的女主角，包括一次又一次的剧情杀和破坏氛围，就相当于已经没有选择了。呃呃啊啊啊，说真的为小野寺感到心痛，但没办法，党争番就是如此啊。\r\n归根结底，是作者把每一个女孩都刻画得太好了，每个人单拉出来都是完美的女主角，反而让人在结局时充满无奈，不知道该用什么语言来叹息。\r\n虽然有时候看的会很难受，但综合来说是对得起这个分数的。",
+  "private": false,
+  "updatedAt": "2026-08-04T15:19:41+08:00",
+  "episodes": [
+    {
+      "id": 350237,
+      "ep": 1,
+      "sort": 1,
+      "type": 0,
+      "name": "ヤクソク",
+      "nameCn": "约定",
+      "airdate": "2014-01-11",
+      "watchStatus": 2
+    },
+    {
+      "id": 350238,
+      "ep": 2,
+      "sort": 2,
+      "type": 0,
+      "name": "ソウグウ",
+      "nameCn": "遭遇",
+      "airdate": "2014-01-18",
+      "watchStatus": 2
+    },
+    {
+      "id": 350239,
+      "ep": 3,
+      "sort": 3,
+      "type": 0,
+      "name": "ニタモノ",
+      "nameCn": "相似之物",
+      "airdate": "2014-01-25",
+      "watchStatus": 2
+    },
+    {
+      "id": 350240,
+      "ep": 4,
+      "sort": 4,
+      "type": 0,
+      "name": "ホウモン",
+      "nameCn": "访问",
+      "airdate": "2014-02-01",
+      "watchStatus": 2
+    },
+    {
+      "id": 350241,
+      "ep": 5,
+      "sort": 5,
+      "type": 0,
+      "name": "スイエイ",
+      "nameCn": "游泳",
+      "airdate": "2014-02-08",
+      "watchStatus": 2
+    },
+    {
+      "id": 350242,
+      "ep": 6,
+      "sort": 6,
+      "type": 0,
+      "name": "カシカリ",
+      "nameCn": "借与还",
+      "airdate": "2014-02-15",
+      "watchStatus": 2
+    },
+    {
+      "id": 350243,
+      "ep": 7,
+      "sort": 7,
+      "type": 0,
+      "name": "ライバル",
+      "nameCn": "对手",
+      "airdate": "2014-02-22",
+      "watchStatus": 2
+    },
+    {
+      "id": 350244,
+      "ep": 8,
+      "sort": 8,
+      "type": 0,
+      "name": "シアワセ",
+      "nameCn": "幸福",
+      "airdate": "2014-03-01",
+      "watchStatus": 2
+    },
+    {
+      "id": 350245,
+      "ep": 9,
+      "sort": 9,
+      "type": 0,
+      "name": "オンセン",
+      "nameCn": "温泉",
+      "airdate": "2014-03-08",
+      "watchStatus": 2
+    },
+    {
+      "id": 350246,
+      "ep": 10,
+      "sort": 10,
+      "type": 0,
+      "name": "クジビキ",
+      "nameCn": "抽签",
+      "airdate": "2014-03-15",
+      "watchStatus": 2
+    },
+    {
+      "id": 350247,
+      "ep": 11,
+      "sort": 11,
+      "type": 0,
+      "name": "オイワイ",
+      "nameCn": "庆祝",
+      "airdate": "2014-03-22",
+      "watchStatus": 2
+    },
+    {
+      "id": 350248,
+      "ep": 12,
+      "sort": 12,
+      "type": 0,
+      "name": "カクニン",
+      "nameCn": "确认",
+      "airdate": "2014-03-29",
+      "watchStatus": 2
+    },
+    {
+      "id": 350249,
+      "ep": 13,
+      "sort": 13,
+      "type": 0,
+      "name": "ホウカゴ",
+      "nameCn": "放学后",
+      "airdate": "2014-04-05",
+      "watchStatus": 2
+    },
+    {
+      "id": 350250,
+      "ep": 14,
+      "sort": 14,
+      "type": 0,
+      "name": "シュラバ",
+      "nameCn": "修罗场",
+      "airdate": "2014-04-12",
+      "watchStatus": 2
+    },
+    {
+      "id": 350251,
+      "ep": 15,
+      "sort": 15,
+      "type": 0,
+      "name": "サンボン",
+      "nameCn": "三把钥匙",
+      "airdate": "2014-04-19",
+      "watchStatus": 2
+    },
+    {
+      "id": 350252,
+      "ep": 16,
+      "sort": 16,
+      "type": 0,
+      "name": "タイフウ",
+      "nameCn": "台风",
+      "airdate": "2014-04-26",
+      "watchStatus": 2
+    },
+    {
+      "id": 350253,
+      "ep": 17,
+      "sort": 17,
+      "type": 0,
+      "name": "エンニチ",
+      "nameCn": "庙会",
+      "airdate": "2014-05-03",
+      "watchStatus": 2
+    },
+    {
+      "id": 350254,
+      "ep": 18,
+      "sort": 18,
+      "type": 0,
+      "name": "ウミベデ",
+      "nameCn": "海边",
+      "airdate": "2014-05-10",
+      "watchStatus": 2
+    },
+    {
+      "id": 350255,
+      "ep": 19,
+      "sort": 19,
+      "type": 0,
+      "name": "エンゲキ",
+      "nameCn": "戏剧",
+      "airdate": "2014-05-17",
+      "watchStatus": 2
+    },
+    {
+      "id": 350256,
+      "ep": 20,
+      "sort": 20,
+      "type": 0,
+      "name": "ホソバン",
+      "nameCn": "实演",
+      "airdate": "2014-05-24",
+      "watchStatus": 2
+    }
+  ]
+}

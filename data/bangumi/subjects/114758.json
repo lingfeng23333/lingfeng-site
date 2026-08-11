@@ -1,0 +1,160 @@
+{
+  "id": 114758,
+  "name": "ニセコイ:",
+  "nameCn": "伪恋：",
+  "cover": "/covers/114758.jpg",
+  "coverRemote": "https://lain.bgm.tv/pic/cover/l/22/cd/114758_27XTt.jpg",
+  "airDate": "2015-04-10",
+  "totalEpisodes": 13,
+  "rating": {
+    "score": 7,
+    "rank": 2757,
+    "total": 8519
+  },
+  "summary": "",
+  "tags": [
+    "新房昭之",
+    "恋爱",
+    "后宫",
+    "SHAFT",
+    "2015年4月",
+    "漫画改",
+    "伪恋",
+    "TV",
+    "搞笑",
+    "校园",
+    "花泽香菜",
+    "2015"
+  ],
+  "platform": "TV",
+  "nsfw": false,
+  "collectionType": 1,
+  "epStatus": 0,
+  "volStatus": 0,
+  "rate": 0,
+  "comment": null,
+  "private": false,
+  "updatedAt": "2026-08-04T11:38:03+08:00",
+  "episodes": [
+    {
+      "id": 512842,
+      "ep": 1,
+      "sort": 1,
+      "type": 0,
+      "name": "コレカラ/キヅイテ",
+      "nameCn": "从此以后/快点发现",
+      "airdate": "2015-04-10",
+      "watchStatus": 0
+    },
+    {
+      "id": 512843,
+      "ep": 2,
+      "sort": 2,
+      "type": 0,
+      "name": "インネン/ショウブ",
+      "nameCn": "命中注定/一决胜负",
+      "airdate": "2015-04-17",
+      "watchStatus": 0
+    },
+    {
+      "id": 512844,
+      "ep": 3,
+      "sort": 3,
+      "type": 0,
+      "name": "ヒツヨウ",
+      "nameCn": "必要存在",
+      "airdate": "2015-04-24",
+      "watchStatus": 0
+    },
+    {
+      "id": 512845,
+      "ep": 4,
+      "sort": 4,
+      "type": 0,
+      "name": "ハハオヤ",
+      "nameCn": "母亲",
+      "airdate": "2015-05-01",
+      "watchStatus": 0
+    },
+    {
+      "id": 512846,
+      "ep": 5,
+      "sort": 5,
+      "type": 0,
+      "name": "オシエテ/ラクサマ",
+      "nameCn": "教教我吧/乐大人",
+      "airdate": "2015-05-08",
+      "watchStatus": 0
+    },
+    {
+      "id": 512847,
+      "ep": 6,
+      "sort": 6,
+      "type": 0,
+      "name": "オイシイ",
+      "nameCn": "美味",
+      "airdate": "2015-05-15",
+      "watchStatus": 0
+    },
+    {
+      "id": 512848,
+      "ep": 7,
+      "sort": 7,
+      "type": 0,
+      "name": "イモウト",
+      "nameCn": "妹妹",
+      "airdate": "2015-05-22",
+      "watchStatus": 0
+    },
+    {
+      "id": 512849,
+      "ep": 8,
+      "sort": 8,
+      "type": 0,
+      "name": "マジカルパティシエ小咲ちゃん!!/ハタラケ",
+      "nameCn": "魔法糕点师小咲!!/工作",
+      "airdate": "2015-05-29",
+      "watchStatus": 0
+    },
+    {
+      "id": 512850,
+      "ep": 9,
+      "sort": 9,
+      "type": 0,
+      "name": "オソウジ／ オミマウ",
+      "nameCn": "打扫／探病",
+      "airdate": "2015-06-05",
+      "watchStatus": 0
+    },
+    {
+      "id": 512851,
+      "ep": 10,
+      "sort": 10,
+      "type": 0,
+      "name": "オウエン",
+      "nameCn": "支持",
+      "airdate": "2015-06-12",
+      "watchStatus": 0
+    },
+    {
+      "id": 512852,
+      "ep": 11,
+      "sort": 11,
+      "type": 0,
+      "name": "ヤセタイ／ オハヨウ",
+      "nameCn": "想瘦身／ 早安",
+      "airdate": "2015-06-19",
+      "watchStatus": 0
+    },
+    {
+      "id": 512853,
+      "ep": 12,
+      "sort": 12,
+      "type": 0,
+      "name": "ソウサク／ オタメシ",
+      "nameCn": "寻找／ 尝试",
+      "airdate": "2015-06-26",
+      "watchStatus": 0
+    }
+  ]
+}

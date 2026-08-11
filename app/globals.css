@@ -1,26 +1,68 @@
 @import "tailwindcss";
+@plugin "@tailwindcss/typography";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@theme {
+  --font-sans: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei",
+    "Noto Sans SC", system-ui, -apple-system, sans-serif;
+  --font-display: "LXGW WenKai", "Kaiti SC", "KaiTi", "STKaiti",
+    "PingFang SC", serif;
+
+  --color-paper-50: #fffefb;
+  --color-paper-100: #faf9f5;
+  --color-paper-200: #f3f1ea;
+  --color-paper-300: #e8e5dc;
+
+  --color-ink-900: #2b2a34;
+  --color-ink-700: #4a4957;
+  --color-ink-500: #7b7a88;
+  --color-ink-400: #9c9ba8;
+
+  --color-accent-300: #8fd0da;
+  --color-accent-400: #4db5c4;
+  --color-accent-500: #33a6b8;
+  --color-accent-600: #2a8f9f;
+  --color-accent-700: #1f7482;
+  --color-flare-400: #f8b4c4;
+  --color-flare-500: #f596aa;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: #fefefb;
+  color: var(--color-ink-900);
+  font-family: var(--font-sans);
+}
+
+::selection {
+  background: rgba(51, 166, 184, 0.22);
+}
+
+.text-gradient {
+  background: linear-gradient(120deg, #2a8f9f 0%, #6c7bff 50%, #ee7f99 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.glass {
+  background: rgba(255, 255, 255, 0.78);
+  border: 1px solid rgba(43, 42, 52, 0.08);
+  backdrop-filter: blur(14px);
+  box-shadow: 0 10px 34px rgba(43, 42, 52, 0.06);
+}
+
+.bg-fade {
+  animation: bgfade 1.4s ease;
+}
+
+@keyframes bgfade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }

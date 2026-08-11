@@ -1,0 +1,160 @@
+{
+  "id": 235130,
+  "name": "ぐらんぶる",
+  "nameCn": "碧蓝之海",
+  "cover": "/covers/235130.jpg",
+  "coverRemote": "https://lain.bgm.tv/pic/cover/l/1f/13/235130_suy3s.jpg",
+  "airDate": "2018-07-13",
+  "totalEpisodes": 12,
+  "rating": {
+    "score": 7.9,
+    "rank": 326,
+    "total": 18201
+  },
+  "summary": "北原伊织升入大学后，开始寄住在伊豆的叔父所经营的潜水用具店“Grand Blue”。传入耳中的波涛声、炽烈照射的太阳、开始一起生活的可爱表姐妹……青春的大学生活！\r\n这样的伊织所面临的却是——除了野球拳以外的猜拳一概不知的强壮男人们！！\r\n刚一入学就被大学潜水社团“Peek a Boo”所盯上了的伊织，在会长时·田信治和三年级学生·寿龙次郎的怂恿下，不知不觉已经身为社团的一员加入了他们的愚蠢喧嚣中。在大学中认识的虽然长得帅但性格却很遗憾的宅男——今村耕平也加入其中，他们的青春向着越来越奇怪的方向转进。\r\n明明在寄住的地方有着可爱的表姐妹——古手川姐妹，但自己却被妹妹千纱当成垃圾看待，而姐姐奈奈华又是重度妹控，根本无法成为对象。\r\n在可爱的全裸笨蛋们的包围之下，伊织的大学生活究竟会变得如何……。",
+  "tags": [
+    "搞笑",
+    "颜艺",
+    "漫画改",
+    "2018年7月",
+    "A-1Pictures",
+    "TV",
+    "日常",
+    "碧蓝之海",
+    "校园",
+    "漫改",
+    "爆笑",
+    "2018"
+  ],
+  "platform": "TV",
+  "nsfw": false,
+  "collectionType": 1,
+  "epStatus": 0,
+  "volStatus": 0,
+  "rate": 0,
+  "comment": null,
+  "private": false,
+  "updatedAt": "2026-08-01T11:20:56+08:00",
+  "episodes": [
+    {
+      "id": 801944,
+      "ep": 1,
+      "sort": 1,
+      "type": 0,
+      "name": "ディープブルー",
+      "nameCn": "深蓝",
+      "airdate": "2018-07-13",
+      "watchStatus": 0
+    },
+    {
+      "id": 801945,
+      "ep": 2,
+      "sort": 2,
+      "type": 0,
+      "name": "水の中で",
+      "nameCn": "在水中",
+      "airdate": "2018-07-20",
+      "watchStatus": 0
+    },
+    {
+      "id": 801946,
+      "ep": 3,
+      "sort": 3,
+      "type": 0,
+      "name": "新世界",
+      "nameCn": "新世界",
+      "airdate": "2018-07-27",
+      "watchStatus": 0
+    },
+    {
+      "id": 801947,
+      "ep": 4,
+      "sort": 4,
+      "type": 0,
+      "name": "男コン",
+      "nameCn": "男竞",
+      "airdate": "2018-08-03",
+      "watchStatus": 0
+    },
+    {
+      "id": 801948,
+      "ep": 5,
+      "sort": 5,
+      "type": 0,
+      "name": "後の祭り",
+      "nameCn": "马后炮",
+      "airdate": "2018-08-10",
+      "watchStatus": 0
+    },
+    {
+      "id": 801949,
+      "ep": 6,
+      "sort": 6,
+      "type": 0,
+      "name": "初バディ",
+      "nameCn": "第一位潜伴",
+      "airdate": "2018-08-17",
+      "watchStatus": 0
+    },
+    {
+      "id": 801950,
+      "ep": 7,
+      "sort": 7,
+      "type": 0,
+      "name": "ダブルス",
+      "nameCn": "双打",
+      "airdate": "2018-08-24",
+      "watchStatus": 0
+    },
+    {
+      "id": 801951,
+      "ep": 8,
+      "sort": 8,
+      "type": 0,
+      "name": "男のカクテル",
+      "nameCn": "男人的鸡尾酒",
+      "airdate": "2018-08-31",
+      "watchStatus": 0
+    },
+    {
+      "id": 801952,
+      "ep": 9,
+      "sort": 9,
+      "type": 0,
+      "name": "王様ゲーム",
+      "nameCn": "国王游戏",
+      "airdate": "2018-09-07",
+      "watchStatus": 0
+    },
+    {
+      "id": 801953,
+      "ep": 10,
+      "sort": 10,
+      "type": 0,
+      "name": "沖縄上陸",
+      "nameCn": "登陆冲绳",
+      "airdate": "2018-09-14",
+      "watchStatus": 0
+    },
+    {
+      "id": 801954,
+      "ep": 11,
+      "sort": 11,
+      "type": 0,
+      "name": "誤解なんだが",
+      "nameCn": "你们误会了",
+      "airdate": "2018-09-21",
+      "watchStatus": 0
+    },
+    {
+      "id": 801955,
+      "ep": 12,
+      "sort": 12,
+      "type": 0,
+      "name": "オトーリ",
+      "nameCn": "御通",
+      "airdate": "2018-09-28",
+      "watchStatus": 0
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "id": 364450,
+  "name": "リコリス・リコイル",
+  "nameCn": "莉可丽丝",
+  "cover": "/covers/364450.jpg",
+  "coverRemote": "https://lain.bgm.tv/pic/cover/l/65/19/364450_xx2zx.jpg",
+  "airDate": "2022-07-02",
+  "totalEpisodes": 16,
+  "rating": {
+    "score": 6.3,
+    "rank": 6609,
+    "total": 20273
+  },
+  "summary": "平稳的日子――其实暗藏着秘密防范犯罪的秘密组织――“DA（Direct Attack）”。作为特工的少女们“LYCORIS”。有着历代最强的LYCORIS之称的・锦木千束、优秀的LYCORIS・井之上泷奈，在咖啡厅“LycoReco”支部工作。这里接受的订单从订购咖啡和甜点，到照顾小孩、代购、面向外国人的日语老师等请放心交给“LycoReco”自由自在的乐天派、和平主义的千束与沉着冷静系、效率主义的泷奈二人跌宕起伏的混乱日常正式上演！",
+  "tags": [
+    "原创",
+    "百合",
+    "A-1Pictures",
+    "战斗",
+    "2022年7月",
+    "TV",
+    "日常",
+    "2022",
+    "足立慎吾",
+    "无法预测的命运之舞台",
+    "安済知佳",
+    "若山詩音"
+  ],
+  "platform": "TV",
+  "nsfw": false,
+  "collectionType": 3,
+  "epStatus": 0,
+  "volStatus": 0,
+  "rate": 8,
+  "comment": null,
+  "private": false,
+  "updatedAt": "2026-05-30T22:24:56+08:00",
+  "episodes": [
+    {
+      "id": 1111258,
+      "ep": 1,
+      "sort": 1,
+      "type": 0,
+      "name": "Easy does it",
+      "nameCn": "慢慢来",
+      "airdate": "2022-07-02",
+      "watchStatus": 0
+    },
+    {
+      "id": 1111259,
+      "ep": 2,
+      "sort": 2,
+      "type": 0,
+      "name": "The more the merrier",
+      "nameCn": "多多益善",
+      "airdate": "2022-07-09",
+      "watchStatus": 0
+    },
+    {
+      "id": 1111260,
+      "ep": 3,
+      "sort": 3,
+      "type": 0,
+      "name": "More haste, less speed",
+      "nameCn": "欲速则不达",
+      "airdate": "2022-07-16",
+      "watchStatus": 0
+    },
+    {
+      "id": 1111261,
+      "ep": 4,
+      "sort": 4,
+      "type": 0,
+      "name": "Nothing seek, nothing find",
+      "nameCn": "无所求则无所获",
+      "airdate": "2022-07-23",
+      "watchStatus": 0
+    },
+    {
+      "id": 1111262,
+      "ep": 5,
+      "sort": 5,
+      "type": 0,
+      "name": "So far, so good",
+      "nameCn": "目前情况良好",
+      "airdate": "2022-07-30",
+      "watchStatus": 0
+    },
+    {
+      "id": 1111263,
+      "ep": 6,
+      "sort": 6,
+      "type": 0,
+      "name": "Opposites attract",
+      "nameCn": "不是冤家不聚头",
+      "airdate": "2022-08-06",
+      "watchStatus": 0
+    },
+    {
+      "id": 1111264,
+      "ep": 7,
+      "sort": 7,
+      "type": 0,
+      "name": "Time will tell",
+      "nameCn": "时间会证明一切",
+      "airdate": "2022-08-13",
+      "watchStatus": 0
+    },
+    {
+      "id": 1111265,
+      "ep": 8,
+      "sort": 8,
+      "type": 0,
+      "name": "Another day, another dollar",
+      "nameCn": "得过且过",
+      "airdate": "2022-08-20",
+      "watchStatus": 0
+    },
+    {
+      "id": 1111266,
+      "ep": 9,
+      "sort": 9,
+      "type": 0,
+      "name": "What’s done is done",
+      "nameCn": "无可挽回",
+      "airdate": "2022-08-27",
+      "watchStatus": 0
+    },
+    {
+      "id": 1111267,
+      "ep": 10,
+      "sort": 10,
+      "type": 0,
+      "name": "Repay evil with evil",
+      "nameCn": "以恶报恶",
+      "airdate": "2022-09-03",
+      "watchStatus": 0
+    },
+    {
+      "id": 1111268,
+      "ep": 11,
+      "sort": 11,
+      "type": 0,
+      "name": "Diamond cut diamond",
+      "nameCn": "棋逢对手",
+      "airdate": "2022-09-10",
+      "watchStatus": 0
+    },
+    {
+      "id": 1111269,
+      "ep": 12,
+      "sort": 12,
+      "type": 0,
+      "name": "Nature versus nurture",
+      "nameCn": "先天之才与后天之能",
+      "airdate": "2022-09-17",
+      "watchStatus": 0
+    },
+    {
+      "id": 1115866,
+      "ep": 13,
+      "sort": 13,
+      "type": 0,
+      "name": "Recoil of Lycoris",
+      "nameCn": "铳动彼岸花",
+      "airdate": "2022-09-24",
+      "watchStatus": 0
+    }
+  ]
+}

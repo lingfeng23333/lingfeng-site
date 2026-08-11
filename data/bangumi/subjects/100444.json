@@ -1,0 +1,260 @@
+{
+  "id": 100444,
+  "name": "四月は君の嘘",
+  "nameCn": "四月是你的谎言",
+  "cover": "/covers/100444.jpg",
+  "coverRemote": "https://lain.bgm.tv/pic/cover/l/ec/c7/100444_96r3J.jpg",
+  "airDate": "2014-10-09",
+  "totalEpisodes": 22,
+  "rating": {
+    "score": 8,
+    "rank": 242,
+    "total": 23512
+  },
+  "summary": "　　有马公生的母亲一心想把有马培育成举世闻名的钢琴家，而有马也不负母亲的期望，在念小学时就赢得许多钢琴比赛的大奖。11岁的秋天，有马的母亲过世，从此他再也听不见自己弹奏的钢琴声，沮丧的他也只好放弃演奏，但在14岁那年，经由儿时玩伴的介绍，有马认识了小提琴手宫园薰，并被薰的自由奔放吸引，没想到薰竟开口邀请公生在比赛时担任她的伴奏… ",
+  "tags": [
+    "恋爱",
+    "音乐",
+    "A-1Pictures",
+    "治愈",
+    "青春",
+    "催泪",
+    "四月は君の嘘",
+    "漫画改",
+    "2014年10月",
+    "TV",
+    "2014",
+    "校园"
+  ],
+  "platform": "TV",
+  "nsfw": false,
+  "collectionType": 2,
+  "epStatus": 0,
+  "volStatus": 0,
+  "rate": 8,
+  "comment": "差不多算是看的第一部催泪番吧，可能是泪点低的原因看完哭了一段时间233",
+  "private": false,
+  "updatedAt": "2025-03-06T00:16:46+08:00",
+  "episodes": [
+    {
+      "id": 386536,
+      "ep": 1,
+      "sort": 1,
+      "type": 0,
+      "name": "モノトーン・カラフル",
+      "nameCn": "单调·多彩",
+      "airdate": "2014-10-09",
+      "watchStatus": 0
+    },
+    {
+      "id": 386537,
+      "ep": 2,
+      "sort": 2,
+      "type": 0,
+      "name": "友人A",
+      "nameCn": "友人A",
+      "airdate": "2014-10-16",
+      "watchStatus": 0
+    },
+    {
+      "id": 386538,
+      "ep": 3,
+      "sort": 3,
+      "type": 0,
+      "name": "春の中",
+      "nameCn": "春光里",
+      "airdate": "2014-10-23",
+      "watchStatus": 0
+    },
+    {
+      "id": 386539,
+      "ep": 4,
+      "sort": 4,
+      "type": 0,
+      "name": "旅立ち",
+      "nameCn": "启程",
+      "airdate": "2014-10-30",
+      "watchStatus": 0
+    },
+    {
+      "id": 386540,
+      "ep": 5,
+      "sort": 5,
+      "type": 0,
+      "name": "どんてんもよう",
+      "nameCn": "阴云密布",
+      "airdate": "2014-11-06",
+      "watchStatus": 0
+    },
+    {
+      "id": 386541,
+      "ep": 6,
+      "sort": 6,
+      "type": 0,
+      "name": "帰り道",
+      "nameCn": "归途",
+      "airdate": "2014-11-13",
+      "watchStatus": 0
+    },
+    {
+      "id": 386542,
+      "ep": 7,
+      "sort": 7,
+      "type": 0,
+      "name": "カゲささやく",
+      "nameCn": "暗影低语",
+      "airdate": "2014-11-20",
+      "watchStatus": 0
+    },
+    {
+      "id": 386543,
+      "ep": 8,
+      "sort": 8,
+      "type": 0,
+      "name": "響け",
+      "nameCn": "回响",
+      "airdate": "2014-11-27",
+      "watchStatus": 0
+    },
+    {
+      "id": 386544,
+      "ep": 9,
+      "sort": 9,
+      "type": 0,
+      "name": "共鳴",
+      "nameCn": "共鸣",
+      "airdate": "2014-12-04",
+      "watchStatus": 0
+    },
+    {
+      "id": 386545,
+      "ep": 10,
+      "sort": 10,
+      "type": 0,
+      "name": "君といた景色",
+      "nameCn": "与你共赏的景色",
+      "airdate": "2014-12-11",
+      "watchStatus": 0
+    },
+    {
+      "id": 386546,
+      "ep": 11,
+      "sort": 11,
+      "type": 0,
+      "name": "命の灯",
+      "nameCn": "生命之光",
+      "airdate": "2014-12-18",
+      "watchStatus": 0
+    },
+    {
+      "id": 386547,
+      "ep": 12,
+      "sort": 12,
+      "type": 0,
+      "name": "トゥインクル　リトルスター",
+      "nameCn": "闪耀的小星星",
+      "airdate": "2015-01-08",
+      "watchStatus": 0
+    },
+    {
+      "id": 386548,
+      "ep": 13,
+      "sort": 13,
+      "type": 0,
+      "name": "愛の悲しみ",
+      "nameCn": "爱的忧伤",
+      "airdate": "2015-01-15",
+      "watchStatus": 0
+    },
+    {
+      "id": 386549,
+      "ep": 14,
+      "sort": 14,
+      "type": 0,
+      "name": "足跡",
+      "nameCn": "足迹",
+      "airdate": "2015-01-22",
+      "watchStatus": 0
+    },
+    {
+      "id": 386550,
+      "ep": 15,
+      "sort": 15,
+      "type": 0,
+      "name": "うそつき",
+      "nameCn": "骗子",
+      "airdate": "2015-01-29",
+      "watchStatus": 0
+    },
+    {
+      "id": 386551,
+      "ep": 16,
+      "sort": 16,
+      "type": 0,
+      "name": "似たもの同士",
+      "nameCn": "相似的人",
+      "airdate": "2015-02-05",
+      "watchStatus": 0
+    },
+    {
+      "id": 386552,
+      "ep": 17,
+      "sort": 17,
+      "type": 0,
+      "name": "トワイライト",
+      "nameCn": "暮光",
+      "airdate": "2015-02-12",
+      "watchStatus": 0
+    },
+    {
+      "id": 386553,
+      "ep": 18,
+      "sort": 18,
+      "type": 0,
+      "name": "心重ねる",
+      "nameCn": "心心相印",
+      "airdate": "2015-02-19",
+      "watchStatus": 0
+    },
+    {
+      "id": 386554,
+      "ep": 19,
+      "sort": 19,
+      "type": 0,
+      "name": "さよなら ヒーロー",
+      "nameCn": "再见了 英雄",
+      "airdate": "2015-02-26",
+      "watchStatus": 0
+    },
+    {
+      "id": 386555,
+      "ep": 20,
+      "sort": 20,
+      "type": 0,
+      "name": "手と手",
+      "nameCn": "手与手",
+      "airdate": "2015-03-05",
+      "watchStatus": 0
+    },
+    {
+      "id": 386556,
+      "ep": 21,
+      "sort": 21,
+      "type": 0,
+      "name": "雪",
+      "nameCn": "雪",
+      "airdate": "2015-03-12",
+      "watchStatus": 0
+    },
+    {
+      "id": 386557,
+      "ep": 22,
+      "sort": 22,
+      "type": 0,
+      "name": "春風",
+      "nameCn": "春风",
+      "airdate": "2015-03-19",
+      "watchStatus": 0
+    }
+  ]
+}

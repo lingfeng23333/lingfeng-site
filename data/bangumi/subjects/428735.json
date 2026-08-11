@@ -1,0 +1,170 @@
+{
+  "id": 428735,
+  "name": "BanG Dream! It's MyGO!!!!!",
+  "nameCn": "",
+  "cover": "/covers/428735.jpg",
+  "coverRemote": "https://lain.bgm.tv/pic/cover/l/e7/a7/428735_1v11n.jpg",
+  "airDate": "2023-06-29",
+  "totalEpisodes": 14,
+  "rating": {
+    "score": 7.9,
+    "rank": 272,
+    "total": 31499
+  },
+  "summary": "「能一辈子和我搞乐队吗？」\r\n\r\n在高一的春季即将结束之时，羽丘女子学园里人人都在参加乐队活动。\r\n入学较晚的爱音，也为了尽快融入班级，急忙寻找乐队成员。\r\n在寻找时，她发现被称为「羽丘的不可思议少女」的灯还没有参加乐队，\r\n于是爱音不由得向她发出邀请…\r\n\r\n我们的<音乐(呐喊)>，伤痕累累而充满狼狈。\r\n迷茫也无所谓，迷茫也要前进。",
+  "tags": [
+    "BanGDream",
+    "原创",
+    "音乐",
+    "百合",
+    "扭曲",
+    "2023年7月",
+    "乐队",
+    "偶像",
+    "TV",
+    "3D",
+    "2023",
+    "SANZIGEN"
+  ],
+  "platform": "TV",
+  "nsfw": false,
+  "collectionType": 2,
+  "epStatus": 13,
+  "volStatus": 0,
+  "rate": 8,
+  "comment": "感觉还挺好的。这几年一直想看但是没补\r\n（其实在游戏里把剧情补完了。）\r\n还有两集看看之后怎么样。\r\n\r\n真不错啊，不过mujica什么的就算了吧（摊手）",
+  "private": false,
+  "updatedAt": "2025-03-06T00:13:43+08:00",
+  "episodes": [
+    {
+      "id": 1211350,
+      "ep": 1,
+      "sort": 1,
+      "type": 0,
+      "name": "羽丘の不思議ちゃん",
+      "nameCn": "羽丘的怪女孩",
+      "airdate": "2023-06-29",
+      "watchStatus": 2
+    },
+    {
+      "id": 1223867,
+      "ep": 2,
+      "sort": 2,
+      "type": 0,
+      "name": "もう誘わない",
+      "nameCn": "不会再邀请了",
+      "airdate": "2023-06-29",
+      "watchStatus": 2
+    },
+    {
+      "id": 1223868,
+      "ep": 3,
+      "sort": 3,
+      "type": 0,
+      "name": "CRYCHIC",
+      "nameCn": "CRYCHIC",
+      "airdate": "2023-06-29",
+      "watchStatus": 2
+    },
+    {
+      "id": 1225915,
+      "ep": 4,
+      "sort": 4,
+      "type": 0,
+      "name": "一生だよ！？",
+      "nameCn": "一辈子哦！？",
+      "airdate": "2023-07-06",
+      "watchStatus": 2
+    },
+    {
+      "id": 1225916,
+      "ep": 5,
+      "sort": 5,
+      "type": 0,
+      "name": "逃げてない！",
+      "nameCn": "我没有逃避！",
+      "airdate": "2023-07-13",
+      "watchStatus": 2
+    },
+    {
+      "id": 1225917,
+      "ep": 6,
+      "sort": 6,
+      "type": 0,
+      "name": "なんで今更",
+      "nameCn": "怎么事到如今",
+      "airdate": "2023-07-20",
+      "watchStatus": 2
+    },
+    {
+      "id": 1225918,
+      "ep": 7,
+      "sort": 7,
+      "type": 0,
+      "name": "今日のライブが終わっても",
+      "nameCn": "就算今天的演唱会结束",
+      "airdate": "2023-07-27",
+      "watchStatus": 2
+    },
+    {
+      "id": 1225919,
+      "ep": 8,
+      "sort": 8,
+      "type": 0,
+      "name": "どうして",
+      "nameCn": "为什么",
+      "airdate": "2023-08-03",
+      "watchStatus": 2
+    },
+    {
+      "id": 1225920,
+      "ep": 9,
+      "sort": 9,
+      "type": 0,
+      "name": "解散",
+      "nameCn": "解散",
+      "airdate": "2023-08-10",
+      "watchStatus": 2
+    },
+    {
+      "id": 1225921,
+      "ep": 10,
+      "sort": 10,
+      "type": 0,
+      "name": "ずっと迷子",
+      "nameCn": "一直迷失着",
+      "airdate": "2023-08-17",
+      "watchStatus": 2
+    },
+    {
+      "id": 1225922,
+      "ep": 11,
+      "sort": 11,
+      "type": 0,
+      "name": "それでも",
+      "nameCn": "即使如此",
+      "airdate": "2023-08-24",
+      "watchStatus": 2
+    },
+    {
+      "id": 1225923,
+      "ep": 12,
+      "sort": 12,
+      "type": 0,
+      "name": "It’s my go!!!!!",
+      "nameCn": "It’s my go!!!!!",
+      "airdate": "2023-08-31",
+      "watchStatus": 2
+    },
+    {
+      "id": 1240250,
+      "ep": 13,
+      "sort": 13,
+      "type": 0,
+      "name": "信じられるのは我が身ひとつ",
+      "nameCn": "唯一能相信的只有自己",
+      "airdate": "2023-09-14",
+      "watchStatus": 2
+    }
+  ]
+}

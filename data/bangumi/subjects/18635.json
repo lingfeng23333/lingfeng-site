@@ -1,0 +1,260 @@
+{
+  "id": 18635,
+  "name": "ギルティクラウン",
+  "nameCn": "罪恶王冠",
+  "cover": "/covers/18635.jpg",
+  "coverRemote": "https://lain.bgm.tv/pic/cover/l/7d/4c/18635_71IIr.jpg",
+  "airDate": "2011-10-13",
+  "totalEpisodes": 23,
+  "rating": {
+    "score": 6.5,
+    "rank": 5256,
+    "total": 17300
+  },
+  "summary": "时间是2039年，在10年前突然爆发的“末日病毒”使日本陷入无政府的混乱状态，被跨国组织GHQ武力介入并统治。在日后被称为“失落圣诞”（Lost X'mas）的此次事件之后，日本丧失了独立主权，仅剩形式上的自治权，人们得以享受暂时的和平。\r\n10年后，过着平稳生活的天王洲第一高中2年生樱满集，偶然邂逅了所憧憬的网络人气歌姬楪いのり，而她的另一重身份却是“葬仪社”的成员。“葬仪社”是由17岁的年轻首领恙神涯领导的民间反抗组织，致力于从GHQ手中解放日本，为此不惜赌上性命孤独战斗。在いのり和涯的带领下加入葬仪社的集，右手浮现了“王之刻印”，拥有刻印的集可以从他人的身体中唤出名为“Void”的物质，并以此为武器战斗。然而这只是集所背负的“罪恶王冠”的故事的开始……。",
+  "tags": [
+    "罪恶王冠",
+    "ProductionI.G",
+    "泽野弘之",
+    "原创",
+    "2011年10月",
+    "TV",
+    "战斗",
+    "supercell",
+    "2011",
+    "科幻",
+    "梶裕貴",
+    "中村悠一"
+  ],
+  "platform": "TV",
+  "nsfw": false,
+  "collectionType": 2,
+  "epStatus": 22,
+  "volStatus": 0,
+  "rate": 9,
+  "comment": "幸好在中二的年纪遇到了这部番啊，啊哈哈哈\r\n整体来说剧情节奏可能还不错，但后半部分的有些操作有些难评，基础分6分，有点中二病滤镜加2分，后面忘了反正再加1分。\r\n君主必须是一头狮子才能震慑豺狼，也必须是一只狐狸才能识破陷阱，然而当绵羊被迫披上狮子的皮，王座之下就必定会血流成河了。",
+  "private": false,
+  "updatedAt": "2026-06-07T13:23:49+08:00",
+  "episodes": [
+    {
+      "id": 122814,
+      "ep": 1,
+      "sort": 1,
+      "type": 0,
+      "name": "発生 genesis",
+      "nameCn": "发生",
+      "airdate": "2011-10-13",
+      "watchStatus": 2
+    },
+    {
+      "id": 122815,
+      "ep": 2,
+      "sort": 2,
+      "type": 0,
+      "name": "適者 survival of the fittest",
+      "nameCn": "适者生存",
+      "airdate": "2011-10-20",
+      "watchStatus": 2
+    },
+    {
+      "id": 122816,
+      "ep": 3,
+      "sort": 3,
+      "type": 0,
+      "name": "顕出 void-sampling",
+      "nameCn": "虚空采样",
+      "airdate": "2011-10-27",
+      "watchStatus": 2
+    },
+    {
+      "id": 122817,
+      "ep": 4,
+      "sort": 4,
+      "type": 0,
+      "name": "浮動 flux",
+      "nameCn": "流动",
+      "airdate": "2011-11-03",
+      "watchStatus": 2
+    },
+    {
+      "id": 122818,
+      "ep": 5,
+      "sort": 5,
+      "type": 0,
+      "name": "訓練 a preparation",
+      "nameCn": "训练",
+      "airdate": "2011-11-10",
+      "watchStatus": 2
+    },
+    {
+      "id": 122819,
+      "ep": 6,
+      "sort": 6,
+      "type": 0,
+      "name": "檻 leukocytes",
+      "nameCn": "牢笼",
+      "airdate": "2011-11-17",
+      "watchStatus": 2
+    },
+    {
+      "id": 122820,
+      "ep": 7,
+      "sort": 7,
+      "type": 0,
+      "name": "輪舞 temptation",
+      "nameCn": "圆舞",
+      "airdate": "2011-11-24",
+      "watchStatus": 2
+    },
+    {
+      "id": 122821,
+      "ep": 8,
+      "sort": 8,
+      "type": 0,
+      "name": "夏日 courtship behavior",
+      "nameCn": "夏天",
+      "airdate": "2011-12-01",
+      "watchStatus": 2
+    },
+    {
+      "id": 122822,
+      "ep": 9,
+      "sort": 9,
+      "type": 0,
+      "name": "捕食 prey",
+      "nameCn": "捕食",
+      "airdate": "2011-12-08",
+      "watchStatus": 2
+    },
+    {
+      "id": 122823,
+      "ep": 10,
+      "sort": 10,
+      "type": 0,
+      "name": "縮退 retraction",
+      "nameCn": "退缩",
+      "airdate": "2011-12-15",
+      "watchStatus": 2
+    },
+    {
+      "id": 122824,
+      "ep": 11,
+      "sort": 11,
+      "type": 0,
+      "name": "共鳴 resonance",
+      "nameCn": "共鸣",
+      "airdate": "2011-12-22",
+      "watchStatus": 2
+    },
+    {
+      "id": 122825,
+      "ep": 12,
+      "sort": 12,
+      "type": 0,
+      "name": "再誕 the lost christmas",
+      "nameCn": "再诞",
+      "airdate": "2012-01-12",
+      "watchStatus": 2
+    },
+    {
+      "id": 122826,
+      "ep": 13,
+      "sort": 13,
+      "type": 0,
+      "name": "学園 isolation",
+      "nameCn": "学园",
+      "airdate": "2012-01-19",
+      "watchStatus": 2
+    },
+    {
+      "id": 122827,
+      "ep": 14,
+      "sort": 14,
+      "type": 0,
+      "name": "攪乱 election",
+      "nameCn": "扰乱",
+      "airdate": "2012-01-26",
+      "watchStatus": 2
+    },
+    {
+      "id": 122828,
+      "ep": 15,
+      "sort": 15,
+      "type": 0,
+      "name": "告白 sacrifice",
+      "nameCn": "告白",
+      "airdate": "2012-02-02",
+      "watchStatus": 2
+    },
+    {
+      "id": 122829,
+      "ep": 16,
+      "sort": 16,
+      "type": 0,
+      "name": "王国 the tyrant",
+      "nameCn": "王国",
+      "airdate": "2012-02-09",
+      "watchStatus": 2
+    },
+    {
+      "id": 122830,
+      "ep": 17,
+      "sort": 17,
+      "type": 0,
+      "name": "革命 exodus",
+      "nameCn": "革命",
+      "airdate": "2012-02-16",
+      "watchStatus": 2
+    },
+    {
+      "id": 122831,
+      "ep": 18,
+      "sort": 18,
+      "type": 0,
+      "name": "流離 Dear ...",
+      "nameCn": "流离",
+      "airdate": "2012-02-23",
+      "watchStatus": 2
+    },
+    {
+      "id": 122832,
+      "ep": 19,
+      "sort": 19,
+      "type": 0,
+      "name": "贖罪 rebirth",
+      "nameCn": "赎罪",
+      "airdate": "2012-03-01",
+      "watchStatus": 2
+    },
+    {
+      "id": 122833,
+      "ep": 20,
+      "sort": 20,
+      "type": 0,
+      "name": "追想 a diary",
+      "nameCn": "追想",
+      "airdate": "2012-03-08",
+      "watchStatus": 2
+    },
+    {
+      "id": 137788,
+      "ep": 21,
+      "sort": 21,
+      "type": 0,
+      "name": "羽化 emergence",
+      "nameCn": "羽化",
+      "airdate": "2012-03-15",
+      "watchStatus": 2
+    },
+    {
+      "id": 137789,
+      "ep": 22,
+      "sort": 22,
+      "type": 0,
+      "name": "祈り convergence",
+      "nameCn": "祈祷",
+      "airdate": "2012-03-22",
+      "watchStatus": 2
+    }
+  ]
+}

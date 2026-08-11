@@ -1,0 +1,160 @@
+{
+  "id": 394260,
+  "name": "僕の心のヤバイやつ",
+  "nameCn": "我心里危险的东西",
+  "cover": "/covers/394260.jpg",
+  "coverRemote": "https://lain.bgm.tv/pic/cover/l/01/ee/394260_VMqvV.jpg",
+  "airDate": "2023-04-01",
+  "totalEpisodes": 12,
+  "rating": {
+    "score": 7.8,
+    "rank": 396,
+    "total": 15869
+  },
+  "summary": "有着重度中二病的阴沉少年市川京太郎，因为很看不惯位于学校金字塔顶端的阳角美少女山田杏奈，每天都在妄想着要怎么结束掉她的性命。没想到在一次偶然情况下，京太郎撞见了杏奈不为人知的一面，爱吃零食的她常躲进京太郎的圣地图书室偷吃零食，就这样图书室变成了他们两个交集的秘密基地。随着市川的一步步观察，他发现平时以“清高、阳光”等性格示人的山田有着不为人知的一面…… 阴暗少年京太郎的初恋，萌芽了！阳角美少女×阴角男子，原本不可能缩短距离的两人，会发生奇迹吗？极甜的青涩校园爱情喜剧开始——！\r\n\r\n",
+  "tags": [
+    "恋爱",
+    "校园",
+    "2023年4月",
+    "漫画改",
+    "牛尾宪辅",
+    "TV",
+    "日常",
+    "纯爱",
+    "SHIN-EI",
+    "漫改",
+    "花田十辉",
+    "2023"
+  ],
+  "platform": "TV",
+  "nsfw": false,
+  "collectionType": 3,
+  "epStatus": 2,
+  "volStatus": 0,
+  "rate": 0,
+  "comment": null,
+  "private": false,
+  "updatedAt": "2026-05-10T23:31:59+08:00",
+  "episodes": [
+    {
+      "id": 1177091,
+      "ep": 1,
+      "sort": 1,
+      "type": 0,
+      "name": "僕は奪われた",
+      "nameCn": "我被夺走了",
+      "airdate": "2023-04-01",
+      "watchStatus": 2
+    },
+    {
+      "id": 1177092,
+      "ep": 2,
+      "sort": 2,
+      "type": 0,
+      "name": "僕は死んだ",
+      "nameCn": "我死掉了",
+      "airdate": "2023-04-08",
+      "watchStatus": 2
+    },
+    {
+      "id": 1177093,
+      "ep": 3,
+      "sort": 3,
+      "type": 0,
+      "name": "僕は抱きしめたい",
+      "nameCn": "我想去拥抱",
+      "airdate": "2023-04-15",
+      "watchStatus": 0
+    },
+    {
+      "id": 1177094,
+      "ep": 4,
+      "sort": 4,
+      "type": 0,
+      "name": "僕は心の病",
+      "nameCn": "我有心病",
+      "airdate": "2023-04-22",
+      "watchStatus": 0
+    },
+    {
+      "id": 1177095,
+      "ep": 5,
+      "sort": 5,
+      "type": 0,
+      "name": "僕らははぐれた",
+      "nameCn": "我们错过了",
+      "airdate": "2023-04-29",
+      "watchStatus": 0
+    },
+    {
+      "id": 1177096,
+      "ep": 6,
+      "sort": 6,
+      "type": 0,
+      "name": "僕は溶かした",
+      "nameCn": "我融化了",
+      "airdate": "2023-05-06",
+      "watchStatus": 0
+    },
+    {
+      "id": 1177097,
+      "ep": 7,
+      "sort": 7,
+      "type": 0,
+      "name": "僕らは入れ替わってる",
+      "nameCn": "我们交换了",
+      "airdate": "2023-05-13",
+      "watchStatus": 0
+    },
+    {
+      "id": 1177098,
+      "ep": 8,
+      "sort": 8,
+      "type": 0,
+      "name": "僕は夢を見た",
+      "nameCn": "我做梦了",
+      "airdate": "2023-05-20",
+      "watchStatus": 0
+    },
+    {
+      "id": 1177099,
+      "ep": 9,
+      "sort": 9,
+      "type": 0,
+      "name": "僕は山田が嫌い",
+      "nameCn": "我讨厌山田",
+      "airdate": "2023-05-27",
+      "watchStatus": 0
+    },
+    {
+      "id": 1177100,
+      "ep": 10,
+      "sort": 10,
+      "type": 0,
+      "name": "僕らはゆっくり歩いた",
+      "nameCn": "我们慢慢地走着",
+      "airdate": "2023-06-03",
+      "watchStatus": 0
+    },
+    {
+      "id": 1177101,
+      "ep": 11,
+      "sort": 11,
+      "type": 0,
+      "name": "僕らは少し似ている",
+      "nameCn": "我们有一点像",
+      "airdate": "2023-06-10",
+      "watchStatus": 0
+    },
+    {
+      "id": 1177102,
+      "ep": 12,
+      "sort": 12,
+      "type": 0,
+      "name": "僕は僕を知ってほしい",
+      "nameCn": "我想了解我自己",
+      "airdate": "2023-06-17",
+      "watchStatus": 0
+    }
+  ]
+}

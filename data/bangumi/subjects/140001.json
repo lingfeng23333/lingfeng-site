@@ -1,0 +1,290 @@
+{
+  "id": 140001,
+  "name": "Re:ゼロから始める異世界生活",
+  "nameCn": "Re：从零开始的异世界生活",
+  "cover": "/covers/140001.jpg",
+  "coverRemote": "https://lain.bgm.tv/pic/cover/l/cb/78/140001_Ew1mo.jpg",
+  "airDate": "2016-04-03",
+  "totalEpisodes": 26,
+  "rating": {
+    "score": 7.5,
+    "rank": 1021,
+    "total": 24453
+  },
+  "summary": "　　从便利店回来的路上突然被召唤到异世界的少年，菜月昴。在无可依赖的异世界，无力的少年所唯一拥有的力量……那就是死后便会使时间倒转的“死亡回归”的力量。为了守护重要的人，并取回那些无可替代的时间，少年向绝望抗争，挺身面对残酷的命运。",
+  "tags": [
+    "轻小说改",
+    "异世界",
+    "2016年4月",
+    "穿越",
+    "WHITEFOX",
+    "Re:从零开始异世界生活",
+    "奇幻",
+    "TV",
+    "轮回",
+    "轻改",
+    "2016",
+    "战斗"
+  ],
+  "platform": "TV",
+  "nsfw": false,
+  "collectionType": 3,
+  "epStatus": 18,
+  "volStatus": 0,
+  "rate": 9,
+  "comment": null,
+  "private": false,
+  "updatedAt": "2026-08-11T09:08:31+08:00",
+  "episodes": [
+    {
+      "id": 621357,
+      "ep": 1,
+      "sort": 1,
+      "type": 0,
+      "name": "始まりの終わりと終わりの始まり",
+      "nameCn": "起始的终结和终结的起始",
+      "airdate": "2016-04-03",
+      "watchStatus": 2
+    },
+    {
+      "id": 621358,
+      "ep": 2,
+      "sort": 2,
+      "type": 0,
+      "name": "再会の魔女",
+      "nameCn": "再遇魔女",
+      "airdate": "2016-04-10",
+      "watchStatus": 2
+    },
+    {
+      "id": 621359,
+      "ep": 3,
+      "sort": 3,
+      "type": 0,
+      "name": "ゼロから始まる異世界生活",
+      "nameCn": "从零开始的异世界生活",
+      "airdate": "2016-04-17",
+      "watchStatus": 2
+    },
+    {
+      "id": 621360,
+      "ep": 4,
+      "sort": 4,
+      "type": 0,
+      "name": "ロズワール邸の団欒",
+      "nameCn": "罗兹瓦尔邸的团聚",
+      "airdate": "2016-04-24",
+      "watchStatus": 2
+    },
+    {
+      "id": 621361,
+      "ep": 5,
+      "sort": 5,
+      "type": 0,
+      "name": "約束した朝は遠く",
+      "nameCn": "约定的早晨遥不可及",
+      "airdate": "2016-05-01",
+      "watchStatus": 2
+    },
+    {
+      "id": 621362,
+      "ep": 6,
+      "sort": 6,
+      "type": 0,
+      "name": "鎖の音",
+      "nameCn": "锁链之音",
+      "airdate": "2016-05-08",
+      "watchStatus": 2
+    },
+    {
+      "id": 621363,
+      "ep": 7,
+      "sort": 7,
+      "type": 0,
+      "name": "ナツキ・スバルのリスタート",
+      "nameCn": "菜月昴的重新开始",
+      "airdate": "2016-05-15",
+      "watchStatus": 2
+    },
+    {
+      "id": 621364,
+      "ep": 8,
+      "sort": 8,
+      "type": 0,
+      "name": "泣いて泣き喚いて泣き止んだから",
+      "nameCn": "哭过喊过便会停止哭泣",
+      "airdate": "2016-05-22",
+      "watchStatus": 2
+    },
+    {
+      "id": 621365,
+      "ep": 9,
+      "sort": 9,
+      "type": 0,
+      "name": "勇気の意味",
+      "nameCn": "勇气的意义",
+      "airdate": "2016-05-29",
+      "watchStatus": 2
+    },
+    {
+      "id": 621366,
+      "ep": 10,
+      "sort": 10,
+      "type": 0,
+      "name": "鬼がかったやり方",
+      "nameCn": "如有鬼助的做法",
+      "airdate": "2016-06-05",
+      "watchStatus": 2
+    },
+    {
+      "id": 621367,
+      "ep": 11,
+      "sort": 11,
+      "type": 0,
+      "name": "レム",
+      "nameCn": "蕾姆",
+      "airdate": "2016-06-12",
+      "watchStatus": 2
+    },
+    {
+      "id": 621368,
+      "ep": 12,
+      "sort": 12,
+      "type": 0,
+      "name": "再来の王都",
+      "nameCn": "再访王都",
+      "airdate": "2016-06-19",
+      "watchStatus": 2
+    },
+    {
+      "id": 626044,
+      "ep": 13,
+      "sort": 13,
+      "type": 0,
+      "name": "自称騎士ナツキ・スバル",
+      "nameCn": "自称骑士的菜月昴",
+      "airdate": "2016-06-26",
+      "watchStatus": 2
+    },
+    {
+      "id": 626045,
+      "ep": 14,
+      "sort": 14,
+      "type": 0,
+      "name": "絶望という病",
+      "nameCn": "名为绝望的疾病",
+      "airdate": "2016-07-03",
+      "watchStatus": 2
+    },
+    {
+      "id": 626046,
+      "ep": 15,
+      "sort": 15,
+      "type": 0,
+      "name": "狂気の外側",
+      "nameCn": "疯狂的外侧",
+      "airdate": "2016-07-10",
+      "watchStatus": 2
+    },
+    {
+      "id": 626047,
+      "ep": 16,
+      "sort": 16,
+      "type": 0,
+      "name": "豚の欲望",
+      "nameCn": "猪的欲望",
+      "airdate": "2016-07-17",
+      "watchStatus": 2
+    },
+    {
+      "id": 626048,
+      "ep": 17,
+      "sort": 17,
+      "type": 0,
+      "name": "醜態の果てに",
+      "nameCn": "丑态的尽头",
+      "airdate": "2016-07-24",
+      "watchStatus": 2
+    },
+    {
+      "id": 626049,
+      "ep": 18,
+      "sort": 18,
+      "type": 0,
+      "name": "ゼロから",
+      "nameCn": "从零开始",
+      "airdate": "2016-07-31",
+      "watchStatus": 2
+    },
+    {
+      "id": 626050,
+      "ep": 19,
+      "sort": 19,
+      "type": 0,
+      "name": "白鯨攻略戦",
+      "nameCn": "白鲸攻略战",
+      "airdate": "2016-08-07",
+      "watchStatus": 0
+    },
+    {
+      "id": 626051,
+      "ep": 20,
+      "sort": 20,
+      "type": 0,
+      "name": "ヴィルヘルム・ヴァン・アストレア",
+      "nameCn": "威尔海姆·梵·阿斯特雷亚",
+      "airdate": "2016-08-14",
+      "watchStatus": 0
+    },
+    {
+      "id": 626052,
+      "ep": 21,
+      "sort": 21,
+      "type": 0,
+      "name": "絶望に抗う賭け",
+      "nameCn": "反抗绝望的赌博",
+      "airdate": "2016-08-21",
+      "watchStatus": 0
+    },
+    {
+      "id": 626053,
+      "ep": 22,
+      "sort": 22,
+      "type": 0,
+      "name": "怠惰一閃",
+      "nameCn": "怠惰一闪",
+      "airdate": "2016-08-28",
+      "watchStatus": 0
+    },
+    {
+      "id": 626054,
+      "ep": 23,
+      "sort": 23,
+      "type": 0,
+      "name": "悪辣なる怠惰",
+      "nameCn": "恶毒的怠惰",
+      "airdate": "2016-09-04",
+      "watchStatus": 0
+    },
+    {
+      "id": 626055,
+      "ep": 24,
+      "sort": 24,
+      "type": 0,
+      "name": "自称騎士と最優の騎士",
+      "nameCn": "自称骑士与最优的骑士",
+      "airdate": "2016-09-11",
+      "watchStatus": 0
+    },
+    {
+      "id": 626353,
+      "ep": 25,
+      "sort": 25,
+      "type": 0,
+      "name": "ただそれだけの物語",
+      "nameCn": "仅此而已的故事",
+      "airdate": "2016-09-18",
+      "watchStatus": 0
+    }
+  ]
+}

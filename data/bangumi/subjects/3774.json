@@ -1,0 +1,300 @@
+{
+  "id": 3774,
+  "name": "けいおん！！",
+  "nameCn": "轻音少女 第二季",
+  "cover": "/covers/3774.jpg",
+  "coverRemote": "https://lain.bgm.tv/pic/cover/l/73/f1/3774_hs9Fr.jpg",
+  "airDate": "2010-04-06",
+  "totalEpisodes": 27,
+  "rating": {
+    "score": 8.4,
+    "rank": 56,
+    "total": 24888
+  },
+  "summary": "新学年开始，樱丘高中轻音部（轻音乐社）因原有部员全部毕业离校而无法达到部员最低人数（至少4人）。轻音部新成员只有秋山澪和田井中律，这下该如何是好呢？此时，平泽唯在阴差阳错的情况下把“轻音”当作“轻松的音乐”，又因小时候玩响板得到老师表扬，所以萌发申请入部的想法。另一方面，温柔可爱的千金大小姐琴吹䌷被田井中律强拉入社，于是，便有了贝司手秋山澪、吉他手平泽唯、鼓手田井中律及键盘手琴吹䌷。",
+  "tags": [
+    "京阿尼",
+    "校园",
+    "萌",
+    "K-ON!",
+    "治愈",
+    "日常",
+    "2010年4月",
+    "轻音",
+    "TV",
+    "K-on!2",
+    "漫画改",
+    "音乐"
+  ],
+  "platform": "TV",
+  "nsfw": false,
+  "collectionType": 3,
+  "epStatus": 1,
+  "volStatus": 0,
+  "rate": 0,
+  "comment": null,
+  "private": false,
+  "updatedAt": "2025-03-11T01:39:35+08:00",
+  "episodes": [
+    {
+      "id": 28658,
+      "ep": 1,
+      "sort": 1,
+      "type": 0,
+      "name": "高3！",
+      "nameCn": "高三！",
+      "airdate": "2010-04-06",
+      "watchStatus": 2
+    },
+    {
+      "id": 28659,
+      "ep": 2,
+      "sort": 2,
+      "type": 0,
+      "name": "整頓！",
+      "nameCn": "整頓！",
+      "airdate": "2010-04-13",
+      "watchStatus": 0
+    },
+    {
+      "id": 28660,
+      "ep": 3,
+      "sort": 3,
+      "type": 0,
+      "name": "ドラマー！",
+      "nameCn": "鼓手！",
+      "airdate": "2010-04-20",
+      "watchStatus": 0
+    },
+    {
+      "id": 28661,
+      "ep": 4,
+      "sort": 4,
+      "type": 0,
+      "name": "修学旅行！",
+      "nameCn": "修學旅行！",
+      "airdate": "2010-04-27",
+      "watchStatus": 0
+    },
+    {
+      "id": 28662,
+      "ep": 5,
+      "sort": 5,
+      "type": 0,
+      "name": "お留守番！",
+      "nameCn": "看家！",
+      "airdate": "2010-05-04",
+      "watchStatus": 0
+    },
+    {
+      "id": 28663,
+      "ep": 6,
+      "sort": 6,
+      "type": 0,
+      "name": "梅雨！",
+      "nameCn": "梅雨！",
+      "airdate": "2010-05-11",
+      "watchStatus": 0
+    },
+    {
+      "id": 28664,
+      "ep": 7,
+      "sort": 7,
+      "type": 0,
+      "name": "お茶会！",
+      "nameCn": "茶會！",
+      "airdate": "2010-05-18",
+      "watchStatus": 0
+    },
+    {
+      "id": 28665,
+      "ep": 8,
+      "sort": 8,
+      "type": 0,
+      "name": "進路！",
+      "nameCn": "志願！",
+      "airdate": "2010-05-25",
+      "watchStatus": 0
+    },
+    {
+      "id": 28666,
+      "ep": 9,
+      "sort": 9,
+      "type": 0,
+      "name": "期末試験！",
+      "nameCn": "期末考試！",
+      "airdate": "2010-06-01",
+      "watchStatus": 0
+    },
+    {
+      "id": 28667,
+      "ep": 10,
+      "sort": 10,
+      "type": 0,
+      "name": "先生！",
+      "nameCn": "老師！",
+      "airdate": "2010-06-08",
+      "watchStatus": 0
+    },
+    {
+      "id": 28668,
+      "ep": 11,
+      "sort": 11,
+      "type": 0,
+      "name": "暑い！",
+      "nameCn": "好熱！",
+      "airdate": "2010-06-15",
+      "watchStatus": 0
+    },
+    {
+      "id": 31746,
+      "ep": 12,
+      "sort": 12,
+      "type": 0,
+      "name": "夏フェス！",
+      "nameCn": "夏日祭！",
+      "airdate": "2010-06-22",
+      "watchStatus": 0
+    },
+    {
+      "id": 31747,
+      "ep": 13,
+      "sort": 13,
+      "type": 0,
+      "name": "残暑見舞い！",
+      "nameCn": "殘暑問候！",
+      "airdate": "2010-06-29",
+      "watchStatus": 0
+    },
+    {
+      "id": 40971,
+      "ep": 14,
+      "sort": 14,
+      "type": 0,
+      "name": "夏期講習！",
+      "nameCn": "夏季講座！",
+      "airdate": "2010-07-06",
+      "watchStatus": 0
+    },
+    {
+      "id": 40972,
+      "ep": 15,
+      "sort": 15,
+      "type": 0,
+      "name": "マラソン大会",
+      "nameCn": "馬拉松大會！",
+      "airdate": "2010-07-13",
+      "watchStatus": 0
+    },
+    {
+      "id": 40973,
+      "ep": 16,
+      "sort": 16,
+      "type": 0,
+      "name": "先輩！",
+      "nameCn": "前輩！",
+      "airdate": "2010-07-20",
+      "watchStatus": 0
+    },
+    {
+      "id": 40974,
+      "ep": 17,
+      "sort": 17,
+      "type": 0,
+      "name": "部室がない！",
+      "nameCn": "沒有活動室！",
+      "airdate": "2010-07-27",
+      "watchStatus": 0
+    },
+    {
+      "id": 40975,
+      "ep": 18,
+      "sort": 18,
+      "type": 0,
+      "name": "主役！",
+      "nameCn": "主角！",
+      "airdate": "2010-08-03",
+      "watchStatus": 0
+    },
+    {
+      "id": 40976,
+      "ep": 19,
+      "sort": 19,
+      "type": 0,
+      "name": "ロミジュリ！",
+      "nameCn": "羅密茱麗！",
+      "airdate": "2010-08-10",
+      "watchStatus": 0
+    },
+    {
+      "id": 40977,
+      "ep": 20,
+      "sort": 20,
+      "type": 0,
+      "name": "またまた学園祭！",
+      "nameCn": "还是学园祭！",
+      "airdate": "2010-08-17",
+      "watchStatus": 0
+    },
+    {
+      "id": 40978,
+      "ep": 21,
+      "sort": 21,
+      "type": 0,
+      "name": "卒業アルバム！",
+      "nameCn": "毕业相册！",
+      "airdate": "2010-08-24",
+      "watchStatus": 0
+    },
+    {
+      "id": 40979,
+      "ep": 22,
+      "sort": 22,
+      "type": 0,
+      "name": "受験！",
+      "nameCn": "高考！",
+      "airdate": "2010-08-31",
+      "watchStatus": 0
+    },
+    {
+      "id": 40980,
+      "ep": 23,
+      "sort": 23,
+      "type": 0,
+      "name": "放課後！",
+      "nameCn": "放学后！",
+      "airdate": "2010-09-07",
+      "watchStatus": 0
+    },
+    {
+      "id": 40981,
+      "ep": 24,
+      "sort": 24,
+      "type": 0,
+      "name": "卒業式！",
+      "nameCn": "毕业典礼！",
+      "airdate": "2010-09-14",
+      "watchStatus": 0
+    },
+    {
+      "id": 48476,
+      "ep": 25,
+      "sort": 25,
+      "type": 0,
+      "name": "番外編 企画会議！",
+      "nameCn": "番外篇 企划会议！",
+      "airdate": "2010-09-21",
+      "watchStatus": 0
+    },
+    {
+      "id": 48477,
+      "ep": 26,
+      "sort": 26,
+      "type": 0,
+      "name": "番外編 訪問！",
+      "nameCn": "番外篇 访问！",
+      "airdate": "2010-09-28",
+      "watchStatus": 0
+    }
+  ]
+}

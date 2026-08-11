@@ -1,0 +1,260 @@
+{
+  "id": 27364,
+  "name": "氷菓",
+  "nameCn": "冰菓",
+  "cover": "/covers/27364.jpg",
+  "coverRemote": "https://lain.bgm.tv/pic/cover/l/cd/38/27364_1ZFmr.jpg",
+  "airDate": "2012-04-22",
+  "totalEpisodes": 26,
+  "rating": {
+    "score": 8.2,
+    "rank": 152,
+    "total": 33120
+  },
+  "summary": "以节能为座右铭的高中生折木奉太郎， 为一个小小的原因而加入了濒临废社的“古典文学部”。古典文学部的社员，包括他在社里认识的好奇宝宝，也就是女主角千反田爱瑠，还有他从国中就认识的伊原摩耶花和福部里志。这是他们四人以神山高中为舞台，对一桩桩事件展开推理的青春学园推理剧。“我很好奇！”奉太郎平静的灰色高中生活，因为千反田的这一句话而为之一变！",
+  "tags": [
+    "京阿尼",
+    "校园",
+    "氷菓",
+    "青春",
+    "推理",
+    "推理系",
+    "2012年4月",
+    "TV",
+    "小清新",
+    "2012",
+    "悬疑",
+    "小说改"
+  ],
+  "platform": "TV",
+  "nsfw": false,
+  "collectionType": 3,
+  "epStatus": 4,
+  "volStatus": 0,
+  "rate": 8,
+  "comment": null,
+  "private": false,
+  "updatedAt": "2026-06-28T23:33:49+08:00",
+  "episodes": [
+    {
+      "id": 152243,
+      "ep": 1,
+      "sort": 1,
+      "type": 0,
+      "name": "伝統ある古典部の再生",
+      "nameCn": "富有传统的古籍社之再生",
+      "airdate": "2012-04-22",
+      "watchStatus": 2
+    },
+    {
+      "id": 152244,
+      "ep": 2,
+      "sort": 2,
+      "type": 0,
+      "name": "名誉ある古典部の活動",
+      "nameCn": "值得夸耀的古籍社之活动",
+      "airdate": "2012-04-29",
+      "watchStatus": 2
+    },
+    {
+      "id": 152245,
+      "ep": 3,
+      "sort": 3,
+      "type": 0,
+      "name": "事情ある古典部の末裔",
+      "nameCn": "内情尚存的古籍部之末裔",
+      "airdate": "2012-05-06",
+      "watchStatus": 2
+    },
+    {
+      "id": 152246,
+      "ep": 4,
+      "sort": 4,
+      "type": 0,
+      "name": "栄光ある古典部の昔日",
+      "nameCn": "辉煌光荣的古籍部之昔日",
+      "airdate": "2012-05-13",
+      "watchStatus": 2
+    },
+    {
+      "id": 152247,
+      "ep": 5,
+      "sort": 5,
+      "type": 0,
+      "name": "歴史ある古典部の真実",
+      "nameCn": "历史悠久的古籍部之真相",
+      "airdate": "2012-05-20",
+      "watchStatus": 0
+    },
+    {
+      "id": 152248,
+      "ep": 6,
+      "sort": 6,
+      "type": 0,
+      "name": "大罪を犯す",
+      "nameCn": "犯下大罪",
+      "airdate": "2012-05-27",
+      "watchStatus": 0
+    },
+    {
+      "id": 152249,
+      "ep": 7,
+      "sort": 7,
+      "type": 0,
+      "name": "正体見たり",
+      "nameCn": "原形毕露",
+      "airdate": "2012-06-03",
+      "watchStatus": 0
+    },
+    {
+      "id": 152250,
+      "ep": 8,
+      "sort": 8,
+      "type": 0,
+      "name": "試写会に行こう！",
+      "nameCn": "去参加试映会吧！",
+      "airdate": "2012-06-10",
+      "watchStatus": 0
+    },
+    {
+      "id": 152251,
+      "ep": 9,
+      "sort": 9,
+      "type": 0,
+      "name": "古丘廃村殺人事件",
+      "nameCn": "古丘废村杀人事件",
+      "airdate": "2012-06-17",
+      "watchStatus": 0
+    },
+    {
+      "id": 152252,
+      "ep": 10,
+      "sort": 10,
+      "type": 0,
+      "name": "万人の死角",
+      "nameCn": "万人的死角",
+      "airdate": "2012-06-24",
+      "watchStatus": 0
+    },
+    {
+      "id": 152253,
+      "ep": 11,
+      "sort": 11,
+      "type": 0,
+      "name": "愚者のエンドロール",
+      "nameCn": "愚者的片尾",
+      "airdate": "2012-07-01",
+      "watchStatus": 0
+    },
+    {
+      "id": 152254,
+      "ep": 12,
+      "sort": 12,
+      "type": 0,
+      "name": "限りなく積まれた例のあれ",
+      "nameCn": "无限堆积的「那个」",
+      "airdate": "2012-07-08",
+      "watchStatus": 0
+    },
+    {
+      "id": 152255,
+      "ep": 13,
+      "sort": 13,
+      "type": 0,
+      "name": "夕べには骸に",
+      "nameCn": "黄昏之际伴尸骨",
+      "airdate": "2012-07-15",
+      "watchStatus": 0
+    },
+    {
+      "id": 152256,
+      "ep": 14,
+      "sort": 14,
+      "type": 0,
+      "name": "ワイルド・ファイア",
+      "nameCn": "Wild Fire",
+      "airdate": "2012-07-22",
+      "watchStatus": 0
+    },
+    {
+      "id": 152257,
+      "ep": 15,
+      "sort": 15,
+      "type": 0,
+      "name": "十文字事件",
+      "nameCn": "十文字事件",
+      "airdate": "",
+      "watchStatus": 0
+    },
+    {
+      "id": 152258,
+      "ep": 16,
+      "sort": 16,
+      "type": 0,
+      "name": "最後の標的",
+      "nameCn": "最后的目标",
+      "airdate": "2012-08-05",
+      "watchStatus": 0
+    },
+    {
+      "id": 152259,
+      "ep": 17,
+      "sort": 17,
+      "type": 0,
+      "name": "クドリャフカの順番",
+      "nameCn": "库特莉亚芙卡的排序",
+      "airdate": "2012-08-12",
+      "watchStatus": 0
+    },
+    {
+      "id": 152260,
+      "ep": 18,
+      "sort": 18,
+      "type": 0,
+      "name": "連峰は晴れているか",
+      "nameCn": "峰峦是否天晴",
+      "airdate": "2012-08-19",
+      "watchStatus": 0
+    },
+    {
+      "id": 152261,
+      "ep": 19,
+      "sort": 19,
+      "type": 0,
+      "name": "心あたりのある者は",
+      "nameCn": "心里有数的人",
+      "airdate": "2012-08-26",
+      "watchStatus": 0
+    },
+    {
+      "id": 152262,
+      "ep": 20,
+      "sort": 20,
+      "type": 0,
+      "name": "あきましておめでとう",
+      "nameCn": "开门大吉",
+      "airdate": "2012-09-02",
+      "watchStatus": 0
+    },
+    {
+      "id": 152263,
+      "ep": 21,
+      "sort": 21,
+      "type": 0,
+      "name": "手作りチョコレート事件",
+      "nameCn": "手工巧克力事件",
+      "airdate": "2012-09-09",
+      "watchStatus": 0
+    },
+    {
+      "id": 195723,
+      "ep": 22,
+      "sort": 22,
+      "type": 0,
+      "name": "遠まわりする雛",
+      "nameCn": "绕远的雏鸟",
+      "airdate": "2012-09-16",
+      "watchStatus": 0
+    }
+  ]
+}

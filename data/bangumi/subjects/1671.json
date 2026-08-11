@@ -1,0 +1,190 @@
+{
+  "id": 1671,
+  "name": "化物語",
+  "nameCn": "化物语",
+  "cover": "/covers/1671.jpg",
+  "coverRemote": "https://lain.bgm.tv/pic/cover/l/64/7c/1671_vQ2W9.jpg",
+  "airDate": "2009-07-03",
+  "totalEpisodes": 16,
+  "rating": {
+    "score": 8.4,
+    "rank": 61,
+    "total": 24962
+  },
+  "summary": "所谓怪异——是因为世界上没有那种东西的存在。\r\n与生物有所不同——但与世界紧紧相连。\r\n故事主人公阿良良木历，因为知道了同班同学战场原的某个“秘密”，从此被卷入一连串的怪异事件中……。",
+  "tags": [
+    "新房昭之",
+    "西尾维新",
+    "化物语",
+    "SHAFT",
+    "2009年7月",
+    "TV",
+    "荡漾",
+    "战场原大人",
+    "花泽香菜",
+    "神谷浩史",
+    "2009",
+    "轻小说改"
+  ],
+  "platform": "TV",
+  "nsfw": false,
+  "collectionType": 1,
+  "epStatus": 0,
+  "volStatus": 0,
+  "rate": 0,
+  "comment": null,
+  "private": false,
+  "updatedAt": "2026-08-01T11:25:37+08:00",
+  "episodes": [
+    {
+      "id": 6851,
+      "ep": 1,
+      "sort": 1,
+      "type": 0,
+      "name": "ひたぎクラブ 其ノ壹",
+      "nameCn": "黑仪·蟹 其一",
+      "airdate": "2009-07-03",
+      "watchStatus": 0
+    },
+    {
+      "id": 6852,
+      "ep": 2,
+      "sort": 2,
+      "type": 0,
+      "name": "ひたぎクラブ 其ノ貳",
+      "nameCn": "黑仪·蟹 其二",
+      "airdate": "2009-07-10",
+      "watchStatus": 0
+    },
+    {
+      "id": 6853,
+      "ep": 3,
+      "sort": 3,
+      "type": 0,
+      "name": "まよいマイマイ 其ノ壹",
+      "nameCn": "真宵·蜗牛 其一",
+      "airdate": "2009-07-17",
+      "watchStatus": 0
+    },
+    {
+      "id": 6854,
+      "ep": 4,
+      "sort": 4,
+      "type": 0,
+      "name": "まよいマイマイ 其ノ貳",
+      "nameCn": "真宵·蜗牛 其二",
+      "airdate": "2009-07-24",
+      "watchStatus": 0
+    },
+    {
+      "id": 6855,
+      "ep": 5,
+      "sort": 5,
+      "type": 0,
+      "name": "まよいマイマイ 其ノ參",
+      "nameCn": "真宵·蜗牛 其三",
+      "airdate": "2009-07-31",
+      "watchStatus": 0
+    },
+    {
+      "id": 6856,
+      "ep": 6,
+      "sort": 6,
+      "type": 0,
+      "name": "するがモンキー 其ノ壹",
+      "nameCn": "骏河·猿猴 其一",
+      "airdate": "2009-08-09",
+      "watchStatus": 0
+    },
+    {
+      "id": 6857,
+      "ep": 7,
+      "sort": 7,
+      "type": 0,
+      "name": "するがモンキー 其ノ貮",
+      "nameCn": "骏河·猿猴 其二",
+      "airdate": "2009-08-21",
+      "watchStatus": 0
+    },
+    {
+      "id": 6858,
+      "ep": 8,
+      "sort": 8,
+      "type": 0,
+      "name": "するがモンキー 其ノ參",
+      "nameCn": "骏河·猿猴 其三",
+      "airdate": "2009-08-28",
+      "watchStatus": 0
+    },
+    {
+      "id": 6859,
+      "ep": 9,
+      "sort": 9,
+      "type": 0,
+      "name": "なでこスネイク 其ノ壹",
+      "nameCn": "抚子·蛇 其一",
+      "airdate": "2009-09-04",
+      "watchStatus": 0
+    },
+    {
+      "id": 6860,
+      "ep": 10,
+      "sort": 10,
+      "type": 0,
+      "name": "なでこスネイク 其ノ貮",
+      "nameCn": "抚子·蛇 其二",
+      "airdate": "2009-09-11",
+      "watchStatus": 0
+    },
+    {
+      "id": 6861,
+      "ep": 11,
+      "sort": 11,
+      "type": 0,
+      "name": "つばさキャット 其ノ壹",
+      "nameCn": "翼·猫 其一",
+      "airdate": "2009-09-18",
+      "watchStatus": 0
+    },
+    {
+      "id": 6862,
+      "ep": 12,
+      "sort": 12,
+      "type": 0,
+      "name": "つばさキャット 其ノ貮",
+      "nameCn": "翼·猫 其二",
+      "airdate": "2009-09-25",
+      "watchStatus": 0
+    },
+    {
+      "id": 17096,
+      "ep": 13,
+      "sort": 13,
+      "type": 0,
+      "name": "つばさキャット 其ノ參",
+      "nameCn": "翼·猫 其三",
+      "airdate": "2009-11-03",
+      "watchStatus": 0
+    },
+    {
+      "id": 17097,
+      "ep": 14,
+      "sort": 14,
+      "type": 0,
+      "name": "つばさキャット 其ノ肆",
+      "nameCn": "翼·猫 其四",
+      "airdate": "2010-02-23",
+      "watchStatus": 0
+    },
+    {
+      "id": 17098,
+      "ep": 15,
+      "sort": 15,
+      "type": 0,
+      "name": "つばさキャット 其ノ伍",
+      "nameCn": "翼·猫 其五",
+      "airdate": "2010-06-25",
+      "watchStatus": 0
+    }
+  ]
+}

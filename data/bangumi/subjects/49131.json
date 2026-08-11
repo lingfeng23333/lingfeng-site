@@ -1,0 +1,160 @@
+{
+  "id": 49131,
+  "name": "デート・ア・ライブ",
+  "nameCn": "约会大作战",
+  "cover": "/covers/49131.jpg",
+  "coverRemote": "https://lain.bgm.tv/pic/cover/l/99/08/49131_CIPjC.jpg",
+  "airDate": "2013-04-05",
+  "totalEpisodes": 13,
+  "rating": {
+    "score": 6.7,
+    "rank": 4249,
+    "total": 15722
+  },
+  "summary": "故事是讲述一名普通的高中二年级生五河士道，突然在某一天遇上了一场大爆炸，而在这场大爆炸之中竟然出现一名身穿盔甲手持大剑的神秘美少女。原来这名少女的真正身份是“精灵”，是会给世界带来毁灭性灾难的存在，她的再次出现，将会给地球带来毁灭性的未来！然而主人公士道却有方法阻止世界毁灭，这个唯一能够阻止世界毁灭的方法就是——要与她约会！",
+  "tags": [
+    "后宫",
+    "约会大作战",
+    "轻小说改",
+    "校园",
+    "2013年4月",
+    "TV",
+    "战斗",
+    "AIC",
+    "2013",
+    "科幻",
+    "轻改",
+    "恋爱"
+  ],
+  "platform": "TV",
+  "nsfw": false,
+  "collectionType": 1,
+  "epStatus": 0,
+  "volStatus": 0,
+  "rate": 0,
+  "comment": null,
+  "private": false,
+  "updatedAt": "2026-06-07T00:23:06+08:00",
+  "episodes": [
+    {
+      "id": 247843,
+      "ep": 1,
+      "sort": 1,
+      "type": 0,
+      "name": "四月一〇日",
+      "nameCn": "四月十日",
+      "airdate": "2013-04-05",
+      "watchStatus": 0
+    },
+    {
+      "id": 247844,
+      "ep": 2,
+      "sort": 2,
+      "type": 0,
+      "name": "再接近遭遇",
+      "nameCn": "再次近距离接触",
+      "airdate": "2013-04-12",
+      "watchStatus": 0
+    },
+    {
+      "id": 247845,
+      "ep": 3,
+      "sort": 3,
+      "type": 0,
+      "name": "空分かつ剣（つるぎ）",
+      "nameCn": "切割天空之剑",
+      "airdate": "2013-04-19",
+      "watchStatus": 0
+    },
+    {
+      "id": 247846,
+      "ep": 4,
+      "sort": 4,
+      "type": 0,
+      "name": "不機嫌な雨",
+      "nameCn": "讨厌的雨",
+      "airdate": "2013-04-26",
+      "watchStatus": 0
+    },
+    {
+      "id": 247847,
+      "ep": 5,
+      "sort": 5,
+      "type": 0,
+      "name": "凍て付く大地",
+      "nameCn": "冰冻的大地",
+      "airdate": "2013-05-03",
+      "watchStatus": 0
+    },
+    {
+      "id": 247848,
+      "ep": 6,
+      "sort": 6,
+      "type": 0,
+      "name": "恋する温泉",
+      "nameCn": "恋爱的温泉",
+      "airdate": "2013-05-10",
+      "watchStatus": 0
+    },
+    {
+      "id": 247849,
+      "ep": 7,
+      "sort": 7,
+      "type": 0,
+      "name": "来訪者達",
+      "nameCn": "来访者们",
+      "airdate": "2013-05-17",
+      "watchStatus": 0
+    },
+    {
+      "id": 247850,
+      "ep": 8,
+      "sort": 8,
+      "type": 0,
+      "name": "三重狂騒曲",
+      "nameCn": "三重狂想曲",
+      "airdate": "2013-05-24",
+      "watchStatus": 0
+    },
+    {
+      "id": 247851,
+      "ep": 9,
+      "sort": 9,
+      "type": 0,
+      "name": "狂乱の悪夢",
+      "nameCn": "狂乱的恶梦",
+      "airdate": "2013-05-31",
+      "watchStatus": 0
+    },
+    {
+      "id": 247852,
+      "ep": 10,
+      "sort": 10,
+      "type": 0,
+      "name": "炎の精霊（イフリート）",
+      "nameCn": "炎之精灵（Efreet）",
+      "airdate": "2013-06-07",
+      "watchStatus": 0
+    },
+    {
+      "id": 247853,
+      "ep": 11,
+      "sort": 11,
+      "type": 0,
+      "name": "カウントダウン",
+      "nameCn": "倒数计时",
+      "airdate": "2013-06-14",
+      "watchStatus": 0
+    },
+    {
+      "id": 247854,
+      "ep": 12,
+      "sort": 12,
+      "type": 0,
+      "name": "譲れないもの",
+      "nameCn": "无法割舍的东西",
+      "airdate": "2013-06-21",
+      "watchStatus": 0
+    }
+  ]
+}

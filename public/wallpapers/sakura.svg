@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff7f4"/>
+      <stop offset="0.5" stop-color="#ffeef2"/>
+      <stop offset="1" stop-color="#f3ecff"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffe3ec" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#ffe3ec" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#sky)"/>
+  <circle cx="1250" cy="160" r="260" fill="url(#sun)"/>
+  <g fill="#ffb7c9">
+    <ellipse cx="280" cy="240" rx="30" ry="13" transform="rotate(-25 280 240)" opacity="0.8"/>
+    <ellipse cx="540" cy="150" rx="22" ry="10" transform="rotate(40 540 150)" opacity="0.65"/>
+    <ellipse cx="800" cy="280" rx="26" ry="11" transform="rotate(-10 800 280)" opacity="0.75"/>
+    <ellipse cx="1020" cy="190" rx="24" ry="10" transform="rotate(55 1020 190)" opacity="0.7"/>
+    <ellipse cx="1240" cy="340" rx="28" ry="12" transform="rotate(-40 1240 340)" opacity="0.8"/>
+    <ellipse cx="1460" cy="230" rx="22" ry="10" transform="rotate(30 1460 230)" opacity="0.65"/>
+    <ellipse cx="220" cy="500" rx="26" ry="11" transform="rotate(50 220 500)" opacity="0.6"/>
+    <ellipse cx="460" cy="580" rx="24" ry="10" transform="rotate(-35 460 580)" opacity="0.65"/>
+    <ellipse cx="900" cy="540" rx="28" ry="12" transform="rotate(20 900 540)" opacity="0.7"/>
+    <ellipse cx="1280" cy="580" rx="22" ry="10" transform="rotate(-55 1280 580)" opacity="0.6"/>
+    <ellipse cx="1540" cy="460" rx="26" ry="11" transform="rotate(15 1540 460)" opacity="0.65"/>
+  </g>
+  <g fill="#f596aa">
+    <ellipse cx="400" cy="320" rx="15" ry="7" transform="rotate(-20 400 320)" opacity="0.65"/>
+    <ellipse cx="660" cy="210" rx="13" ry="6" transform="rotate(45 660 210)" opacity="0.55"/>
+    <ellipse cx="1100" cy="280" rx="15" ry="7" transform="rotate(-50 1100 280)" opacity="0.6"/>
+    <ellipse cx="1400" cy="170" rx="13" ry="6" transform="rotate(25 1400 170)" opacity="0.55"/>
+    <ellipse cx="600" cy="460" rx="15" ry="7" transform="rotate(60 600 460)" opacity="0.55"/>
+    <ellipse cx="1140" cy="460" rx="13" ry="6" transform="rotate(-30 1140 460)" opacity="0.55"/>
+  </g>
+</svg>

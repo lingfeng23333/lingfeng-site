@@ -1,0 +1,170 @@
+{
+  "id": 1424,
+  "name": "けいおん！",
+  "nameCn": "轻音少女",
+  "cover": "/covers/1424.jpg",
+  "coverRemote": "https://lain.bgm.tv/pic/cover/l/48/9d/1424_q8FMQ.jpg",
+  "airDate": "2009-04-02",
+  "totalEpisodes": 14,
+  "rating": {
+    "score": 8.3,
+    "rank": 103,
+    "total": 30621
+  },
+  "summary": "春天，在新生决定社团的时候，田井中律硬拉着青梅竹马的秋山澪参观轻音部让其入部，在得知前辈们毕业后由于人数不足将面临闭部结局，秋山澪与琴吹紬成为了轻音部成员，但离4人指标还差1位名额。这时，一名弄错了部名的少女平泽唯误打误撞之下填补了最后一位空位，但这位少女却是一个连乐谱也看不懂的新人，学习成绩又差。而就是这样的4名少女，却展开了奏响青春的音乐之旅。",
+  "tags": [
+    "京阿尼",
+    "K-ON!",
+    "校园",
+    "轻音",
+    "萌",
+    "治愈",
+    "日常",
+    "2009年4月",
+    "TV",
+    "废萌",
+    "漫画改",
+    "2009"
+  ],
+  "platform": "TV",
+  "nsfw": false,
+  "collectionType": 2,
+  "epStatus": 14,
+  "volStatus": 0,
+  "rate": 9,
+  "comment": "哎呀，女孩子之间真是好啊",
+  "private": false,
+  "updatedAt": "2025-03-11T01:38:58+08:00",
+  "episodes": [
+    {
+      "id": 4835,
+      "ep": 1,
+      "sort": 1,
+      "type": 0,
+      "name": "廃部！",
+      "nameCn": "废部！",
+      "airdate": "2009-04-03",
+      "watchStatus": 2
+    },
+    {
+      "id": 4836,
+      "ep": 2,
+      "sort": 2,
+      "type": 0,
+      "name": "楽器！",
+      "nameCn": "乐器！",
+      "airdate": "2009-04-10",
+      "watchStatus": 2
+    },
+    {
+      "id": 4837,
+      "ep": 3,
+      "sort": 3,
+      "type": 0,
+      "name": "特訓！",
+      "nameCn": "特训！",
+      "airdate": "2009-04-17",
+      "watchStatus": 2
+    },
+    {
+      "id": 4838,
+      "ep": 4,
+      "sort": 4,
+      "type": 0,
+      "name": "合宿！",
+      "nameCn": "合宿！",
+      "airdate": "2009-04-23",
+      "watchStatus": 2
+    },
+    {
+      "id": 4839,
+      "ep": 5,
+      "sort": 5,
+      "type": 0,
+      "name": "顧問！",
+      "nameCn": "顾问！",
+      "airdate": "2009-05-01",
+      "watchStatus": 2
+    },
+    {
+      "id": 4840,
+      "ep": 6,
+      "sort": 6,
+      "type": 0,
+      "name": "学園祭！",
+      "nameCn": "学园祭！",
+      "airdate": "2009-05-07",
+      "watchStatus": 2
+    },
+    {
+      "id": 4841,
+      "ep": 7,
+      "sort": 7,
+      "type": 0,
+      "name": "クリスマス！",
+      "nameCn": "圣诞节！",
+      "airdate": "2009-05-14",
+      "watchStatus": 2
+    },
+    {
+      "id": 4842,
+      "ep": 8,
+      "sort": 8,
+      "type": 0,
+      "name": "新歡！",
+      "nameCn": "新生欢迎会！",
+      "airdate": "2009-05-21",
+      "watchStatus": 2
+    },
+    {
+      "id": 4843,
+      "ep": 9,
+      "sort": 9,
+      "type": 0,
+      "name": "新入部員！",
+      "nameCn": "新入部员！",
+      "airdate": "2009-05-28",
+      "watchStatus": 2
+    },
+    {
+      "id": 4844,
+      "ep": 10,
+      "sort": 10,
+      "type": 0,
+      "name": "また合宿！",
+      "nameCn": "又是合宿！",
+      "airdate": "2009-06-04",
+      "watchStatus": 2
+    },
+    {
+      "id": 4845,
+      "ep": 11,
+      "sort": 11,
+      "type": 0,
+      "name": "ピンチ！",
+      "nameCn": "危机！",
+      "airdate": "2009-06-11",
+      "watchStatus": 2
+    },
+    {
+      "id": 4846,
+      "ep": 12,
+      "sort": 12,
+      "type": 0,
+      "name": "軽音！",
+      "nameCn": "轻音！",
+      "airdate": "2009-06-18",
+      "watchStatus": 2
+    },
+    {
+      "id": 7535,
+      "ep": 13,
+      "sort": 13,
+      "type": 0,
+      "name": "番外編 冬の日！",
+      "nameCn": "番外篇 冬之日！",
+      "airdate": "2009-06-25",
+      "watchStatus": 2
+    }
+  ]
+}

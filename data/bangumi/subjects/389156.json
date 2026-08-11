@@ -1,0 +1,290 @@
+{
+  "id": 389156,
+  "name": "チ。 ―地球の運動について―",
+  "nameCn": "地。 ―关于地球的运动―",
+  "cover": "/covers/389156.jpg",
+  "coverRemote": "https://lain.bgm.tv/pic/cover/l/5f/84/389156_J4gqQ.jpg",
+  "airDate": "2024-10-05",
+  "totalEpisodes": 25,
+  "rating": {
+    "score": 6.3,
+    "rank": 6375,
+    "total": 5493
+  },
+  "summary": "15世纪的欧洲某国。在跳级中被允许进入大学的神童拉法尔。他回应了周围的期待，宣布将专攻当时最重要的神学。但是，从以前开始就热心投入的对天文的热情一直没有被抛弃。\r\n有一天，他遇到了一位名叫休伯特的神秘学者。因为触犯了基于异端思想的禁忌而受到拷问，被关进监狱的休伯特。\r\n他研究的是关于宇宙的冲击性的“某个假说”——。",
+  "tags": [
+    "MADHouse",
+    "漫画改",
+    "2024年10月",
+    "历史",
+    "TV",
+    "漫改",
+    "群像",
+    "2024",
+    "地心说",
+    "群像剧",
+    "日本",
+    "清水健一"
+  ],
+  "platform": "TV",
+  "nsfw": false,
+  "collectionType": 3,
+  "epStatus": 7,
+  "volStatus": 0,
+  "rate": 0,
+  "comment": null,
+  "private": false,
+  "updatedAt": "2026-02-03T17:16:07+08:00",
+  "episodes": [
+    {
+      "id": 1390979,
+      "ep": 1,
+      "sort": 1,
+      "type": 0,
+      "name": "『地動説』、とでも呼ぼうか",
+      "nameCn": "就叫它「地动说」吧",
+      "airdate": "2024-10-05",
+      "watchStatus": 2
+    },
+    {
+      "id": 1390980,
+      "ep": 2,
+      "sort": 2,
+      "type": 0,
+      "name": "今から、地球を動かす",
+      "nameCn": "从现在开始，推动地球",
+      "airdate": "2024-10-05",
+      "watchStatus": 2
+    },
+    {
+      "id": 1390981,
+      "ep": 3,
+      "sort": 3,
+      "type": 0,
+      "name": "僕は、地動説を信じてます",
+      "nameCn": "我相信地动说",
+      "airdate": "2024-10-12",
+      "watchStatus": 2
+    },
+    {
+      "id": 1390982,
+      "ep": 4,
+      "sort": 4,
+      "type": 0,
+      "name": "この地球は、天国なんかよりも美しい",
+      "nameCn": "这地球，比天堂还要美丽",
+      "airdate": "2024-10-19",
+      "watchStatus": 2
+    },
+    {
+      "id": 1390983,
+      "ep": 5,
+      "sort": 5,
+      "type": 0,
+      "name": "私が死んでもこの世界は続く",
+      "nameCn": "就算我死了这个世界也还会前进",
+      "airdate": "2024-10-26",
+      "watchStatus": 2
+    },
+    {
+      "id": 1390984,
+      "ep": 6,
+      "sort": 6,
+      "type": 0,
+      "name": "世界を、動かせ",
+      "nameCn": "推动世界",
+      "airdate": "2024-11-02",
+      "watchStatus": 2
+    },
+    {
+      "id": 1390985,
+      "ep": 7,
+      "sort": 7,
+      "type": 0,
+      "name": "真理のためなら",
+      "nameCn": "若是为了真理",
+      "airdate": "2024-11-09",
+      "watchStatus": 2
+    },
+    {
+      "id": 1390986,
+      "ep": 8,
+      "sort": 8,
+      "type": 0,
+      "name": "イカロスにならねば",
+      "nameCn": "必须成为伊卡洛斯",
+      "airdate": "2024-11-16",
+      "watchStatus": 0
+    },
+    {
+      "id": 1390987,
+      "ep": 9,
+      "sort": 9,
+      "type": 0,
+      "name": "きっとそれが、何かを知るということだ",
+      "nameCn": "必然是因为你已有所知",
+      "airdate": "2024-11-23",
+      "watchStatus": 0
+    },
+    {
+      "id": 1390988,
+      "ep": 10,
+      "sort": 10,
+      "type": 0,
+      "name": "『知』",
+      "nameCn": "「知」",
+      "airdate": "2024-11-30",
+      "watchStatus": 0
+    },
+    {
+      "id": 1390989,
+      "ep": 11,
+      "sort": 11,
+      "type": 0,
+      "name": "『血』",
+      "nameCn": "「血」",
+      "airdate": "2024-12-07",
+      "watchStatus": 0
+    },
+    {
+      "id": 1390990,
+      "ep": 12,
+      "sort": 12,
+      "type": 0,
+      "name": "俺は、地動説を信仰してる",
+      "nameCn": "我信仰地动说",
+      "airdate": "2024-12-14",
+      "watchStatus": 0
+    },
+    {
+      "id": 1407024,
+      "ep": 13,
+      "sort": 13,
+      "type": 0,
+      "name": "『自由』を",
+      "nameCn": "是「自由」",
+      "airdate": "2024-12-21",
+      "watchStatus": 0
+    },
+    {
+      "id": 1407025,
+      "ep": 14,
+      "sort": 14,
+      "type": 0,
+      "name": "今日のこの空は",
+      "nameCn": "今天的这片星空",
+      "airdate": "2024-12-28",
+      "watchStatus": 0
+    },
+    {
+      "id": 1407026,
+      "ep": 15,
+      "sort": 15,
+      "type": 0,
+      "name": "私の、番なのか？",
+      "nameCn": "这次，轮到我了吗？",
+      "airdate": "2025-01-04",
+      "watchStatus": 0
+    },
+    {
+      "id": 1407027,
+      "ep": 16,
+      "sort": 16,
+      "type": 0,
+      "name": "行動を開始する",
+      "nameCn": "行动开始",
+      "airdate": "2025-01-11",
+      "watchStatus": 0
+    },
+    {
+      "id": 1407028,
+      "ep": 17,
+      "sort": 17,
+      "type": 0,
+      "name": "この本で大稼ぎできる、かも",
+      "nameCn": "也许能靠这本书大赚一笔",
+      "airdate": "2025-01-18",
+      "watchStatus": 0
+    },
+    {
+      "id": 1407029,
+      "ep": 18,
+      "sort": 18,
+      "type": 0,
+      "name": "情報を解放する",
+      "nameCn": "解放信息",
+      "airdate": "2025-01-25",
+      "watchStatus": 0
+    },
+    {
+      "id": 1407030,
+      "ep": 19,
+      "sort": 19,
+      "type": 0,
+      "name": "迷いの中に倫理がある",
+      "nameCn": "伦理存于迷茫之中",
+      "airdate": "2025-02-01",
+      "watchStatus": 0
+    },
+    {
+      "id": 1407031,
+      "ep": 20,
+      "sort": 20,
+      "type": 0,
+      "name": "私は、地動説を愛している",
+      "nameCn": "我爱着地动说",
+      "airdate": "2025-02-08",
+      "watchStatus": 0
+    },
+    {
+      "id": 1407032,
+      "ep": 21,
+      "sort": 21,
+      "type": 0,
+      "name": "時代は変わる",
+      "nameCn": "时代会变",
+      "airdate": "2025-02-15",
+      "watchStatus": 0
+    },
+    {
+      "id": 1407033,
+      "ep": 22,
+      "sort": 22,
+      "type": 0,
+      "name": "君らは歴史の登場人物じゃない",
+      "nameCn": "你们并非历史的登场人物",
+      "airdate": "2025-02-22",
+      "watchStatus": 0
+    },
+    {
+      "id": 1407034,
+      "ep": 23,
+      "sort": 23,
+      "type": 0,
+      "name": "同じ時代を作った仲間",
+      "nameCn": "创造同一个时代的同伴",
+      "airdate": "2025-03-01",
+      "watchStatus": 0
+    },
+    {
+      "id": 1407035,
+      "ep": 24,
+      "sort": 24,
+      "type": 0,
+      "name": "タウマゼインを",
+      "nameCn": "感受惊奇",
+      "airdate": "2025-03-08",
+      "watchStatus": 0
+    },
+    {
+      "id": 1407036,
+      "ep": 25,
+      "sort": 25,
+      "type": 0,
+      "name": "？",
+      "nameCn": "？",
+      "airdate": "2025-03-15",
+      "watchStatus": 0
+    }
+  ]
+}

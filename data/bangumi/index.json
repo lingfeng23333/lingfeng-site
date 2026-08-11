@@ -1,0 +1,600 @@
+{
+  "lastSyncAt": "2026-08-11T06:30:07.930Z",
+  "subjects": [
+    {
+      "id": 140001,
+      "name": "Re:ゼロから始める異世界生活",
+      "nameCn": "Re：从零开始的异世界生活",
+      "cover": "/covers/140001.jpg",
+      "airDate": "2016-04-03",
+      "totalEpisodes": 26,
+      "rating": {
+        "score": 7.5,
+        "rank": 1021,
+        "total": 24453
+      },
+      "collectionType": 3,
+      "epStatus": 18,
+      "rate": 9,
+      "updatedAt": "2026-08-11T09:08:31+08:00"
+    },
+    {
+      "id": 622206,
+      "name": "ヤニねこ",
+      "nameCn": "尼古喵喵",
+      "cover": "/covers/622206.jpg",
+      "airDate": "2026-07-02",
+      "totalEpisodes": 12,
+      "rating": {
+        "score": 7.2,
+        "rank": 1862,
+        "total": 3155
+      },
+      "collectionType": 3,
+      "epStatus": 6,
+      "rate": 7,
+      "updatedAt": "2026-08-08T12:45:39+08:00"
+    },
+    {
+      "id": 104196,
+      "name": "ニセコイ OAD",
+      "nameCn": "伪恋 OAD",
+      "cover": "/covers/104196.jpg",
+      "airDate": "2014-10-03",
+      "totalEpisodes": 4,
+      "rating": {
+        "score": 6.9,
+        "rank": 3182,
+        "total": 2892
+      },
+      "collectionType": 3,
+      "epStatus": 2,
+      "rate": 7,
+      "updatedAt": "2026-08-05T16:51:07+08:00"
+    },
+    {
+      "id": 623854,
+      "name": "女神『異世界転生何になりたいですか』俺「勇者の肋骨で」",
+      "nameCn": "女神“异世界转生想成为什么”我“勇者的肋骨”",
+      "cover": "/covers/623854.jpg",
+      "airDate": "2026-04-07",
+      "totalEpisodes": 12,
+      "rating": {
+        "score": 7.1,
+        "rank": 2211,
+        "total": 4128
+      },
+      "collectionType": 3,
+      "epStatus": 6,
+      "rate": 0,
+      "updatedAt": "2026-07-05T23:20:37+08:00"
+    },
+    {
+      "id": 27364,
+      "name": "氷菓",
+      "nameCn": "冰菓",
+      "cover": "/covers/27364.jpg",
+      "airDate": "2012-04-22",
+      "totalEpisodes": 26,
+      "rating": {
+        "score": 8.2,
+        "rank": 152,
+        "total": 33120
+      },
+      "collectionType": 3,
+      "epStatus": 4,
+      "rate": 8,
+      "updatedAt": "2026-06-28T23:33:49+08:00"
+    },
+    {
+      "id": 364450,
+      "name": "リコリス・リコイル",
+      "nameCn": "莉可丽丝",
+      "cover": "/covers/364450.jpg",
+      "airDate": "2022-07-02",
+      "totalEpisodes": 16,
+      "rating": {
+        "score": 6.3,
+        "rank": 6609,
+        "total": 20273
+      },
+      "collectionType": 3,
+      "epStatus": 0,
+      "rate": 8,
+      "updatedAt": "2026-05-30T22:24:56+08:00"
+    },
+    {
+      "id": 394260,
+      "name": "僕の心のヤバイやつ",
+      "nameCn": "我心里危险的东西",
+      "cover": "/covers/394260.jpg",
+      "airDate": "2023-04-01",
+      "totalEpisodes": 12,
+      "rating": {
+        "score": 7.8,
+        "rank": 396,
+        "total": 15869
+      },
+      "collectionType": 3,
+      "epStatus": 2,
+      "rate": 0,
+      "updatedAt": "2026-05-10T23:31:59+08:00"
+    },
+    {
+      "id": 464376,
+      "name": "負けヒロインが多すぎる！",
+      "nameCn": "败犬女主太多了！",
+      "cover": "/covers/464376.jpg",
+      "airDate": "2024-07-13",
+      "totalEpisodes": 12,
+      "rating": {
+        "score": 8,
+        "rank": 260,
+        "total": 28014
+      },
+      "collectionType": 3,
+      "epStatus": 2,
+      "rate": 0,
+      "updatedAt": "2026-03-08T20:51:37+08:00"
+    },
+    {
+      "id": 389156,
+      "name": "チ。 ―地球の運動について―",
+      "nameCn": "地。 ―关于地球的运动―",
+      "cover": "/covers/389156.jpg",
+      "airDate": "2024-10-05",
+      "totalEpisodes": 25,
+      "rating": {
+        "score": 6.3,
+        "rank": 6375,
+        "total": 5493
+      },
+      "collectionType": 3,
+      "epStatus": 7,
+      "rate": 0,
+      "updatedAt": "2026-02-03T17:16:07+08:00"
+    },
+    {
+      "id": 524707,
+      "name": "わたしが恋人になれるわけないじゃん、ムリムリ！（※ムリじゃなかった!?）",
+      "nameCn": "我们不可能成为恋人！绝对不行。 (※似乎可行？)",
+      "cover": "/covers/524707.jpg",
+      "airDate": "2025-07-07",
+      "totalEpisodes": 12,
+      "rating": {
+        "score": 7.5,
+        "rank": 1032,
+        "total": 11540
+      },
+      "collectionType": 3,
+      "epStatus": 0,
+      "rate": 0,
+      "updatedAt": "2026-01-14T23:29:26+08:00"
+    },
+    {
+      "id": 404809,
+      "name": "終末トレインどこへいく？",
+      "nameCn": "末日列车去哪里？",
+      "cover": "/covers/404809.jpg",
+      "airDate": "2024-04-01",
+      "totalEpisodes": 13,
+      "rating": {
+        "score": 6.6,
+        "rank": 4747,
+        "total": 7881
+      },
+      "collectionType": 3,
+      "epStatus": 3,
+      "rate": 0,
+      "updatedAt": "2025-10-04T19:38:33+08:00"
+    },
+    {
+      "id": 3774,
+      "name": "けいおん！！",
+      "nameCn": "轻音少女 第二季",
+      "cover": "/covers/3774.jpg",
+      "airDate": "2010-04-06",
+      "totalEpisodes": 27,
+      "rating": {
+        "score": 8.4,
+        "rank": 56,
+        "total": 24888
+      },
+      "collectionType": 3,
+      "epStatus": 1,
+      "rate": 0,
+      "updatedAt": "2025-03-11T01:39:35+08:00"
+    },
+    {
+      "id": 356774,
+      "name": "よふかしのうた",
+      "nameCn": "彻夜之歌",
+      "cover": "/covers/356774.jpg",
+      "airDate": "2022-07-07",
+      "totalEpisodes": 35,
+      "rating": {
+        "score": 7.4,
+        "rank": 1224,
+        "total": 11073
+      },
+      "collectionType": 3,
+      "epStatus": 3,
+      "rate": 7,
+      "updatedAt": "2025-03-06T00:18:26+08:00"
+    },
+    {
+      "id": 74628,
+      "name": "ニセコイ",
+      "nameCn": "伪恋",
+      "cover": "/covers/74628.jpg",
+      "airDate": "2014-01-11",
+      "totalEpisodes": 20,
+      "rating": {
+        "score": 7.1,
+        "rank": 2309,
+        "total": 11463
+      },
+      "collectionType": 2,
+      "epStatus": 20,
+      "rate": 8,
+      "updatedAt": "2026-08-04T15:19:41+08:00"
+    },
+    {
+      "id": 135275,
+      "name": "この素晴らしい世界に祝福を！",
+      "nameCn": "为美好的世界献上祝福！",
+      "cover": "/covers/135275.jpg",
+      "airDate": "2016-01-13",
+      "totalEpisodes": 10,
+      "rating": {
+        "score": 7.7,
+        "rank": 555,
+        "total": 23444
+      },
+      "collectionType": 2,
+      "epStatus": 10,
+      "rate": 8,
+      "updatedAt": "2026-06-27T17:27:15+08:00"
+    },
+    {
+      "id": 18635,
+      "name": "ギルティクラウン",
+      "nameCn": "罪恶王冠",
+      "cover": "/covers/18635.jpg",
+      "airDate": "2011-10-13",
+      "totalEpisodes": 23,
+      "rating": {
+        "score": 6.5,
+        "rank": 5256,
+        "total": 17300
+      },
+      "collectionType": 2,
+      "epStatus": 22,
+      "rate": 9,
+      "updatedAt": "2026-06-07T13:23:49+08:00"
+    },
+    {
+      "id": 1606,
+      "name": "涼宮ハルヒの憂鬱",
+      "nameCn": "凉宫春日的忧郁 2009",
+      "cover": "/covers/1606.jpg",
+      "airDate": "2009-04-02",
+      "totalEpisodes": 28,
+      "rating": {
+        "score": 8,
+        "rank": 221,
+        "total": 20066
+      },
+      "collectionType": 2,
+      "epStatus": 28,
+      "rate": 9,
+      "updatedAt": "2026-06-07T00:06:40+08:00"
+    },
+    {
+      "id": 1424,
+      "name": "けいおん！",
+      "nameCn": "轻音少女",
+      "cover": "/covers/1424.jpg",
+      "airDate": "2009-04-02",
+      "totalEpisodes": 14,
+      "rating": {
+        "score": 8.3,
+        "rank": 103,
+        "total": 30621
+      },
+      "collectionType": 2,
+      "epStatus": 14,
+      "rate": 9,
+      "updatedAt": "2025-03-11T01:38:58+08:00"
+    },
+    {
+      "id": 10440,
+      "name": "あの日見た花の名前を僕達はまだ知らない。",
+      "nameCn": "我们仍未知道那天所看见的花的名字。",
+      "cover": "/covers/10440.jpg",
+      "airDate": "2011-04-14",
+      "totalEpisodes": 12,
+      "rating": {
+        "score": 7.5,
+        "rank": 814,
+        "total": 27264
+      },
+      "collectionType": 2,
+      "epStatus": 0,
+      "rate": 7,
+      "updatedAt": "2025-03-06T00:58:55+08:00"
+    },
+    {
+      "id": 471793,
+      "name": "君のことが大大大大大好きな100人の彼女 第2期",
+      "nameCn": "超超超超超喜欢你的100个女朋友 第二季",
+      "cover": "/covers/471793.jpg",
+      "airDate": "2025-01-12",
+      "totalEpisodes": 12,
+      "rating": {
+        "score": 7.4,
+        "rank": 1040,
+        "total": 7040
+      },
+      "collectionType": 2,
+      "epStatus": 9,
+      "rate": 7,
+      "updatedAt": "2025-03-06T00:57:50+08:00"
+    },
+    {
+      "id": 100444,
+      "name": "四月は君の嘘",
+      "nameCn": "四月是你的谎言",
+      "cover": "/covers/100444.jpg",
+      "airDate": "2014-10-09",
+      "totalEpisodes": 22,
+      "rating": {
+        "score": 8,
+        "rank": 242,
+        "total": 23512
+      },
+      "collectionType": 2,
+      "epStatus": 0,
+      "rate": 8,
+      "updatedAt": "2025-03-06T00:16:46+08:00"
+    },
+    {
+      "id": 428735,
+      "name": "BanG Dream! It's MyGO!!!!!",
+      "nameCn": "",
+      "cover": "/covers/428735.jpg",
+      "airDate": "2023-06-29",
+      "totalEpisodes": 14,
+      "rating": {
+        "score": 7.9,
+        "rank": 272,
+        "total": 31499
+      },
+      "collectionType": 2,
+      "epStatus": 13,
+      "rate": 8,
+      "updatedAt": "2025-03-06T00:13:43+08:00"
+    },
+    {
+      "id": 424379,
+      "name": "君のことが大大大大大好きな100人の彼女",
+      "nameCn": "超超超超超喜欢你的100个女朋友",
+      "cover": "/covers/424379.jpg",
+      "airDate": "2023-10-08",
+      "totalEpisodes": 12,
+      "rating": {
+        "score": 7.3,
+        "rank": 1439,
+        "total": 10702
+      },
+      "collectionType": 2,
+      "epStatus": 12,
+      "rate": 7,
+      "updatedAt": "2025-02-24T13:42:12+08:00"
+    },
+    {
+      "id": 114758,
+      "name": "ニセコイ:",
+      "nameCn": "伪恋：",
+      "cover": "/covers/114758.jpg",
+      "airDate": "2015-04-10",
+      "totalEpisodes": 13,
+      "rating": {
+        "score": 7,
+        "rank": 2757,
+        "total": 8519
+      },
+      "collectionType": 1,
+      "epStatus": 0,
+      "rate": 0,
+      "updatedAt": "2026-08-04T11:38:03+08:00"
+    },
+    {
+      "id": 995,
+      "name": "N・H・Kにようこそ！",
+      "nameCn": "欢迎加入NHK！",
+      "cover": "/covers/995.jpg",
+      "airDate": "2006-07-09",
+      "totalEpisodes": 24,
+      "rating": {
+        "score": 8.2,
+        "rank": 146,
+        "total": 9077
+      },
+      "collectionType": 1,
+      "epStatus": 0,
+      "rate": 0,
+      "updatedAt": "2026-08-02T09:07:13+08:00"
+    },
+    {
+      "id": 1671,
+      "name": "化物語",
+      "nameCn": "化物语",
+      "cover": "/covers/1671.jpg",
+      "airDate": "2009-07-03",
+      "totalEpisodes": 16,
+      "rating": {
+        "score": 8.4,
+        "rank": 61,
+        "total": 24962
+      },
+      "collectionType": 1,
+      "epStatus": 0,
+      "rate": 0,
+      "updatedAt": "2026-08-01T11:25:37+08:00"
+    },
+    {
+      "id": 3375,
+      "name": "涼宮ハルヒの消失",
+      "nameCn": "凉宫春日的消失",
+      "cover": "/covers/3375.jpg",
+      "airDate": "2010-02-06",
+      "totalEpisodes": 1,
+      "rating": {
+        "score": 8.7,
+        "rank": 15,
+        "total": 24491
+      },
+      "collectionType": 1,
+      "epStatus": 0,
+      "rate": 0,
+      "updatedAt": "2026-08-01T11:23:52+08:00"
+    },
+    {
+      "id": 909,
+      "name": "とらドラ！",
+      "nameCn": "龙与虎",
+      "cover": "/covers/909.jpg",
+      "airDate": "2008-10-01",
+      "totalEpisodes": 26,
+      "rating": {
+        "score": 8,
+        "rank": 246,
+        "total": 27746
+      },
+      "collectionType": 1,
+      "epStatus": 0,
+      "rate": 0,
+      "updatedAt": "2026-08-01T11:21:15+08:00"
+    },
+    {
+      "id": 235130,
+      "name": "ぐらんぶる",
+      "nameCn": "碧蓝之海",
+      "cover": "/covers/235130.jpg",
+      "airDate": "2018-07-13",
+      "totalEpisodes": 12,
+      "rating": {
+        "score": 7.9,
+        "rank": 326,
+        "total": 18201
+      },
+      "collectionType": 1,
+      "epStatus": 0,
+      "rate": 0,
+      "updatedAt": "2026-08-01T11:20:56+08:00"
+    },
+    {
+      "id": 174043,
+      "name": "この素晴らしい世界に祝福を！2",
+      "nameCn": "为美好的世界献上祝福！ 第二季",
+      "cover": "/covers/174043.jpg",
+      "airDate": "2017-01-11",
+      "totalEpisodes": 10,
+      "rating": {
+        "score": 7.7,
+        "rank": 541,
+        "total": 19171
+      },
+      "collectionType": 1,
+      "epStatus": 0,
+      "rate": 0,
+      "updatedAt": "2026-06-27T19:23:54+08:00"
+    },
+    {
+      "id": 49131,
+      "name": "デート・ア・ライブ",
+      "nameCn": "约会大作战",
+      "cover": "/covers/49131.jpg",
+      "airDate": "2013-04-05",
+      "totalEpisodes": 13,
+      "rating": {
+        "score": 6.7,
+        "rank": 4249,
+        "total": 15722
+      },
+      "collectionType": 1,
+      "epStatus": 0,
+      "rate": 0,
+      "updatedAt": "2026-06-07T00:23:06+08:00"
+    },
+    {
+      "id": 551123,
+      "name": "ポンコツ風紀委員とスカート丈が不適切なJKの話",
+      "nameCn": "木头风纪委员和迷你裙JK的故事",
+      "cover": "/covers/551123.jpg",
+      "airDate": "2026-04-06",
+      "totalEpisodes": 12,
+      "rating": {
+        "score": 7.1,
+        "rank": 2232,
+        "total": 2370
+      },
+      "collectionType": 1,
+      "epStatus": 0,
+      "rate": 0,
+      "updatedAt": "2026-06-07T00:22:02+08:00"
+    },
+    {
+      "id": 543360,
+      "name": "上伊那ぼたん、酔へる姿は百合の花",
+      "nameCn": "上伊那牡丹，酒醉身姿似百合花般",
+      "cover": "/covers/543360.jpg",
+      "airDate": "2026-04-10",
+      "totalEpisodes": 25,
+      "rating": {
+        "score": 7.2,
+        "rank": 1966,
+        "total": 8416
+      },
+      "collectionType": 1,
+      "epStatus": 0,
+      "rate": 0,
+      "updatedAt": "2026-06-07T00:18:53+08:00"
+    },
+    {
+      "id": 114685,
+      "name": "プラスティック・メモリーズ",
+      "nameCn": "可塑性记忆",
+      "cover": "/covers/114685.jpg",
+      "airDate": "2015-04-04",
+      "totalEpisodes": 13,
+      "rating": {
+        "score": 7,
+        "rank": 2536,
+        "total": 12771
+      },
+      "collectionType": 1,
+      "epStatus": 0,
+      "rate": 0,
+      "updatedAt": "2026-02-14T20:26:38+08:00"
+    },
+    {
+      "id": 183878,
+      "name": "ヴァイオレット・エヴァーガーデン",
+      "nameCn": "紫罗兰永恒花园",
+      "cover": "/covers/183878.jpg",
+      "airDate": "2018-01-10",
+      "totalEpisodes": 14,
+      "rating": {
+        "score": 7.6,
+        "rank": 779,
+        "total": 22436
+      },
+      "collectionType": 1,
+      "epStatus": 0,
+      "rate": 0,
+      "updatedAt": "2026-02-14T20:26:19+08:00"
+    }
+  ]
+}

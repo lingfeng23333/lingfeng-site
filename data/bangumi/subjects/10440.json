@@ -1,0 +1,150 @@
+{
+  "id": 10440,
+  "name": "あの日見た花の名前を僕達はまだ知らない。",
+  "nameCn": "我们仍未知道那天所看见的花的名字。",
+  "cover": "/covers/10440.jpg",
+  "coverRemote": "https://lain.bgm.tv/pic/cover/l/6c/e8/10440_8HP6O.jpg",
+  "airDate": "2011-04-14",
+  "totalEpisodes": 12,
+  "rating": {
+    "score": 7.5,
+    "rank": 814,
+    "total": 27264
+  },
+  "summary": "从小时候起一直青梅竹马的6人，却在升上高中之后彼此有了距离。不太与人们接触的主角宿海仁太、有点被小太妹熏染的安城鸣子、进入重点高中的松雪集与鹤见知利子、放弃读高中而展开旅行的久川铁道、只有幼年死去的本间芽衣子（灵魂，只有仁太能看见）还是一如从前。有一天，芽衣子对仁太说：“帮我实现一个愿望吧”。仁太虽然有点为难，却还是答应帮助面码实现愿望。以此为契机，为了实现芽衣子的愿望，分散在各处的大家又再次地聚集在一起。",
+  "tags": [
+    "治愈",
+    "催泪",
+    "友情",
+    "あの日見た花の名前を僕達はまだ知らない",
+    "2011年4月",
+    "A-1Pictures",
+    "原创",
+    "TV",
+    "伤感",
+    "2011",
+    "あの花",
+    "noitaminA"
+  ],
+  "platform": "TV",
+  "nsfw": false,
+  "collectionType": 2,
+  "epStatus": 0,
+  "volStatus": 0,
+  "rate": 7,
+  "comment": null,
+  "private": false,
+  "updatedAt": "2025-03-06T00:58:55+08:00",
+  "episodes": [
+    {
+      "id": 84692,
+      "ep": 1,
+      "sort": 1,
+      "type": 0,
+      "name": "超平和バスターズ",
+      "nameCn": "超和平busters",
+      "airdate": "2011-04-14",
+      "watchStatus": 0
+    },
+    {
+      "id": 84693,
+      "ep": 2,
+      "sort": 2,
+      "type": 0,
+      "name": "ゆうしゃめんま",
+      "nameCn": "勇者面码",
+      "airdate": "2011-04-21",
+      "watchStatus": 0
+    },
+    {
+      "id": 84694,
+      "ep": 3,
+      "sort": 3,
+      "type": 0,
+      "name": "めんまを探そうの会",
+      "nameCn": "寻找面码委员会",
+      "airdate": "2011-04-28",
+      "watchStatus": 0
+    },
+    {
+      "id": 84695,
+      "ep": 4,
+      "sort": 4,
+      "type": 0,
+      "name": "白の、リボンのワンピース",
+      "nameCn": "白色的，系丝带的连身裙",
+      "airdate": "2011-05-05",
+      "watchStatus": 0
+    },
+    {
+      "id": 84696,
+      "ep": 5,
+      "sort": 5,
+      "type": 0,
+      "name": "トンネル",
+      "nameCn": "隧道",
+      "airdate": "2011-05-12",
+      "watchStatus": 0
+    },
+    {
+      "id": 84697,
+      "ep": 6,
+      "sort": 6,
+      "type": 0,
+      "name": "わすれてわすれないで",
+      "nameCn": "忘记不忘记",
+      "airdate": "2011-05-19",
+      "watchStatus": 0
+    },
+    {
+      "id": 84698,
+      "ep": 7,
+      "sort": 7,
+      "type": 0,
+      "name": "ほんとのお願い",
+      "nameCn": "真正的愿望",
+      "airdate": "2011-05-26",
+      "watchStatus": 0
+    },
+    {
+      "id": 84699,
+      "ep": 8,
+      "sort": 8,
+      "type": 0,
+      "name": "I wonder",
+      "nameCn": "I wonder",
+      "airdate": "2011-06-02",
+      "watchStatus": 0
+    },
+    {
+      "id": 84700,
+      "ep": 9,
+      "sort": 9,
+      "type": 0,
+      "name": "みんなとめんま",
+      "nameCn": "大家和面玛",
+      "airdate": "2011-06-09",
+      "watchStatus": 0
+    },
+    {
+      "id": 84701,
+      "ep": 10,
+      "sort": 10,
+      "type": 0,
+      "name": "花火",
+      "nameCn": "烟花",
+      "airdate": "2011-06-16",
+      "watchStatus": 0
+    },
+    {
+      "id": 84702,
+      "ep": 11,
+      "sort": 11,
+      "type": 0,
+      "name": "あの夏に咲く花",
+      "nameCn": "那个夏天绽放的花",
+      "airdate": "2011-06-23",
+      "watchStatus": 0
+    }
+  ]
+}

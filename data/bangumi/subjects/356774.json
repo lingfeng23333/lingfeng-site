@@ -1,0 +1,170 @@
+{
+  "id": 356774,
+  "name": "よふかしのうた",
+  "nameCn": "彻夜之歌",
+  "cover": "/covers/356774.jpg",
+  "coverRemote": "https://lain.bgm.tv/pic/cover/l/dd/cd/356774_zOW55.jpg",
+  "airDate": "2022-07-07",
+  "totalEpisodes": 35,
+  "rating": {
+    "score": 7.4,
+    "rank": 1224,
+    "total": 11073
+  },
+  "summary": "“我第一次在夜里，没跟任何人说就出来了。”\r\n讨厌女生的初中二年级学生夜守光，现在不知为何不去上学了。\r\n而且，每天晚上都睡不着觉。\r\n有一天，小光第一次在夜里没告诉任何人就出去了。 夜风怡人，自由自在，与白天完全不同。小光发现夜晚才是他的归宿。\r\n这时，神秘的美少女七草荠突然出现。 她是夜晚的居民·吸血鬼。 荠告诉小光夜晚的乐趣。\r\n“熬到今天满意为止吧，少年。”\r\n夜晚，被荠迷住的小光向她请求。\r\n“请把我变成吸血鬼。”\r\n荠告诉了他成为吸血鬼的方法。羞怯地说。那就是……\r\n“人类爱上吸血鬼！”\r\n究竟不懂恋爱的小光，会不会和荠恋爱，并成为吸血鬼呢！？\r\n两个人的特别的“约会”开始了——",
+  "tags": [
+    "恋爱",
+    "吸血鬼",
+    "奇幻",
+    "2022年7月",
+    "漫画改",
+    "TV",
+    "LIDENFILMS",
+    "漫改",
+    "日常",
+    "2022",
+    "搞笑",
+    "雨宫天"
+  ],
+  "platform": "TV",
+  "nsfw": false,
+  "collectionType": 3,
+  "epStatus": 3,
+  "volStatus": 0,
+  "rate": 7,
+  "comment": null,
+  "private": false,
+  "updatedAt": "2025-03-06T00:18:26+08:00",
+  "episodes": [
+    {
+      "id": 1110573,
+      "ep": 1,
+      "sort": 1,
+      "type": 0,
+      "name": "ナイトフライト",
+      "nameCn": "夜间飞行",
+      "airdate": "2022-07-07",
+      "watchStatus": 2
+    },
+    {
+      "id": 1110574,
+      "ep": 2,
+      "sort": 2,
+      "type": 0,
+      "name": "てかラインやってる?",
+      "nameCn": "话说你有在玩 line 吗？",
+      "airdate": "2022-07-14",
+      "watchStatus": 2
+    },
+    {
+      "id": 1110575,
+      "ep": 3,
+      "sort": 3,
+      "type": 0,
+      "name": "いっぱい出たね",
+      "nameCn": "流了好多血呢",
+      "airdate": "2022-07-21",
+      "watchStatus": 2
+    },
+    {
+      "id": 1110576,
+      "ep": 4,
+      "sort": 4,
+      "type": 0,
+      "name": "せまくない?",
+      "nameCn": "太挤了吧？",
+      "airdate": "2022-07-28",
+      "watchStatus": 0
+    },
+    {
+      "id": 1110577,
+      "ep": 5,
+      "sort": 5,
+      "type": 0,
+      "name": "そりゃ困ったやつですね",
+      "nameCn": "这可头疼了啊",
+      "airdate": "2022-08-04",
+      "watchStatus": 0
+    },
+    {
+      "id": 1110578,
+      "ep": 6,
+      "sort": 6,
+      "type": 0,
+      "name": "楽しい方がいいよ",
+      "nameCn": "选开心的那一边吧",
+      "airdate": "2022-08-11",
+      "watchStatus": 0
+    },
+    {
+      "id": 1110579,
+      "ep": 7,
+      "sort": 7,
+      "type": 0,
+      "name": "眷属作り(こづくり)",
+      "nameCn": "创造眷属",
+      "airdate": "2022-08-18",
+      "watchStatus": 0
+    },
+    {
+      "id": 1110580,
+      "ep": 8,
+      "sort": 8,
+      "type": 0,
+      "name": "どいつもこいつも",
+      "nameCn": "一个个的",
+      "airdate": "2022-08-25",
+      "watchStatus": 0
+    },
+    {
+      "id": 1110581,
+      "ep": 9,
+      "sort": 9,
+      "type": 0,
+      "name": "ずるい",
+      "nameCn": "不公平",
+      "airdate": "2022-09-01",
+      "watchStatus": 0
+    },
+    {
+      "id": 1110582,
+      "ep": 10,
+      "sort": 10,
+      "type": 0,
+      "name": "盗撮画像を拡大して見る",
+      "nameCn": "把偷拍照放大看",
+      "airdate": "2022-09-08",
+      "watchStatus": 0
+    },
+    {
+      "id": 1110583,
+      "ep": 11,
+      "sort": 11,
+      "type": 0,
+      "name": "吸血鬼って知ってるかい？",
+      "nameCn": "知道吸血鬼吗？",
+      "airdate": "2022-09-15",
+      "watchStatus": 0
+    },
+    {
+      "id": 1110584,
+      "ep": 12,
+      "sort": 12,
+      "type": 0,
+      "name": "今日ウチ親いないんだ",
+      "nameCn": "今天我爸妈不在",
+      "airdate": "2022-09-22",
+      "watchStatus": 0
+    },
+    {
+      "id": 1116653,
+      "ep": 13,
+      "sort": 13,
+      "type": 0,
+      "name": "よふかしのうた",
+      "nameCn": "彻夜之歌",
+      "airdate": "2022-09-29",
+      "watchStatus": 0
+    }
+  ]
+}

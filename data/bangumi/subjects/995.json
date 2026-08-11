@@ -1,0 +1,280 @@
+{
+  "id": 995,
+  "name": "N・H・Kにようこそ！",
+  "nameCn": "欢迎加入NHK！",
+  "cover": "/covers/995.jpg",
+  "coverRemote": "https://lain.bgm.tv/pic/cover/l/2b/ca/995_1FUkm.jpg",
+  "airDate": "2006-07-09",
+  "totalEpisodes": 24,
+  "rating": {
+    "score": 8.2,
+    "rank": 146,
+    "total": 9077
+  },
+  "summary": "大学退学第二年的春天，主角家里蹲废材佐藤达广在一事无成下，妄想认为自己的退学跟无职是NHK的全国性阴谋，就在这个时候在他面前出现了之前遇到过叫做中原岬的神秘美少女，并坚持达广一定要加入计划治好只会窝在家里的毛病……",
+  "tags": [
+    "GONZO",
+    "NHK",
+    "家里蹲",
+    "TV",
+    "NEET",
+    "社会问题",
+    "2006",
+    "宅",
+    "脱宅",
+    "牧野由依",
+    "治愈",
+    "中原岬"
+  ],
+  "platform": "TV",
+  "nsfw": false,
+  "collectionType": 1,
+  "epStatus": 0,
+  "volStatus": 0,
+  "rate": 0,
+  "comment": null,
+  "private": false,
+  "updatedAt": "2026-08-02T09:07:13+08:00",
+  "episodes": [
+    {
+      "id": 1635,
+      "ep": 1,
+      "sort": 1,
+      "type": 0,
+      "name": "プロジェクトにようこそ!",
+      "nameCn": "欢迎加入本计划!",
+      "airdate": "2006-07-09",
+      "watchStatus": 0
+    },
+    {
+      "id": 1636,
+      "ep": 2,
+      "sort": 2,
+      "type": 0,
+      "name": "クリエイターにようこそ!",
+      "nameCn": "欢迎成为创作者!",
+      "airdate": "2006-07-16",
+      "watchStatus": 0
+    },
+    {
+      "id": 1637,
+      "ep": 3,
+      "sort": 3,
+      "type": 0,
+      "name": "美少女にようこそ!",
+      "nameCn": "欢迎注视美少女!",
+      "airdate": "2006-07-23",
+      "watchStatus": 0
+    },
+    {
+      "id": 1638,
+      "ep": 4,
+      "sort": 4,
+      "type": 0,
+      "name": "新世界にようこそ!",
+      "nameCn": "欢迎来到新世界!",
+      "airdate": "2006-07-30",
+      "watchStatus": 0
+    },
+    {
+      "id": 1639,
+      "ep": 5,
+      "sort": 5,
+      "type": 0,
+      "name": "カウンセリングにようこそ!",
+      "nameCn": "欢迎接受辅导!",
+      "airdate": "2006-08-06",
+      "watchStatus": 0
+    },
+    {
+      "id": 1640,
+      "ep": 6,
+      "sort": 6,
+      "type": 0,
+      "name": "クラスルームにようこそ!",
+      "nameCn": "欢迎来到教室!",
+      "airdate": "2006-08-13",
+      "watchStatus": 0
+    },
+    {
+      "id": 1641,
+      "ep": 7,
+      "sort": 7,
+      "type": 0,
+      "name": "モラトリアムにようこそ!",
+      "nameCn": "欢迎来延期偿还!",
+      "airdate": "2006-08-20",
+      "watchStatus": 0
+    },
+    {
+      "id": 1642,
+      "ep": 8,
+      "sort": 8,
+      "type": 0,
+      "name": "中華街にようこそ!",
+      "nameCn": "欢迎来到中华街!",
+      "airdate": "2006-08-27",
+      "watchStatus": 0
+    },
+    {
+      "id": 1643,
+      "ep": 9,
+      "sort": 9,
+      "type": 0,
+      "name": "夏の日にようこそ!",
+      "nameCn": "欢迎来到夏日!",
+      "airdate": "2006-09-03",
+      "watchStatus": 0
+    },
+    {
+      "id": 1644,
+      "ep": 10,
+      "sort": 10,
+      "type": 0,
+      "name": "ダークサイドにようこそ!",
+      "nameCn": "欢迎来到黑暗面!",
+      "airdate": "2006-09-10",
+      "watchStatus": 0
+    },
+    {
+      "id": 1645,
+      "ep": 11,
+      "sort": 11,
+      "type": 0,
+      "name": "陰謀にようこそ!",
+      "nameCn": "欢迎掉入阴谋!",
+      "airdate": "2006-09-17",
+      "watchStatus": 0
+    },
+    {
+      "id": 1646,
+      "ep": 12,
+      "sort": 12,
+      "type": 0,
+      "name": "オフ会にようこそ!",
+      "nameCn": "欢迎来到网聚!",
+      "airdate": "2006-09-24",
+      "watchStatus": 0
+    },
+    {
+      "id": 1647,
+      "ep": 13,
+      "sort": 13,
+      "type": 0,
+      "name": "天国にようこそ!",
+      "nameCn": "欢迎来到天国!",
+      "airdate": "2006-10-01",
+      "watchStatus": 0
+    },
+    {
+      "id": 1648,
+      "ep": 14,
+      "sort": 14,
+      "type": 0,
+      "name": "現実(リアル)にようこそ!",
+      "nameCn": "欢迎来到现实!",
+      "airdate": "2006-10-08",
+      "watchStatus": 0
+    },
+    {
+      "id": 1649,
+      "ep": 15,
+      "sort": 15,
+      "type": 0,
+      "name": "ファンタジーにようこそ!",
+      "nameCn": "欢迎来到幻想世界!",
+      "airdate": "2006-10-15",
+      "watchStatus": 0
+    },
+    {
+      "id": 1650,
+      "ep": 16,
+      "sort": 16,
+      "type": 0,
+      "name": "ゲームオーバーにようこそ!",
+      "nameCn": "欢迎来结束游戏!",
+      "airdate": "2006-10-22",
+      "watchStatus": 0
+    },
+    {
+      "id": 1651,
+      "ep": 17,
+      "sort": 17,
+      "type": 0,
+      "name": "はぴねすにようこそ!",
+      "nameCn": "欢迎来感受幸福!",
+      "airdate": "2006-10-29",
+      "watchStatus": 0
+    },
+    {
+      "id": 1652,
+      "ep": 18,
+      "sort": 18,
+      "type": 0,
+      "name": "ノーフューチャーにようこそ!",
+      "nameCn": "欢迎来感受前途无亮!",
+      "airdate": "2006-11-05",
+      "watchStatus": 0
+    },
+    {
+      "id": 1653,
+      "ep": 19,
+      "sort": 19,
+      "type": 0,
+      "name": "青い鳥にようこそ!",
+      "nameCn": "欢迎来寻找青鸟!",
+      "airdate": "2006-11-12",
+      "watchStatus": 0
+    },
+    {
+      "id": 1654,
+      "ep": 20,
+      "sort": 20,
+      "type": 0,
+      "name": "冬の日にようこそ!",
+      "nameCn": "欢迎来到冬天!",
+      "airdate": "2006-11-19",
+      "watchStatus": 0
+    },
+    {
+      "id": 1655,
+      "ep": 21,
+      "sort": 21,
+      "type": 0,
+      "name": "リセットにようこそ!",
+      "nameCn": "欢迎来重头开始!",
+      "airdate": "2006-11-26",
+      "watchStatus": 0
+    },
+    {
+      "id": 1656,
+      "ep": 22,
+      "sort": 22,
+      "type": 0,
+      "name": "神様にようこそ!",
+      "nameCn": "欢迎来成为神!",
+      "airdate": "2006-12-03",
+      "watchStatus": 0
+    },
+    {
+      "id": 1657,
+      "ep": 23,
+      "sort": 23,
+      "type": 0,
+      "name": "岬にようこそ!",
+      "nameCn": "欢迎来寻找岬!",
+      "airdate": "2006-12-10",
+      "watchStatus": 0
+    },
+    {
+      "id": 1658,
+      "ep": 24,
+      "sort": 24,
+      "type": 0,
+      "name": "N・H・Kにようこそ!",
+      "nameCn": "欢迎来到NHK!",
+      "airdate": "2006-12-17",
+      "watchStatus": 0
+    }
+  ]
+}

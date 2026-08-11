@@ -1,0 +1,170 @@
+{
+  "id": 114685,
+  "name": "プラスティック・メモリーズ",
+  "nameCn": "可塑性记忆",
+  "cover": "/covers/114685.jpg",
+  "coverRemote": "https://lain.bgm.tv/pic/cover/l/1d/08/114685_Ege3l.jpg",
+  "airDate": "2015-04-04",
+  "totalEpisodes": 13,
+  "rating": {
+    "score": 7,
+    "rank": 2536,
+    "total": 12771
+  },
+  "summary": "故事发生在一个比现在的科学要进步的世界。18岁的水柿司高考失败，多亏父母找关系得以进入世界大企业SAI社工作。SAI社是制造管理拥有感情的人形智能机器人（通称：Giftia）的企业，司在其中被安排到终端服务部门工作。这个部门其实就是回收即将到期的Giftia，是所谓的“窗边部门（不被重视的部门）”。于是司和打杂的Giftia少女“艾拉”组成搭档，一起开始了工作……",
+  "tags": [
+    "催泪",
+    "原创",
+    "动画工房",
+    "恋爱",
+    "2015年4月",
+    "科幻",
+    "TV",
+    "可塑性记忆",
+    "2015",
+    "林直孝",
+    "横山克",
+    "治愈"
+  ],
+  "platform": "TV",
+  "nsfw": false,
+  "collectionType": 1,
+  "epStatus": 0,
+  "volStatus": 0,
+  "rate": 0,
+  "comment": null,
+  "private": false,
+  "updatedAt": "2026-02-14T20:26:38+08:00",
+  "episodes": [
+    {
+      "id": 512760,
+      "ep": 1,
+      "sort": 1,
+      "type": 0,
+      "name": "はじめてのパートナー",
+      "nameCn": "初次的搭档",
+      "airdate": "2015-04-04",
+      "watchStatus": 0
+    },
+    {
+      "id": 512761,
+      "ep": 2,
+      "sort": 2,
+      "type": 0,
+      "name": "足を引っ張りたくないので",
+      "nameCn": "因为不想拖人后腿",
+      "airdate": "2015-04-11",
+      "watchStatus": 0
+    },
+    {
+      "id": 512762,
+      "ep": 3,
+      "sort": 3,
+      "type": 0,
+      "name": "同棲はじめました",
+      "nameCn": "开始同居了",
+      "airdate": "2015-04-18",
+      "watchStatus": 0
+    },
+    {
+      "id": 512763,
+      "ep": 4,
+      "sort": 4,
+      "type": 0,
+      "name": "うまく笑えなくて",
+      "nameCn": "无法露出笑容来",
+      "airdate": "2015-04-25",
+      "watchStatus": 0
+    },
+    {
+      "id": 512764,
+      "ep": 5,
+      "sort": 5,
+      "type": 0,
+      "name": "守りたかった約束",
+      "nameCn": "想要守护的约定",
+      "airdate": "2015-05-02",
+      "watchStatus": 0
+    },
+    {
+      "id": 512765,
+      "ep": 6,
+      "sort": 6,
+      "type": 0,
+      "name": "2人で、おかえり",
+      "nameCn": "两人一起 欢迎回來",
+      "airdate": "2015-05-09",
+      "watchStatus": 0
+    },
+    {
+      "id": 512766,
+      "ep": 7,
+      "sort": 7,
+      "type": 0,
+      "name": "上手なデートの誘い方",
+      "nameCn": "邀请约会的好方法",
+      "airdate": "2015-05-16",
+      "watchStatus": 0
+    },
+    {
+      "id": 512767,
+      "ep": 8,
+      "sort": 8,
+      "type": 0,
+      "name": "知らない花火",
+      "nameCn": "未曾见过的焰火",
+      "airdate": "2015-05-23",
+      "watchStatus": 0
+    },
+    {
+      "id": 512768,
+      "ep": 9,
+      "sort": 9,
+      "type": 0,
+      "name": "祭りの後",
+      "nameCn": "祭典之后",
+      "airdate": "2015-05-30",
+      "watchStatus": 0
+    },
+    {
+      "id": 512769,
+      "ep": 10,
+      "sort": 10,
+      "type": 0,
+      "name": "もう、パートナーじゃない",
+      "nameCn": "已经，不是搭档了",
+      "airdate": "2015-06-06",
+      "watchStatus": 0
+    },
+    {
+      "id": 512770,
+      "ep": 11,
+      "sort": 11,
+      "type": 0,
+      "name": "オムライスの日",
+      "nameCn": "蛋包饭之日",
+      "airdate": "2015-06-13",
+      "watchStatus": 0
+    },
+    {
+      "id": 512771,
+      "ep": 12,
+      "sort": 12,
+      "type": 0,
+      "name": "想い出が埋まってく",
+      "nameCn": "回忆正在渐渐编织",
+      "airdate": "2015-06-20",
+      "watchStatus": 0
+    },
+    {
+      "id": 515775,
+      "ep": 13,
+      "sort": 13,
+      "type": 0,
+      "name": "いつかまた巡り会えますように",
+      "nameCn": "祝愿有一天能再次相遇",
+      "airdate": "2015-06-27",
+      "watchStatus": 0
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": 104196,
+  "name": "ニセコイ OAD",
+  "nameCn": "伪恋 OAD",
+  "cover": "/covers/104196.jpg",
+  "coverRemote": "https://lain.bgm.tv/pic/cover/l/2d/bb/104196_mIzDE.jpg",
+  "airDate": "2014-10-03",
+  "totalEpisodes": 4,
+  "rating": {
+    "score": 6.9,
+    "rank": 3182,
+    "total": 2892
+  },
+  "summary": "漫画单行本第14卷推出同捆OVA的限定版（完全预约生产），时长约25分钟，改编自原作漫画第58话《丢失》和第64话《巫女小姐》。\r\n\r\n漫画单行本第16卷预定于2015年2月4日发售，并将推出同捆OVA的限定版（预约生产），时长约25分钟，改编自原作漫画第65话《酒后吐真言》和第71话《兼职》。\r\n\r\n漫画单行本第17卷将于2015年4月3日发售，限定版同捆OAD，动画内容改编自原作第81话“澡堂”。\r\n\r\n漫画单行本第21卷将于2016年1月4日发售，限定版同捆OAD。",
+  "tags": [
+    "OVA",
+    "新房昭之",
+    "SHAFT",
+    "恋爱",
+    "后宫",
+    "伪恋",
+    "漫画改",
+    "2014",
+    "OAD",
+    "校园",
+    "2014年10月",
+    "漫改"
+  ],
+  "platform": "OVA",
+  "nsfw": false,
+  "collectionType": 3,
+  "epStatus": 2,
+  "volStatus": 0,
+  "rate": 7,
+  "comment": null,
+  "private": false,
+  "updatedAt": "2026-08-05T16:51:07+08:00",
+  "episodes": [
+    {
+      "id": 400610,
+      "ep": 1,
+      "sort": 1,
+      "type": 0,
+      "name": "フンシツ/ミコサン",
+      "nameCn": "丢失/巫女",
+      "airdate": "2014-10-03",
+      "watchStatus": 2
+    },
+    {
+      "id": 431570,
+      "ep": 2,
+      "sort": 2,
+      "type": 0,
+      "name": "オシゴト/ヘンボウ",
+      "nameCn": "工作/变貌",
+      "airdate": "2015-02-04",
+      "watchStatus": 2
+    },
+    {
+      "id": 454558,
+      "ep": 3,
+      "sort": 3,
+      "type": 0,
+      "name": "セントウ/サービス",
+      "nameCn": "澡堂/福利",
+      "airdate": "2015-04-03",
+      "watchStatus": 0
+    },
+    {
+      "id": 544355,
+      "ep": 4,
+      "sort": 4,
+      "type": 0,
+      "name": "シンコン/マジカルパティシエ小咲ちゃん!!",
+      "nameCn": "新婚/魔法糕点师小咲!!",
+      "airdate": "2016-01-04",
+      "watchStatus": 0
+    }
+  ]
+}
