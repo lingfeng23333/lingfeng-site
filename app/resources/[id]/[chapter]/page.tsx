@@ -5,6 +5,18 @@ import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { getChapter, getResources } from "@/lib/resources";
 
+const markdownComponents = {
+  img: (props: React.ImgHTMLAttributes<HTMLImageElement>) => (
+    // eslint-disable-next-line @next/next/no-img-element
+    <img
+      {...props}
+      alt={props.alt ?? ""}
+      loading="lazy"
+      referrerPolicy="no-referrer"
+    />
+  ),
+};
+
 export function generateStaticParams() {
   return getResources().flatMap((r) =>
     r.chapters.map((c) => ({
@@ -62,7 +74,10 @@ export default async function ChapterPage({
         </h1>
 
         <div className="prose mt-8 max-w-none prose-headings:text-ink-900 prose-a:text-accent-600 prose-strong:text-ink-900">
-          <ReactMarkdown remarkPlugins={[remarkGfm]}>
+          <ReactMarkdown
+            remarkPlugins={[remarkGfm]}
+            components={markdownComponents}
+          >
             {content}
           </ReactMarkdown>
         </div>

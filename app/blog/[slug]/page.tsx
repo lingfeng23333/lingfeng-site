@@ -9,6 +9,18 @@ import { getAllPosts, getAdjacentPosts, getPostBySlug } from "@/lib/posts";
 import { getSubject } from "@/lib/data";
 import { formatDate } from "@/lib/format";
 
+const markdownComponents = {
+  img: (props: React.ImgHTMLAttributes<HTMLImageElement>) => (
+    // eslint-disable-next-line @next/next/no-img-element
+    <img
+      {...props}
+      alt={props.alt ?? ""}
+      loading="lazy"
+      referrerPolicy="no-referrer"
+    />
+  ),
+};
+
 export function generateStaticParams() {
   return getAllPosts().map((post) => ({ slug: post.slug }));
 }
@@ -41,7 +53,10 @@ export default async function PostPage({
 
   const markdown = (
     <div className="prose max-w-none prose-headings:text-ink-900 prose-a:text-accent-600 prose-strong:text-ink-900">
-      <ReactMarkdown remarkPlugins={[remarkGfm]}>
+      <ReactMarkdown
+        remarkPlugins={[remarkGfm]}
+        components={markdownComponents}
+      >
         {post.content}
       </ReactMarkdown>
     </div>
