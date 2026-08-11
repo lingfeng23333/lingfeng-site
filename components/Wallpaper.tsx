@@ -44,7 +44,16 @@ export default function Wallpaper() {
             sizes="100vw"
             unoptimized
             onError={() => setBg({ url: null })}
-            className="object-cover"
+            className="scale-110 object-cover opacity-90 blur-3xl"
+          />
+          <Image
+            src={bg.url}
+            alt=""
+            fill
+            sizes="100vw"
+            unoptimized
+            onError={() => setBg({ url: null })}
+            className="object-contain"
           />
         </div>
       ) : null}
