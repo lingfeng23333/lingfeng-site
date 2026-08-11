@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getIndex } from "@/lib/data";
 import { getAllPosts } from "@/lib/posts";
+import { getResources } from "@/lib/resources";
 
 const siteUrl =
   process.env.NEXT_PUBLIC_SITE_URL || "https://lingfeng.example.com";
@@ -13,6 +14,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "",
     "/blog",
     "/bangumi",
+    "/resources",
     "/tags",
     "/archives",
     "/about",
@@ -31,5 +33,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified,
   }));
 
-  return [...statics, ...posts, ...subjects];
+  const resources: MetadataRoute.Sitemap = getResources().flatMap((r) => [
+    {
+      url: `${siteUrl}/resources/${r.id}`,
+      lastModified,
+    },
+    ...r.chapters.map((c) => ({
+      url: `${siteUrl}/resources/${r.id}/${c.file.replace(/\.md$/, "")}`,
+      lastModified,
+    })),
+  ]);
+
+  return [...statics, ...posts, ...subjects, ...resources];
 }

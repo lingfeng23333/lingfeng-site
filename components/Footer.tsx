@@ -20,6 +20,9 @@ export default function Footer() {
           <Link href="/about" className="transition hover:text-accent-700">
             关于
           </Link>
+          <Link href="/resources" className="transition hover:text-accent-700">
+            资源
+          </Link>
           <Link href="/write" className="transition hover:text-accent-700">
             写作台
           </Link>
