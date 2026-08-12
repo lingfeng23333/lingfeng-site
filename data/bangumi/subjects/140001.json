@@ -8,8 +8,8 @@
   "totalEpisodes": 26,
   "rating": {
     "score": 7.5,
-    "rank": 1021,
-    "total": 24458
+    "rank": 1022,
+    "total": 24470
   },
   "summary": "　　从便利店回来的路上突然被召唤到异世界的少年，菜月昴。在无可依赖的异世界，无力的少年所唯一拥有的力量……那就是死后便会使时间倒转的“死亡回归”的力量。为了守护重要的人，并取回那些无可替代的时间，少年向绝望抗争，挺身面对残酷的命运。",
   "tags": [
@@ -29,12 +29,12 @@
   "platform": "TV",
   "nsfw": false,
   "collectionType": 3,
-  "epStatus": 19,
+  "epStatus": 23,
   "volStatus": 0,
   "rate": 9,
   "comment": null,
   "private": false,
-  "updatedAt": "2026-08-11T22:47:01+08:00",
+  "updatedAt": "2026-08-12T15:08:40+08:00",
   "episodes": [
     {
       "id": 621357,
@@ -272,9 +272,9 @@
       "name": "ヴィルヘルム・ヴァン・アストレア",
       "nameCn": "威尔海姆·梵·阿斯特雷亚",
       "airdate": "2016-08-14",
-      "watchStatus": 0,
+      "watchStatus": 2,
       "durationSeconds": 1465,
-      "watchedAt": 0
+      "watchedAt": 1786498862
     },
     {
       "id": 626052,
@@ -284,9 +284,9 @@
       "name": "絶望に抗う賭け",
       "nameCn": "反抗绝望的赌博",
       "airdate": "2016-08-21",
-      "watchStatus": 0,
+      "watchStatus": 2,
       "durationSeconds": 1465,
-      "watchedAt": 0
+      "watchedAt": 1786502887
     },
     {
       "id": 626053,
@@ -296,9 +296,9 @@
       "name": "怠惰一閃",
       "nameCn": "怠惰一闪",
       "airdate": "2016-08-28",
-      "watchStatus": 0,
+      "watchStatus": 2,
       "durationSeconds": 1465,
-      "watchedAt": 0
+      "watchedAt": 1786512944
     },
     {
       "id": 626054,
@@ -308,9 +308,9 @@
       "name": "悪辣なる怠惰",
       "nameCn": "恶毒的怠惰",
       "airdate": "2016-09-04",
-      "watchStatus": 0,
+      "watchStatus": 2,
       "durationSeconds": 1465,
-      "watchedAt": 0
+      "watchedAt": 1786518520
     },
     {
       "id": 626055,
