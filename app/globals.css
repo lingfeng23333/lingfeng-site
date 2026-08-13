@@ -78,6 +78,10 @@ body {
   animation: bgfade 1.4s ease;
 }
 
+.bg-kenburns {
+  animation: kenburns 28s ease-in-out infinite alternate;
+}
+
 @keyframes bgfade {
   from {
     opacity: 0;
@@ -85,4 +89,26 @@ body {
   to {
     opacity: 1;
   }
+}
+
+@keyframes kenburns {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.1);
+  }
+}
+
+.reveal {
+  opacity: 0;
+  transform: translateY(18px);
+  transition:
+    opacity 0.7s ease,
+    transform 0.7s ease;
+}
+
+.reveal-visible {
+  opacity: 1;
+  transform: none;
 }

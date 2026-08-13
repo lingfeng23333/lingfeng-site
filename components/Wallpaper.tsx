@@ -71,7 +71,7 @@ export default function Wallpaper() {
             unoptimized
             onError={handleError}
             onLoad={handleLoad}
-            className="object-cover"
+            className="bg-kenburns object-cover"
           />
         </div>
       ) : null}
@@ -84,6 +84,13 @@ export default function Wallpaper() {
           {bg.credit}
         </p>
       ) : null}
+      <button
+        type="button"
+        onClick={load}
+        className="fixed bottom-3 left-4 z-30 rounded-full border border-white/40 bg-white/70 px-3 py-1 text-xs text-ink-700 shadow-sm backdrop-blur transition hover:border-accent-500/50 hover:text-accent-600"
+      >
+        换壁纸
+      </button>
     </>
   );
 }
