@@ -13,9 +13,11 @@ export default function Wallpaper() {
   const portraitRetry = useRef(false);
   const errorRetry = useRef(false);
 
-  const load = useCallback(async () => {
+  const load = useCallback(async (force = false) => {
     try {
-      const r = await fetch(`/api/wallpaper?t=${Date.now()}`);
+      const r = await fetch(
+        `/api/wallpaper?t=${Date.now()}${force ? "&refresh=1" : ""}`,
+      );
       if (r.ok) setBg((await r.json()) as WallpaperPayload);
     } catch {
       // 保持当前背景即可
@@ -29,7 +31,7 @@ export default function Wallpaper() {
       // 竖图不适合铺满，换一张（每张最多重试一次，避免死循环）
       if (!portraitRetry.current) {
         portraitRetry.current = true;
-        load();
+        load(true);
       }
     } else {
       portraitRetry.current = false;
@@ -40,7 +42,7 @@ export default function Wallpaper() {
   const handleError = () => {
     if (!errorRetry.current) {
       errorRetry.current = true;
-      load();
+      load(true);
     } else {
       setBg(null);
     }
@@ -48,7 +50,7 @@ export default function Wallpaper() {
 
   useEffect(() => {
     const first = setTimeout(load, 0);
-    const timer = setInterval(load, 30000);
+    const timer = setInterval(load, 300000);
     return () => {
       clearTimeout(first);
       clearInterval(timer);
@@ -77,16 +79,16 @@ export default function Wallpaper() {
       ) : null}
       <div
         aria-hidden
-        className="fixed inset-0 -z-10 bg-gradient-to-b from-white/65 via-white/45 to-white/80 backdrop-blur-[2px]"
+        className="fixed inset-0 -z-10 bg-gradient-to-b from-white/70 via-white/55 to-white/85"
       />
       {bg?.url && bg.credit ? (
-        <p className="fixed bottom-3 right-4 z-30 text-xs text-ink-500">
+        <p className="fixed bottom-3 right-4 z-30 max-w-[45vw] truncate text-xs text-ink-700 drop-shadow-sm">
           {bg.credit}
         </p>
       ) : null}
       <button
         type="button"
-        onClick={load}
+        onClick={() => load(true)}
         className="fixed bottom-3 left-4 z-30 rounded-full border border-white/40 bg-white/70 px-3 py-1 text-xs text-ink-700 shadow-sm backdrop-blur transition hover:border-accent-500/50 hover:text-accent-600"
       >
         换壁纸

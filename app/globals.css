@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import "./fonts/wenkai.css";
 @plugin "@tailwindcss/typography";
 
 @theme {
@@ -100,7 +101,7 @@ body {
   }
 }
 
-.reveal {
+.js .reveal {
   opacity: 0;
   transform: translateY(18px);
   transition:
@@ -108,7 +109,29 @@ body {
     transform 0.7s ease;
 }
 
-.reveal-visible {
+.js .reveal-visible {
   opacity: 1;
   transform: none;
+}
+
+.no-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .js .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+
+  .bg-fade,
+  .bg-kenburns {
+    animation: none;
+  }
 }

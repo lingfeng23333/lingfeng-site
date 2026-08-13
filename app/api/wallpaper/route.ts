@@ -11,6 +11,9 @@ function remember(url: string) {
   if (recentUrls.length > 12) recentUrls.shift();
 }
 
+let cachedWallpaper: { payload: WallpaperResponse; at: number } | null = null;
+const WALLPAPER_CACHE_TTL_MS = 5 * 60 * 1000;
+
 function pickLocalWallpaper(): string | null {
   const dir = path.join(process.cwd(), "public", "wallpapers");
   try {
@@ -24,14 +27,19 @@ function pickLocalWallpaper(): string | null {
   }
 }
 
-interface WallpaperResult {
+interface WallpaperHit {
   url: string;
+  credit: string | null;
+}
+
+interface WallpaperResponse {
+  url: string | null;
   credit: string | null;
 }
 
 async function fetchRemoteWallpaper(
   remoteUrl: string,
-): Promise<WallpaperResult | null> {
+): Promise<WallpaperHit | null> {
   try {
     const res = await fetch(remoteUrl, {
       headers: { Accept: "application/json,image/*" },
@@ -75,7 +83,7 @@ const REMOTE_SOURCES: { build: () => string }[] = [
   },
 ];
 
-async function fetchWallhaven(): Promise<WallpaperResult | null> {
+async function fetchWallhaven(): Promise<WallpaperHit | null> {
   try {
     const res = await fetch(
       `https://wallhaven.cc/api/v1/search?categories=010&purity=100&sorting=random&seed=${Math.floor(Math.random() * 1e6)}&atleast=1920x1080&ratios=landscape`,
@@ -106,7 +114,7 @@ interface PixivItem {
   urls?: { regular?: string };
 }
 
-async function fetchPixivLandscape(): Promise<WallpaperResult | null> {
+async function fetchPixivLandscape(): Promise<WallpaperHit | null> {
   try {
     const url =
       "https://api.lolicon.app/setu/v2?r18=0&num=20&size=regular&tag=" +
@@ -141,17 +149,17 @@ async function fetchPixivLandscape(): Promise<WallpaperResult | null> {
   }
 }
 
-export async function GET() {
+async function resolveWallpaper(): Promise<WallpaperResponse> {
   const envUrl = process.env.WALLPAPER_API;
   if (envUrl) {
     const hit = await fetchRemoteWallpaper(envUrl);
     if (hit && !recentUrls.includes(hit.url)) {
       remember(hit.url);
-      return NextResponse.json(hit);
+      return hit;
     }
   }
 
-  const candidates: Promise<WallpaperResult>[] = [
+  const candidates: Promise<WallpaperHit>[] = [
     fetchPixivLandscape().then((r) =>
       r ? r : Promise.reject(new Error("empty")),
     ),
@@ -181,14 +189,29 @@ export async function GET() {
   try {
     const hit = await Promise.any(deduped);
     remember(hit.url);
-    return NextResponse.json(hit);
+    return hit;
   } catch {
     // 所有远程源都失败时走本地兜底
   }
 
   const local = pickLocalWallpaper();
-  return NextResponse.json({
+  return {
     url: local ? `/wallpapers/${encodeURIComponent(local)}` : null,
     credit: null,
-  });
+  };
+}
+
+export async function GET(request: Request) {
+  const force = new URL(request.url).searchParams.get("refresh") === "1";
+  if (
+    !force &&
+    cachedWallpaper &&
+    Date.now() - cachedWallpaper.at < WALLPAPER_CACHE_TTL_MS
+  ) {
+    return NextResponse.json(cachedWallpaper.payload);
+  }
+
+  const payload = await resolveWallpaper();
+  cachedWallpaper = { payload, at: Date.now() };
+  return NextResponse.json(payload);
 }

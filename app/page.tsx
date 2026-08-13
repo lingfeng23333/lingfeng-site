@@ -2,6 +2,7 @@ import Link from "next/link";
 import PostCard from "@/components/PostCard";
 import QuoteCard from "@/components/QuoteCard";
 import Reveal from "@/components/Reveal";
+import ScrollRow from "@/components/ScrollRow";
 import SubjectCard from "@/components/SubjectCard";
 import CoverImage from "@/components/CoverImage";
 import { getAllPosts } from "@/lib/posts";
@@ -9,7 +10,7 @@ import { getData, getIndex, getSubjectsByType } from "@/lib/data";
 import { getRandomQuote } from "@/lib/quotes";
 import { getResources } from "@/lib/resources";
 import { computeStats, formatDuration } from "@/lib/stats";
-import { formatDateTime } from "@/lib/format";
+import { formatDateTimeShort } from "@/lib/format";
 
 export default function Home() {
   const posts = getAllPosts().slice(0, 4);
@@ -42,7 +43,7 @@ export default function Home() {
             <div className="mt-7 flex flex-wrap gap-3">
               <Link
                 href="/bangumi"
-                className="rounded-full bg-gradient-to-r from-accent-500 to-flare-500 px-6 py-2.5 text-sm font-medium text-white transition hover:opacity-90"
+                className="rounded-full bg-gradient-to-r from-accent-600 via-[#6c7bff] to-flare-500 px-6 py-2.5 text-sm font-medium text-white transition hover:opacity-90"
               >
                 去追番
               </Link>
@@ -75,7 +76,7 @@ export default function Home() {
               </div>
               <div className="flex items-baseline justify-between">
                 <span className="text-sm text-ink-700">看了几集</span>
-                <span className="text-2xl font-bold text-accent-600">
+                <span className="text-2xl font-bold text-ink-900">
                   {week.episodes}
                   <span className="ml-1 text-xs font-normal text-ink-400">
                     集
@@ -84,22 +85,11 @@ export default function Home() {
               </div>
               <div className="flex items-baseline justify-between">
                 <span className="text-sm text-ink-700">看了多久</span>
-                <span className="text-2xl font-bold text-flare-500">
+                <span className="text-2xl font-bold text-ink-900">
                   {formatDuration(week.durationSeconds)}
                 </span>
               </div>
             </div>
-            <div className="mt-5 h-1.5 w-full overflow-hidden rounded-full bg-paper-200">
-              <div
-                className="h-full rounded-full bg-gradient-to-r from-accent-500 to-flare-500"
-                style={{
-                  width: `${stats.totals.episodes > 0 ? Math.min(100, Math.round((week.episodes / Math.max(stats.totals.episodes, 1)) * 100 * 3)) : 0}%`,
-                }}
-              />
-            </div>
-            <p className="mt-2 text-[11px] text-ink-400">
-              本周占累计观看的比例（示意）
-            </p>
           </div>
         </section>
       </Reveal>
@@ -122,7 +112,11 @@ export default function Home() {
               value: formatDuration(stats.totals.durationSeconds),
               unit: "",
             },
-            { label: "最后同步", value: formatDateTime(lastSyncAt), unit: "" },
+            {
+              label: "最后同步",
+              value: formatDateTimeShort(lastSyncAt),
+              unit: "",
+            },
           ].map((item) => (
             <div key={item.label} className="glass rounded-2xl p-4">
               <p className="text-xs text-ink-500">{item.label}</p>
@@ -179,13 +173,17 @@ export default function Home() {
               全部 →
             </Link>
           </div>
-          <div className="mt-4 flex snap-x gap-4 overflow-x-auto pb-2">
+          <ScrollRow>
             {doing.map((subject) => (
-              <div key={subject.id} className="w-40 shrink-0 snap-start">
+              <div
+                key={subject.id}
+                data-scroll-card
+                className="w-40 shrink-0 snap-start"
+              >
                 <SubjectCard subject={subject} />
               </div>
             ))}
-          </div>
+          </ScrollRow>
           <p className="mt-3 text-xs text-ink-400">
             数据来自 {user.nickname} 的 Bangumi 收藏
           </p>

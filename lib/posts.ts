@@ -52,7 +52,13 @@ export function getAllPosts(): Post[] {
     .filter((f) => /\.mdx?$/.test(f))
     .map((f) => readPost(f))
     .filter((p): p is Post => p !== null)
-    .sort((a, b) => b.date.localeCompare(a.date));
+    .sort((a, b) => {
+      const byDate = b.date.localeCompare(a.date);
+      if (byDate !== 0) return byDate;
+      const byEpisode = (b.ep ?? -1) - (a.ep ?? -1);
+      if (byEpisode !== 0) return byEpisode;
+      return a.slug.localeCompare(b.slug);
+    });
 }
 
 export function getPostBySlug(slug: string): Post | null {

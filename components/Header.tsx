@@ -38,7 +38,7 @@ export default function Header() {
               href={item.href}
               className={`rounded-lg px-2.5 py-1.5 text-sm transition ${
                 isActive(item.href)
-                  ? "bg-accent-500/10 text-accent-600"
+                  ? "bg-accent-500/15 font-medium text-accent-700"
                   : "text-ink-700 hover:bg-paper-200 hover:text-ink-900"
               }`}
             >
@@ -56,12 +56,17 @@ export default function Header() {
         >
           <span
             className={`h-0.5 w-4 rounded-full bg-current transition ${
-              open ? "translate-y-1 rotate-45" : ""
+              open ? "translate-y-2 rotate-45" : ""
             }`}
           />
           <span
             className={`h-0.5 w-4 rounded-full bg-current transition ${
-              open ? "-translate-y-1 -rotate-45" : ""
+              open ? "opacity-0" : ""
+            }`}
+          />
+          <span
+            className={`h-0.5 w-4 rounded-full bg-current transition ${
+              open ? "-translate-y-2 -rotate-45" : ""
             }`}
           />
         </button>
@@ -77,7 +82,7 @@ export default function Header() {
                 onClick={() => setOpen(false)}
                 className={`rounded-lg px-3 py-2 text-sm transition ${
                   isActive(item.href)
-                    ? "bg-accent-500/10 font-medium text-accent-600"
+                    ? "bg-accent-500/15 font-medium text-accent-700"
                     : "text-ink-700 hover:bg-paper-200"
                 }`}
               >
