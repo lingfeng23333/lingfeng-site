@@ -9,7 +9,7 @@
   "rating": {
     "score": 7.5,
     "rank": 1022,
-    "total": 24470
+    "total": 24474
   },
   "summary": "　　从便利店回来的路上突然被召唤到异世界的少年，菜月昴。在无可依赖的异世界，无力的少年所唯一拥有的力量……那就是死后便会使时间倒转的“死亡回归”的力量。为了守护重要的人，并取回那些无可替代的时间，少年向绝望抗争，挺身面对残酷的命运。",
   "tags": [
@@ -28,13 +28,13 @@
   ],
   "platform": "TV",
   "nsfw": false,
-  "collectionType": 3,
-  "epStatus": 23,
+  "collectionType": 2,
+  "epStatus": 25,
   "volStatus": 0,
   "rate": 9,
-  "comment": null,
+  "comment": "毫无疑问心目中真正的异世界神番。\r\n感染力太强了，堪称恐怖。无论是绝望，嘶吼，对死亡的恐惧还是愤怒，悲伤都血淋淋的呈现了出来。\r\n剥去所有的魔法、魔兽与王选，只是一个平凡的少年拼尽全力，去拯救自己心爱的少女。非常令人感动。\r\n只是仅此而已的故事。\r\n所以这份跨越生死的救赎令人动容，虽然事情也不会这么简单吧233，总之9分当之无愧",
   "private": false,
-  "updatedAt": "2026-08-12T15:08:40+08:00",
+  "updatedAt": "2026-08-13T10:52:32+08:00",
   "episodes": [
     {
       "id": 621357,
@@ -320,9 +320,9 @@
       "name": "自称騎士と最優の騎士",
       "nameCn": "自称骑士与最优的骑士",
       "airdate": "2016-09-11",
-      "watchStatus": 0,
+      "watchStatus": 2,
       "durationSeconds": 1465,
-      "watchedAt": 0
+      "watchedAt": 1786586754
     },
     {
       "id": 626353,
@@ -332,9 +332,9 @@
       "name": "ただそれだけの物語",
       "nameCn": "仅此而已的故事",
       "airdate": "2016-09-18",
-      "watchStatus": 0,
+      "watchStatus": 2,
       "durationSeconds": 1630,
-      "watchedAt": 0
+      "watchedAt": 1786589006
     }
   ]
 }
