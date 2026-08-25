@@ -1,5 +1,5 @@
 {
-  "lastSyncAt": "2026-08-24T22:14:20.270Z",
+  "lastSyncAt": "2026-08-25T22:14:37.188Z",
   "subjects": [
     {
       "id": 622206,
@@ -10,30 +10,13 @@
       "totalEpisodes": 12,
       "rating": {
         "score": 7.3,
-        "rank": 1565,
-        "total": 3549
+        "rank": 1552,
+        "total": 3569
       },
       "collectionType": 3,
       "epStatus": 8,
       "rate": 7,
       "updatedAt": "2026-08-22T10:01:54+08:00"
-    },
-    {
-      "id": 623854,
-      "name": "女神『異世界転生何になりたいですか』俺「勇者の肋骨で」",
-      "nameCn": "女神“异世界转生想成为什么”我“勇者的肋骨”",
-      "cover": "/covers/623854.jpg",
-      "airDate": "2026-04-07",
-      "totalEpisodes": 12,
-      "rating": {
-        "score": 7.1,
-        "rank": 2249,
-        "total": 4245
-      },
-      "collectionType": 3,
-      "epStatus": 9,
-      "rate": 0,
-      "updatedAt": "2026-08-14T18:44:26+08:00"
     },
     {
       "id": 27364,
@@ -45,7 +28,7 @@
       "rating": {
         "score": 8.2,
         "rank": 152,
-        "total": 33216
+        "total": 33220
       },
       "collectionType": 3,
       "epStatus": 4,
@@ -61,8 +44,8 @@
       "totalEpisodes": 4,
       "rating": {
         "score": 6.9,
-        "rank": 3182,
-        "total": 2896
+        "rank": 3183,
+        "total": 2897
       },
       "collectionType": 3,
       "epStatus": 2,
@@ -78,8 +61,8 @@
       "totalEpisodes": 16,
       "rating": {
         "score": 6.3,
-        "rank": 6617,
-        "total": 20355
+        "rank": 6619,
+        "total": 20363
       },
       "collectionType": 3,
       "epStatus": 0,
@@ -96,7 +79,7 @@
       "rating": {
         "score": 7.8,
         "rank": 383,
-        "total": 15936
+        "total": 15941
       },
       "collectionType": 3,
       "epStatus": 2,
@@ -112,8 +95,8 @@
       "totalEpisodes": 12,
       "rating": {
         "score": 8,
-        "rank": 264,
-        "total": 28132
+        "rank": 263,
+        "total": 28139
       },
       "collectionType": 3,
       "epStatus": 2,
@@ -129,8 +112,8 @@
       "totalEpisodes": 25,
       "rating": {
         "score": 6.3,
-        "rank": 6359,
-        "total": 5530
+        "rank": 6352,
+        "total": 5535
       },
       "collectionType": 3,
       "epStatus": 7,
@@ -146,8 +129,8 @@
       "totalEpisodes": 12,
       "rating": {
         "score": 7.4,
-        "rank": 1055,
-        "total": 11596
+        "rank": 1054,
+        "total": 11603
       },
       "collectionType": 3,
       "epStatus": 0,
@@ -163,8 +146,8 @@
       "totalEpisodes": 13,
       "rating": {
         "score": 6.6,
-        "rank": 4746,
-        "total": 7905
+        "rank": 4745,
+        "total": 7908
       },
       "collectionType": 3,
       "epStatus": 3,
@@ -181,7 +164,7 @@
       "rating": {
         "score": 8.4,
         "rank": 56,
-        "total": 25017
+        "total": 25010
       },
       "collectionType": 3,
       "epStatus": 1,
@@ -197,13 +180,30 @@
       "totalEpisodes": 35,
       "rating": {
         "score": 7.4,
-        "rank": 1234,
-        "total": 11093
+        "rank": 1235,
+        "total": 11100
       },
       "collectionType": 3,
       "epStatus": 3,
       "rate": 7,
       "updatedAt": "2025-03-06T00:18:26+08:00"
+    },
+    {
+      "id": 623854,
+      "name": "女神『異世界転生何になりたいですか』俺「勇者の肋骨で」",
+      "nameCn": "女神“异世界转生想成为什么”我“勇者的肋骨”",
+      "cover": "/covers/623854.jpg",
+      "airDate": "2026-04-07",
+      "totalEpisodes": 12,
+      "rating": {
+        "score": 7.1,
+        "rank": 2248,
+        "total": 4259
+      },
+      "collectionType": 2,
+      "epStatus": 12,
+      "rate": 8,
+      "updatedAt": "2026-08-25T15:14:46+08:00"
     },
     {
       "id": 140001,
@@ -214,8 +214,8 @@
       "totalEpisodes": 26,
       "rating": {
         "score": 7.5,
-        "rank": 1028,
-        "total": 24577
+        "rank": 1029,
+        "total": 24587
       },
       "collectionType": 2,
       "epStatus": 25,
@@ -232,7 +232,7 @@
       "rating": {
         "score": 7.1,
         "rank": 2306,
-        "total": 11512
+        "total": 11515
       },
       "collectionType": 2,
       "epStatus": 20,
@@ -248,8 +248,8 @@
       "totalEpisodes": 10,
       "rating": {
         "score": 7.7,
-        "rank": 557,
-        "total": 23554
+        "rank": 555,
+        "total": 23561
       },
       "collectionType": 2,
       "epStatus": 10,
@@ -265,8 +265,8 @@
       "totalEpisodes": 23,
       "rating": {
         "score": 6.5,
-        "rank": 5247,
-        "total": 17361
+        "rank": 5248,
+        "total": 17366
       },
       "collectionType": 2,
       "epStatus": 22,
@@ -282,8 +282,8 @@
       "totalEpisodes": 28,
       "rating": {
         "score": 8,
-        "rank": 221,
-        "total": 20143
+        "rank": 222,
+        "total": 20152
       },
       "collectionType": 2,
       "epStatus": 28,
@@ -300,7 +300,7 @@
       "rating": {
         "score": 8.3,
         "rank": 104,
-        "total": 30748
+        "total": 30756
       },
       "collectionType": 2,
       "epStatus": 14,
@@ -316,8 +316,8 @@
       "totalEpisodes": 12,
       "rating": {
         "score": 7.5,
-        "rank": 818,
-        "total": 27348
+        "rank": 819,
+        "total": 27354
       },
       "collectionType": 2,
       "epStatus": 0,
@@ -333,8 +333,8 @@
       "totalEpisodes": 12,
       "rating": {
         "score": 7.4,
-        "rank": 1042,
-        "total": 7098
+        "rank": 1041,
+        "total": 7104
       },
       "collectionType": 2,
       "epStatus": 9,
@@ -350,8 +350,8 @@
       "totalEpisodes": 22,
       "rating": {
         "score": 8,
-        "rank": 242,
-        "total": 23589
+        "rank": 243,
+        "total": 23594
       },
       "collectionType": 2,
       "epStatus": 0,
@@ -368,7 +368,7 @@
       "rating": {
         "score": 7.9,
         "rank": 273,
-        "total": 31622
+        "total": 31633
       },
       "collectionType": 2,
       "epStatus": 13,
@@ -385,7 +385,7 @@
       "rating": {
         "score": 7.3,
         "rank": 1446,
-        "total": 10758
+        "total": 10766
       },
       "collectionType": 2,
       "epStatus": 12,
@@ -402,7 +402,7 @@
       "rating": {
         "score": 7.4,
         "rank": 1051,
-        "total": 16009
+        "total": 16021
       },
       "collectionType": 1,
       "epStatus": 0,
@@ -418,8 +418,8 @@
       "totalEpisodes": 13,
       "rating": {
         "score": 7,
-        "rank": 2760,
-        "total": 8554
+        "rank": 2761,
+        "total": 8557
       },
       "collectionType": 1,
       "epStatus": 0,
@@ -436,7 +436,7 @@
       "rating": {
         "score": 8.2,
         "rank": 146,
-        "total": 9129
+        "total": 9133
       },
       "collectionType": 1,
       "epStatus": 0,
@@ -453,7 +453,7 @@
       "rating": {
         "score": 8.4,
         "rank": 61,
-        "total": 25049
+        "total": 25052
       },
       "collectionType": 1,
       "epStatus": 0,
@@ -470,7 +470,7 @@
       "rating": {
         "score": 8.7,
         "rank": 15,
-        "total": 24566
+        "total": 24572
       },
       "collectionType": 1,
       "epStatus": 0,
@@ -486,8 +486,8 @@
       "totalEpisodes": 26,
       "rating": {
         "score": 8,
-        "rank": 248,
-        "total": 27842
+        "rank": 250,
+        "total": 27851
       },
       "collectionType": 1,
       "epStatus": 0,
@@ -504,7 +504,7 @@
       "rating": {
         "score": 7.9,
         "rank": 327,
-        "total": 18325
+        "total": 18333
       },
       "collectionType": 1,
       "epStatus": 0,
@@ -521,7 +521,7 @@
       "rating": {
         "score": 7.7,
         "rank": 542,
-        "total": 19262
+        "total": 19269
       },
       "collectionType": 1,
       "epStatus": 0,
@@ -537,8 +537,8 @@
       "totalEpisodes": 13,
       "rating": {
         "score": 6.7,
-        "rank": 4248,
-        "total": 15777
+        "rank": 4247,
+        "total": 15780
       },
       "collectionType": 1,
       "epStatus": 0,
@@ -554,8 +554,8 @@
       "totalEpisodes": 12,
       "rating": {
         "score": 7.1,
-        "rank": 2227,
-        "total": 2439
+        "rank": 2233,
+        "total": 2443
       },
       "collectionType": 1,
       "epStatus": 0,
@@ -571,8 +571,8 @@
       "totalEpisodes": 25,
       "rating": {
         "score": 7.1,
-        "rank": 2051,
-        "total": 8577
+        "rank": 2052,
+        "total": 8603
       },
       "collectionType": 1,
       "epStatus": 0,
@@ -588,8 +588,8 @@
       "totalEpisodes": 13,
       "rating": {
         "score": 7,
-        "rank": 2533,
-        "total": 12825
+        "rank": 2534,
+        "total": 12829
       },
       "collectionType": 1,
       "epStatus": 0,
@@ -605,8 +605,8 @@
       "totalEpisodes": 14,
       "rating": {
         "score": 7.6,
-        "rank": 784,
-        "total": 22521
+        "rank": 783,
+        "total": 22532
       },
       "collectionType": 1,
       "epStatus": 0,
