@@ -1,5 +1,5 @@
 {
-  "lastSyncAt": "2026-10-06T01:58:50.402Z",
+  "lastSyncAt": "2026-10-07T01:06:07.260Z",
   "subjects": [
     {
       "id": 622288,
@@ -10,8 +10,8 @@
       "totalEpisodes": 12,
       "rating": {
         "score": 7,
-        "rank": 2429,
-        "total": 957
+        "rank": 2512,
+        "total": 1035
       },
       "collectionType": 3,
       "epStatus": 1,
@@ -28,7 +28,7 @@
       "rating": {
         "score": 7.7,
         "rank": 537,
-        "total": 19541
+        "total": 19550
       },
       "collectionType": 3,
       "epStatus": 7,
@@ -43,9 +43,9 @@
       "airDate": "2012-04-22",
       "totalEpisodes": 26,
       "rating": {
-        "score": 8.2,
+        "score": 8.1,
         "rank": 152,
-        "total": 33527
+        "total": 33528
       },
       "collectionType": 3,
       "epStatus": 4,
@@ -61,8 +61,8 @@
       "totalEpisodes": 4,
       "rating": {
         "score": 6.9,
-        "rank": 3170,
-        "total": 2930
+        "rank": 3161,
+        "total": 2932
       },
       "collectionType": 3,
       "epStatus": 2,
@@ -78,8 +78,8 @@
       "totalEpisodes": 16,
       "rating": {
         "score": 6.3,
-        "rank": 6642,
-        "total": 20608
+        "rank": 6645,
+        "total": 20606
       },
       "collectionType": 3,
       "epStatus": 0,
@@ -96,7 +96,7 @@
       "rating": {
         "score": 7.8,
         "rank": 384,
-        "total": 16176
+        "total": 16185
       },
       "collectionType": 3,
       "epStatus": 2,
@@ -113,7 +113,7 @@
       "rating": {
         "score": 8,
         "rank": 265,
-        "total": 28590
+        "total": 28603
       },
       "collectionType": 3,
       "epStatus": 2,
@@ -130,7 +130,7 @@
       "rating": {
         "score": 6.3,
         "rank": 6350,
-        "total": 5619
+        "total": 5620
       },
       "collectionType": 3,
       "epStatus": 7,
@@ -146,8 +146,8 @@
       "totalEpisodes": 12,
       "rating": {
         "score": 7.4,
-        "rank": 1056,
-        "total": 11863
+        "rank": 1053,
+        "total": 11881
       },
       "collectionType": 3,
       "epStatus": 0,
@@ -163,8 +163,8 @@
       "totalEpisodes": 13,
       "rating": {
         "score": 6.6,
-        "rank": 4761,
-        "total": 7985
+        "rank": 4763,
+        "total": 7986
       },
       "collectionType": 3,
       "epStatus": 3,
@@ -180,8 +180,8 @@
       "totalEpisodes": 27,
       "rating": {
         "score": 8.4,
-        "rank": 55,
-        "total": 25309
+        "rank": 56,
+        "total": 25301
       },
       "collectionType": 3,
       "epStatus": 1,
@@ -197,8 +197,8 @@
       "totalEpisodes": 35,
       "rating": {
         "score": 7.4,
-        "rank": 1242,
-        "total": 11300
+        "rank": 1243,
+        "total": 11284
       },
       "collectionType": 3,
       "epStatus": 3,
@@ -214,8 +214,8 @@
       "totalEpisodes": 13,
       "rating": {
         "score": 7.5,
-        "rank": 894,
-        "total": 7903
+        "rank": 886,
+        "total": 8059
       },
       "collectionType": 2,
       "epStatus": 12,
@@ -231,8 +231,8 @@
       "totalEpisodes": 12,
       "rating": {
         "score": 7.1,
-        "rank": 2300,
-        "total": 4527
+        "rank": 2304,
+        "total": 4530
       },
       "collectionType": 2,
       "epStatus": 12,
@@ -248,8 +248,8 @@
       "totalEpisodes": 26,
       "rating": {
         "score": 7.5,
-        "rank": 1014,
-        "total": 24984
+        "rank": 1012,
+        "total": 24991
       },
       "collectionType": 2,
       "epStatus": 25,
@@ -265,8 +265,8 @@
       "totalEpisodes": 20,
       "rating": {
         "score": 7.1,
-        "rank": 2305,
-        "total": 11653
+        "rank": 2301,
+        "total": 11661
       },
       "collectionType": 2,
       "epStatus": 20,
@@ -282,8 +282,8 @@
       "totalEpisodes": 10,
       "rating": {
         "score": 7.7,
-        "rank": 548,
-        "total": 23893
+        "rank": 549,
+        "total": 23915
       },
       "collectionType": 2,
       "epStatus": 10,
@@ -299,8 +299,8 @@
       "totalEpisodes": 23,
       "rating": {
         "score": 6.5,
-        "rank": 5245,
-        "total": 17520
+        "rank": 5248,
+        "total": 17527
       },
       "collectionType": 2,
       "epStatus": 22,
@@ -316,8 +316,8 @@
       "totalEpisodes": 28,
       "rating": {
         "score": 8,
-        "rank": 224,
-        "total": 20346
+        "rank": 223,
+        "total": 20363
       },
       "collectionType": 2,
       "epStatus": 28,
@@ -333,8 +333,8 @@
       "totalEpisodes": 14,
       "rating": {
         "score": 8.3,
-        "rank": 102,
-        "total": 31108
+        "rank": 103,
+        "total": 31117
       },
       "collectionType": 2,
       "epStatus": 14,
@@ -351,7 +351,7 @@
       "rating": {
         "score": 7.5,
         "rank": 820,
-        "total": 27596
+        "total": 27588
       },
       "collectionType": 2,
       "epStatus": 0,
@@ -367,8 +367,8 @@
       "totalEpisodes": 12,
       "rating": {
         "score": 7.4,
-        "rank": 1043,
-        "total": 7258
+        "rank": 1051,
+        "total": 7267
       },
       "collectionType": 2,
       "epStatus": 9,
@@ -385,7 +385,7 @@
       "rating": {
         "score": 8,
         "rank": 247,
-        "total": 23834
+        "total": 23855
       },
       "collectionType": 2,
       "epStatus": 0,
@@ -419,7 +419,7 @@
       "rating": {
         "score": 7.3,
         "rank": 1447,
-        "total": 10969
+        "total": 10979
       },
       "collectionType": 2,
       "epStatus": 12,
@@ -435,8 +435,8 @@
       "totalEpisodes": 13,
       "rating": {
         "score": 7.4,
-        "rank": 1051,
-        "total": 16379
+        "rank": 1048,
+        "total": 16367
       },
       "collectionType": 1,
       "epStatus": 0,
@@ -452,8 +452,8 @@
       "totalEpisodes": 13,
       "rating": {
         "score": 7,
-        "rank": 2751,
-        "total": 8659
+        "rank": 2749,
+        "total": 8666
       },
       "collectionType": 1,
       "epStatus": 0,
@@ -470,7 +470,7 @@
       "rating": {
         "score": 8.2,
         "rank": 147,
-        "total": 9281
+        "total": 9275
       },
       "collectionType": 1,
       "epStatus": 0,
@@ -487,7 +487,7 @@
       "rating": {
         "score": 8.4,
         "rank": 61,
-        "total": 25314
+        "total": 25306
       },
       "collectionType": 1,
       "epStatus": 0,
@@ -504,7 +504,7 @@
       "rating": {
         "score": 8.7,
         "rank": 15,
-        "total": 24836
+        "total": 24807
       },
       "collectionType": 1,
       "epStatus": 0,
@@ -521,7 +521,7 @@
       "rating": {
         "score": 8,
         "rank": 253,
-        "total": 28139
+        "total": 28123
       },
       "collectionType": 1,
       "epStatus": 0,
@@ -538,7 +538,7 @@
       "rating": {
         "score": 7.9,
         "rank": 327,
-        "total": 18652
+        "total": 18655
       },
       "collectionType": 1,
       "epStatus": 0,
@@ -554,8 +554,8 @@
       "totalEpisodes": 13,
       "rating": {
         "score": 6.7,
-        "rank": 4218,
-        "total": 15966
+        "rank": 4219,
+        "total": 15975
       },
       "collectionType": 1,
       "epStatus": 0,
@@ -571,8 +571,8 @@
       "totalEpisodes": 12,
       "rating": {
         "score": 7.1,
-        "rank": 2261,
-        "total": 2614
+        "rank": 2264,
+        "total": 2621
       },
       "collectionType": 1,
       "epStatus": 0,
@@ -588,8 +588,8 @@
       "totalEpisodes": 25,
       "rating": {
         "score": 7.1,
-        "rank": 2062,
-        "total": 9152
+        "rank": 2057,
+        "total": 9179
       },
       "collectionType": 1,
       "epStatus": 0,
@@ -606,7 +606,7 @@
       "rating": {
         "score": 7,
         "rank": 2535,
-        "total": 12980
+        "total": 12990
       },
       "collectionType": 1,
       "epStatus": 0,
@@ -623,7 +623,7 @@
       "rating": {
         "score": 7.6,
         "rank": 774,
-        "total": 22788
+        "total": 22789
       },
       "collectionType": 1,
       "epStatus": 0,
