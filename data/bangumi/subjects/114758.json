@@ -8,8 +8,8 @@
   "totalEpisodes": 13,
   "rating": {
     "score": 7,
-    "rank": 2750,
-    "total": 8675
+    "rank": 2749,
+    "total": 8678
   },
   "summary": "",
   "tags": [
@@ -28,13 +28,13 @@
   ],
   "platform": "TV",
   "nsfw": false,
-  "collectionType": 1,
-  "epStatus": 0,
+  "collectionType": 3,
+  "epStatus": 1,
   "volStatus": 0,
-  "rate": 0,
+  "rate": 8,
   "comment": null,
   "private": false,
-  "updatedAt": "2026-08-04T11:38:03+08:00",
+  "updatedAt": "2026-10-09T00:16:34+08:00",
   "episodes": [
     {
       "id": 512842,
@@ -44,9 +44,9 @@
       "name": "コレカラ/キヅイテ",
       "nameCn": "从此以后/快点发现",
       "airdate": "2015-04-10",
-      "watchStatus": 0,
+      "watchStatus": 2,
       "durationSeconds": 1470,
-      "watchedAt": 0
+      "watchedAt": 1791476194
     },
     {
       "id": 512843,
