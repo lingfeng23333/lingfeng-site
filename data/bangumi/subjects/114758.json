@@ -9,7 +9,7 @@
   "rating": {
     "score": 7,
     "rank": 2748,
-    "total": 8688
+    "total": 8694
   },
   "summary": "",
   "tags": [
@@ -29,12 +29,12 @@
   "platform": "TV",
   "nsfw": false,
   "collectionType": 3,
-  "epStatus": 1,
+  "epStatus": 4,
   "volStatus": 0,
   "rate": 8,
   "comment": null,
   "private": false,
-  "updatedAt": "2026-10-09T00:16:34+08:00",
+  "updatedAt": "2026-10-11T22:51:03+08:00",
   "episodes": [
     {
       "id": 512842,
@@ -56,9 +56,9 @@
       "name": "インネン/ショウブ",
       "nameCn": "命中注定/一决胜负",
       "airdate": "2015-04-17",
-      "watchStatus": 0,
+      "watchStatus": 2,
       "durationSeconds": 1452,
-      "watchedAt": 0
+      "watchedAt": 1791689986
     },
     {
       "id": 512844,
@@ -68,9 +68,9 @@
       "name": "ヒツヨウ",
       "nameCn": "必要存在",
       "airdate": "2015-04-24",
-      "watchStatus": 0,
+      "watchStatus": 2,
       "durationSeconds": 1470,
-      "watchedAt": 0
+      "watchedAt": 1791727634
     },
     {
       "id": 512845,
@@ -80,9 +80,9 @@
       "name": "ハハオヤ",
       "nameCn": "母亲",
       "airdate": "2015-05-01",
-      "watchStatus": 0,
+      "watchStatus": 2,
       "durationSeconds": 1470,
-      "watchedAt": 0
+      "watchedAt": 1791730263
     },
     {
       "id": 512846,
