@@ -9,7 +9,7 @@
   "rating": {
     "score": 7,
     "rank": 2748,
-    "total": 8708
+    "total": 8711
   },
   "summary": "",
   "tags": [
@@ -29,12 +29,12 @@
   "platform": "TV",
   "nsfw": false,
   "collectionType": 3,
-  "epStatus": 4,
+  "epStatus": 6,
   "volStatus": 0,
   "rate": 8,
   "comment": null,
   "private": false,
-  "updatedAt": "2026-10-11T22:51:03+08:00",
+  "updatedAt": "2026-10-18T22:38:30+08:00",
   "episodes": [
     {
       "id": 512842,
@@ -92,9 +92,9 @@
       "name": "オシエテ/ラクサマ",
       "nameCn": "教教我吧/乐大人",
       "airdate": "2015-05-08",
-      "watchStatus": 0,
+      "watchStatus": 2,
       "durationSeconds": 1452,
-      "watchedAt": 0
+      "watchedAt": 1792305941
     },
     {
       "id": 512847,
@@ -104,9 +104,9 @@
       "name": "オイシイ",
       "nameCn": "美味",
       "airdate": "2015-05-15",
-      "watchStatus": 0,
+      "watchStatus": 2,
       "durationSeconds": 1470,
-      "watchedAt": 0
+      "watchedAt": 1792334310
     },
     {
       "id": 512848,
