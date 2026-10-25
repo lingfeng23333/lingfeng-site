@@ -8,8 +8,8 @@
   "totalEpisodes": 13,
   "rating": {
     "score": 7,
-    "rank": 2760,
-    "total": 8726
+    "rank": 2759,
+    "total": 8728
   },
   "summary": "",
   "tags": [
@@ -29,12 +29,12 @@
   "platform": "TV",
   "nsfw": false,
   "collectionType": 3,
-  "epStatus": 6,
+  "epStatus": 7,
   "volStatus": 0,
   "rate": 8,
   "comment": null,
   "private": false,
-  "updatedAt": "2026-10-18T22:38:30+08:00",
+  "updatedAt": "2026-10-25T22:43:20+08:00",
   "episodes": [
     {
       "id": 512842,
@@ -116,9 +116,9 @@
       "name": "イモウト",
       "nameCn": "妹妹",
       "airdate": "2015-05-22",
-      "watchStatus": 0,
+      "watchStatus": 2,
       "durationSeconds": 1451,
-      "watchedAt": 0
+      "watchedAt": 1792939400
     },
     {
       "id": 512849,
