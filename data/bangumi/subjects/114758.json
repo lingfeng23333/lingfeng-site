@@ -9,7 +9,7 @@
   "rating": {
     "score": 7,
     "rank": 2761,
-    "total": 8741
+    "total": 8743
   },
   "summary": "",
   "tags": [
@@ -29,12 +29,12 @@
   "platform": "TV",
   "nsfw": false,
   "collectionType": 3,
-  "epStatus": 7,
+  "epStatus": 8,
   "volStatus": 0,
   "rate": 8,
   "comment": null,
   "private": false,
-  "updatedAt": "2026-10-25T22:43:20+08:00",
+  "updatedAt": "2026-11-01T21:12:58+08:00",
   "episodes": [
     {
       "id": 512842,
@@ -128,9 +128,9 @@
       "name": "マジカルパティシエ小咲ちゃん!!/ハタラケ",
       "nameCn": "魔法糕点师小咲!!/工作",
       "airdate": "2015-05-29",
-      "watchStatus": 0,
+      "watchStatus": 2,
       "durationSeconds": 1469,
-      "watchedAt": 0
+      "watchedAt": 1793538778
     },
     {
       "id": 512850,
