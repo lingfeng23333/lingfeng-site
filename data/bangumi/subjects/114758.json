@@ -9,7 +9,7 @@
   "rating": {
     "score": 7,
     "rank": 2761,
-    "total": 8751
+    "total": 8755
   },
   "summary": "",
   "tags": [
@@ -29,12 +29,12 @@
   "platform": "TV",
   "nsfw": false,
   "collectionType": 3,
-  "epStatus": 8,
+  "epStatus": 9,
   "volStatus": 0,
   "rate": 8,
   "comment": null,
   "private": false,
-  "updatedAt": "2026-11-01T21:12:58+08:00",
+  "updatedAt": "2026-11-09T23:21:11+08:00",
   "episodes": [
     {
       "id": 512842,
@@ -140,9 +140,9 @@
       "name": "オソウジ／ オミマウ",
       "nameCn": "打扫／探病",
       "airdate": "2015-06-05",
-      "watchStatus": 0,
+      "watchStatus": 2,
       "durationSeconds": 1450,
-      "watchedAt": 0
+      "watchedAt": 1794237671
     },
     {
       "id": 512851,
