@@ -9,7 +9,7 @@
   "rating": {
     "score": 7,
     "rank": 2763,
-    "total": 8763
+    "total": 8768
   },
   "summary": "",
   "tags": [
@@ -29,12 +29,12 @@
   "platform": "TV",
   "nsfw": false,
   "collectionType": 3,
-  "epStatus": 9,
+  "epStatus": 10,
   "volStatus": 0,
   "rate": 8,
   "comment": null,
   "private": false,
-  "updatedAt": "2026-11-09T23:21:11+08:00",
+  "updatedAt": "2026-11-13T21:02:18+08:00",
   "episodes": [
     {
       "id": 512842,
@@ -152,9 +152,9 @@
       "name": "オウエン",
       "nameCn": "支持",
       "airdate": "2015-06-12",
-      "watchStatus": 0,
+      "watchStatus": 2,
       "durationSeconds": 1450,
-      "watchedAt": 0
+      "watchedAt": 1794574938
     },
     {
       "id": 512852,
