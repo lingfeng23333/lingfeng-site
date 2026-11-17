@@ -8,8 +8,8 @@
   "totalEpisodes": 13,
   "rating": {
     "score": 7,
-    "rank": 2764,
-    "total": 8774
+    "rank": 2763,
+    "total": 8781
   },
   "summary": "",
   "tags": [
@@ -29,12 +29,12 @@
   "platform": "TV",
   "nsfw": false,
   "collectionType": 3,
-  "epStatus": 10,
+  "epStatus": 11,
   "volStatus": 0,
   "rate": 8,
   "comment": null,
   "private": false,
-  "updatedAt": "2026-11-13T21:02:18+08:00",
+  "updatedAt": "2026-11-17T00:47:31+08:00",
   "episodes": [
     {
       "id": 512842,
@@ -164,9 +164,9 @@
       "name": "ヤセタイ／ オハヨウ",
       "nameCn": "想瘦身／ 早安",
       "airdate": "2015-06-19",
-      "watchStatus": 0,
+      "watchStatus": 2,
       "durationSeconds": 1452,
-      "watchedAt": 0
+      "watchedAt": 1794847651
     },
     {
       "id": 512853,
