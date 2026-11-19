@@ -9,7 +9,7 @@
   "rating": {
     "score": 7,
     "rank": 2764,
-    "total": 8785
+    "total": 8786
   },
   "summary": "",
   "tags": [
@@ -28,13 +28,13 @@
   ],
   "platform": "TV",
   "nsfw": false,
-  "collectionType": 3,
-  "epStatus": 11,
+  "collectionType": 2,
+  "epStatus": 12,
   "volStatus": 0,
   "rate": 8,
-  "comment": null,
+  "comment": "始于伪，终于恋！\r\n第二季千棘的戏份好少啊233，差点都成小野寺党了\r\n幸好最后一集拉回了优势，金毛傲娇最棒了...",
   "private": false,
-  "updatedAt": "2026-11-17T00:47:31+08:00",
+  "updatedAt": "2026-11-18T23:32:55+08:00",
   "episodes": [
     {
       "id": 512842,
@@ -176,9 +176,9 @@
       "name": "ソウサク／ オタメシ",
       "nameCn": "寻找／ 尝试",
       "airdate": "2015-06-26",
-      "watchStatus": 0,
+      "watchStatus": 2,
       "durationSeconds": 1452,
-      "watchedAt": 0
+      "watchedAt": 1795015900
     }
   ]
 }
