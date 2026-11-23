@@ -8,7 +8,7 @@
   "totalEpisodes": 4,
   "rating": {
     "score": 6.9,
-    "rank": 3201,
+    "rank": 3204,
     "total": 2978
   },
   "summary": "漫画单行本第14卷推出同捆OVA的限定版（完全预约生产），时长约25分钟，改编自原作漫画第58话《丢失》和第64话《巫女小姐》。\r\n\r\n漫画单行本第16卷预定于2015年2月4日发售，并将推出同捆OVA的限定版（预约生产），时长约25分钟，改编自原作漫画第65话《酒后吐真言》和第71话《兼职》。\r\n\r\n漫画单行本第17卷将于2015年4月3日发售，限定版同捆OAD，动画内容改编自原作第81话“澡堂”。\r\n\r\n漫画单行本第21卷将于2016年1月4日发售，限定版同捆OAD。",
@@ -28,13 +28,13 @@
   ],
   "platform": "OVA",
   "nsfw": false,
-  "collectionType": 3,
-  "epStatus": 2,
+  "collectionType": 2,
+  "epStatus": 4,
   "volStatus": 0,
   "rate": 7,
-  "comment": null,
+  "comment": "好有意思的OVA，福利满满啊...（邪恶的笑容停不下来了wwww",
   "private": false,
-  "updatedAt": "2026-08-05T16:51:07+08:00",
+  "updatedAt": "2026-11-22T13:20:37+08:00",
   "episodes": [
     {
       "id": 400610,
@@ -68,9 +68,9 @@
       "name": "セントウ/サービス",
       "nameCn": "澡堂/福利",
       "airdate": "2015-04-03",
-      "watchStatus": 0,
+      "watchStatus": 2,
       "durationSeconds": 1376,
-      "watchedAt": 0
+      "watchedAt": 1795321328
     },
     {
       "id": 544355,
@@ -80,9 +80,9 @@
       "name": "シンコン/マジカルパティシエ小咲ちゃん!!",
       "nameCn": "新婚/魔法糕点师小咲!!",
       "airdate": "2016-01-04",
-      "watchStatus": 0,
+      "watchStatus": 2,
       "durationSeconds": 1599,
-      "watchedAt": 0
+      "watchedAt": 1795324802
     }
   ]
 }
